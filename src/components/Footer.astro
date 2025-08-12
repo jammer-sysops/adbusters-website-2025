@@ -70,13 +70,13 @@ const socialLinks: SocialLink[] = [
 
       <!-- Links Section - Two Columns -->
       <div>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 text-lg md:text-base">
           <!-- Subscription Links Column -->
           <div class="space-y-3">
             {subscriptionLinks.map((link) => (
               <a
                 href={link.href}
-                class="block text-sm font-bold hover:underline transition-colors"
+                class="block font-bold hover:underline transition-colors"
               >
                 {link.text}
               </a>
@@ -88,7 +88,7 @@ const socialLinks: SocialLink[] = [
             {aboutLinks.map((link) => (
               <a
                 href={link.href}
-                class="block text-sm font-bold hover:underline transition-colors"
+                class="block font-bold hover:underline transition-colors"
               >
                 {link.text}
               </a>
@@ -99,7 +99,7 @@ const socialLinks: SocialLink[] = [
 
       <!-- Social Links -->
       <div>
-        <div class="flex flex-col gap-3">
+        <div class="flex flex-row lg:flex-col gap-3  mt-4 lg:mt-0">
           {socialLinks.map((social) => (
             <a
               href={social.href}
