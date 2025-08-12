@@ -1,0 +1,52 @@
+---
+title: "The tyranny of the straight line"
+publishedOn: 2022-07-05T00:00:00Z
+author: "Chiara Milford"
+featuredImage: "/images/articles/62c4ad602192996921b68c02_bored_in_the_city_600_1.jpg"
+---
+
+‍
+
+It was in the backseat of a white pickup that I learned about the people of the bat. It was 2016. My mother had died the year before, and I was wandering around Mexico alone trying to fill the hole her death had left. Through serendipity and talking to the right people, I met a local anthropologist, Ramón Martinez-Coria, and ended up in his car on the way out of the city of San Cristóbal de las Casas to Zinacantán, a Tzotzil Maya town nestled within the mountains of Chiapas.
+
+‘Zinacantán’ in the Nahuatl language means “land of the bats” and ‘Tztozil’ means “people of the bat.” It’s one of those places where you feel like you could reach out and touch the cheek of a God. The sky speaks in thunder. The mountains would move if you asked them right.  And surely, if you were to breathe out a prayer in smoke, some gods would hear you.
+
+If you look at a map of Zinacantán you’ll see a mess of wiggly lines. Just down the road is the city of San Cristóbal, which is a patchwork jumble of grids laid at odd angles to each other. When Bishop Bartolomé de las Casas arrived in the 16th century, he attempted to resettle the Tzotzil Indians into orderly towns with grid-patterned streets to teach them about God, as if it would be impossible in such disorderly mountain hamlets. As soon as the priest left, the people went back to their mountain “*parajes.” *Just as the crucifix killed the spirit of Christ, the straight lines of the grid-iron city have the ability to kill the spirit of a place.
+
+***
+
+One of the fundamental tenets of geometry is that the shortest way to connect two points is a straight line. The quickest way to get anywhere is to cut a line straight through the middle of a landscape; blow a tunnel through the mountain, cleave a stripe through a forest, connect the banks of a river with a bridge. The straight line is a statement of political authority and the power of man to dominate a landscape. City blocks are laid like tiles on a kitchen floor. There is no differentiation in the standardized blocks for residential space or public space or commercial space. On a street map, it all looks the same.
+
+In the construction of any human settlement, we will often first look for a natural intersection, the confluence of rivers, a crossroads; a natural point from which to recreate our universe. If no point exists, then we create one. The grid layout of early settlements has appeared across the world at different times in history; from Babylon to ancient Athens. The Greeks used Euclidian geometry in their attempt to de-animate the landscape - they worshipped the right angle and the order it brought onto land.
+
+But nowhere is it so prevalent as in the not-so-sacred geography of almost every North American city. They are monumental odes to the straight line. Salt Lake City in Utah is a grid system of perfect squares arranged with the Mormon church at Temple Square at its dead centre. The city’s numbered streets start from there and it marks the border of east and west sides of the city.
+
+There is no logical end-point to a grid-pattern; they’re designed to keep expanding. And expand they did. In 1573, King Phillip II of Spain compiled the Laws of the Indies which guided the construction and administration of colonial communities, specifying a square pattern to any new city planning. Under this tenet, hundreds of grid-plan communities throughout the Americas were established, from Anchorage to Buenos Aires. It was seen as the model of a civilized, rational way of housing humans.
+
+The grid-pattern allowed for the systematic subdivision and allotment of vast swathes of stolen land. A grid maximises the use of land for real estate value, and it’s easier to hold under centralised military control. In order to control a population, the powerful would split up the land and sell it in postage-stamp parcels. The Land Ordinance of 1785 divided the United States into square townships that were further subdivided into standardised lots for re-sale by settlers and land speculators. It reduces the urban to a place of the profane.
+
+***
+
+The pervasiveness of right-angled geometry is so great that it’s hardly ever questioned. Except, perhaps, when a European finds herself in Vancouver for the first time. After six months in Vancouver, my cognitive map is pretty much a straight line along Broadway between the University of British Columbia and East Van, with a few escapades north or south. A gridded city makes it easy to navigate when you’re new somewhere, but it renders detours almost impossible. Rebecca Solnit tells us that there’s another kind of depth achieved in meandering. “You’re not trying to get somewhere else, but to know where you are,” she writes.
+
+The great Romanian philosopher of religious thought, Mircea Eliade, suggests that every human has, “the desire to find oneself always and without effort in the Centre of the World, at the heart of reality.” Perhaps this goes some way to explaining the modern city’s rigid architecture: buildings rise like fingers out of the land, ever-reaching towards the sky; streets arranged at ninety-degree angles push the horizon into the distance; endless crossroads mark each intersection as a new centre of reality. If you’ve ever been to New York, you’ll know how it feels to be in a place that thinks of itself as the centre of the world. Everyone acts like it is, and so it feels like you’re in the most important metropolis on the planet.
+
+Arguably, New York has the most famous street map in the world. But Manhattan’s street-map didn’t always look like a chessboard. In the early 19th century, comic writer Washington Irving described New Yorkers like this:
+
+“Tossed about on hills and dales, through lanes and alleys, crooked streets whisking off at tangents and left-angle-triangles, just like their own queer, odd, topsy-turvy rantipole city, [New Yorkers] are the most irregular, crazy-headed, quicksilver, eccentric, whim-whimsical set of mortals that ever jumbled together in this uneven, villainous revolving globe,”
+
+Philadelphians however, blessed with living in a gridded city, “talk like a book, walk mathematically, never turn but in right angles.”
+
+The 1811 Commissioners’ Plan for New York City, developed by a handful of influential New York men, transformed Manhattan’s ancient hills, dales, swamps, springs, streams, ponds, forests, and meadows, into the most famous cityscape in the world. The island was levelled and forged anew in a gridiron. The surveyor general, a man named Simeon De Witt, believed that such empirical rationalization of the landscape would “discipline the mind” of New York’s settlers. No wonder, I think to myself, while walking through Vancouver’s rectilinear monotony, that I feel like a transplanted organ unwelcome by the host body.
+
+But the orthogonal geometry of a North American street-map is now deeply ingrained in our expectations of how a city should be. Without its fearful symmetry and the guiding post of compass points, we are lost. Any time there’s a blip in the pattern we’re lost. Have we been deprived of our ability to wander aimlessly like the flâneurs of Paris?  The Aboriginals in Australia have song lines across the landscape. The Kogi in Colombia weave the fabric of the universe through their movements. City-dwellers walk in straight lines, so we don’t get lost.
+
+Our globalized world has more straight lines than ever; in its national borders, longitudes and latitudes, streets and rail roads, we see a manifestation of the Cartesian co-ordinate system inscribed on the landscape. Enlightenment freed us from religious tyranny, but now we live in a land management system inspired by the myth of endless growth, productivity, and individualism. If geography determines destiny, our destiny is to trace straight lines ever forwards. The pre-destiny written into our city plans is the fundamental philosophy of *progress*. On a clear day, we can see miles ahead of us. Modern time is linear, our history runs straight from day zero, and our navigation is as the crow flies. Organizing chaos like the gods before us, we need straight lines to feel human.
+
+***
+
+You won’t find a single organic object on this earth that takes the form of a straight line. There are perfect circles, spirals, wonks and wiggles, but nowhere in the natural world will you find two intersecting lines in symmetry. Look at the roots of a tree, woven within a vast underground network in a tangle of arteries, veins and capillaries. In defiance of nature’s squiggles and curves, we claim order through building our realities in straight lines and grids. It is all about control. Humans are born in disorder - the whole point is to bring order to existence. Only through our conscious meddling can the world become manifest.
+
+Where are the sacred points in the most habited places on earth? Maybe we can create small interruptions of the sacred in our profane cities. People are starting to reclaim city space through ‘tactical urbanism.’ They’re re-wobbling the lines with guerrilla gardening, de-paving, chair-bombing. [Parks](https://landezine-award.com/park-instead-of-parking-the-white-flowers-boulevard/) instead of parking. Trampolines [embedded](http://trendingcity.org/sidewalk-trampolines-copenhagen-1) in a sidewalk. Benches in the middle of the road. We can reform the rigid structure of our streets with our own hands. Break the grid-iron mould and make [a city worth living in](https://www.adbusters.org/article/to-make-cities-climate-proof-we-need-to-transform-the-culture-of-proximity).
+
+When Ramón and I returned to San Cristóbal that day, we drank *posh*, a heady liquor distilled from corn, and ambled along the right-angled streets, admiring the life of the town. The patchwork jumble of grids isn’t something you notice at the street level. You’re too distracted by the colours of the clothes that seem unnaturally bright, the way the women’s plaited hair is tied-off onto itself, and the smell of fresh nixtamalized corn tortillas. But if you walk away from the centre, the city gives up and shrugs off its attempt at right-angled organization, turning instead to the wild lazy lines of mountain paths.

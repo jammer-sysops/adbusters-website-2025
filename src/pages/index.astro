@@ -1,10 +1,37 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import Header from '../components/Header';
+import Section from '../components/Section';
+import ArticleGrid from '../components/ArticleGrid';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+// Fetch latest 6 articles for homepage
+const articles = await getCollection('articles');
+
+// Sort articles by published date (newest first) and take first 6
+// Convert dates to strings for React component serialization
+const sortedArticles = articles.sort((a, b) => {
+  const dateA = new Date(a.data.publishedOn || 0);
+  const dateB = new Date(b.data.publishedOn || 0);
+  return dateB.getTime() - dateA.getTime();
+}).slice(0, 6).map(article => ({
+  ...article,
+  data: {
+    ...article.data,
+    publishedOn: article.data.publishedOn ? article.data.publishedOn.toISOString() : undefined
+  }
+}));
 ---
 
 <Layout>
-	<p>hello world</p>
+	<main class="min-h-screen bg-white">
+		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+			<Header client:load />
+			
+			<Section title="Latest Articles" viewAllLink="/articles" viewAllText="View all articles →" client:load>
+				<ArticleGrid articles={sortedArticles} />
+			</Section>
+		</div>
+	</main>
 </Layout>
+

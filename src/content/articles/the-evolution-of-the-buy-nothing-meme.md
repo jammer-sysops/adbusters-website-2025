@@ -1,0 +1,18 @@
+---
+title: "The Evolution of the Buy Nothing Meme"
+publishedOn: 2021-11-01T00:00:00Z
+author: "- Third Force - Adbusters #157"
+featuredImage: "/images/articles/61803181e24439152b0c7b21_buy_nothing_day_600x692_1.jpg"
+---
+
+Nearly three decades ago a neat little idea called Buy Nothing Day was born in Vancouver, BC. Conceived by artist Ted Dave and popularized by your favorite bimonthly, the activist ritual sprang out of the realization that consumption had gotten out of hand — that addiction-forming advertising had polluted our mental environment to the point of breakdown. Endless, mindless dissipation had become endemic, and it was killing not only our wallets but our culture, our souls, our planet. Something had to be done to take back power from corporations, to send the message that the spending public had woken up. Hence the one-day challenge to “participate by not participating.”
+
+A handful of years later the 24-hour purchase-free protest was rescheduled to fall on Black Friday, the all-American consumption blitz. Riding the wave of an early viral campaign, soon the annual shopping moratorium was being observed in over five dozen countries. And then things went from a single date to a whole sea son: Buy Nothing Xmas was brought to bear to on the emptiness and waste of the modern yuletide holiday.
+
+Now the Buy Nothing meme has undergone a further mutation . In over 6,500 Facebook groups representing hyper-local communities across 44 nations , millions now live by its tenets not just once a year but every single day. Among themselves they share tools and utensils, clothing and food, toys and travel mugs, hand-made goods, hand-me-downs and everything in between. Buying, selling, trading and bartering are all strictly forbidden. It’s a network of generosity, a “gift economy” whose members are bidden to “give from [their] own abundance.” Welcome to a cashless, wireless, wasteless world, a version of Buy Nothing for the social-media era.
+
+Covid had no small part to play in its rise. Around the time of the Great Indoor Migration of 2020, Buy Nothing’s Facebook-based offshoot saw a sudden surge in interest. Something about the intimacy of previously handled objects, about the gesture of fulfilling a fellow-resident ’s need for baker’s yeast or toilet paper made it a popular salve for the loneliness and strain of the pandemic season. Amid economic free-fall it also proved to be a refuge for solidarity, a place to foster fellow-felling among those similarly hard-up . For many, it was their very first glimpse of anything to do with Buy Nothing.
+
+From a single day to a season-long tradition to a daily habit — from print posters to the Web to the palm of your hand — Buy Nothing has evolved from a crazy idea to a widely practiced way of life. Here we have a textbook example of what the Third Force can achieve. No leaders, no capital, no outside meddling: with nothing but numbers and the spark of a great idea, it has revolutionized the lives of millions — and potentially the warming world.
+
+After three ever-growing generations of Buy Nothing, what will the fourth look like? Will it dig deeper, move further, learn quicker, adapt faster? Can it be wielded with force against climate change? Wherever it goes, the meme’s future can’t be predicted with linear thinking and pattern-based predictions. Only the spontaneous creative will of the people, with the most powerful tool ever invented nestled in their pockets, can point the way forward. Could Buy Nothing 4.0 even play a part in putting humanity onto a sane sustainable path? We’ve only got so long to find out. It’s time for heads to bump — and for the Third Force to surge into action!

@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adbusters Punk Navbar</title>
+    <style>
+        /* Reset and Namespaced CSS Variables */
+        :root {
+            --ad-black: #000;
+            --ad-red: #ff2121;
+            --ad-white: #f7f7f7;
+            --ad-yellow: #ffff00;
+            
+            /* Theme variables - default to light theme */
+            --ad-navbar-bg:  white;
+            --ad-navbar-text: #121212;
+            --ad-navbar-border: #383838;
+            --ad-navbar-highlight: #121212;
+            --ad-navbar-logo: #383838;
+            --ad-navbar-accent: #383838;
+            --ad-navbar-accent-underline: darkred;
+        }
+
+        body {
+            margin: 0;
+        }
+
+        /* Component-level reset */
+        .adbusters-navbar,
+        .adbusters-navbar *,
+        .adbusters-navbar *::before,
+        .adbusters-navbar *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        /* Encapsulated styles that won't leak or be affected by outside styles */
+        .adbusters-navbar {
+            font-family: 'Courier New', monospace;
+            color: var(--ad-navbar-text);
+            position: relative;
+            background-color: var(--ad-navbar-bg);
+            width: 100%;
+            z-index: 1000;
+        }
+        
+        /* Container for positioning */
+        .adbusters-navbar-container {
+            position: relative;
+        }
+        
+        /* NavBar Main Element */
+        .adbusters-nav {
+            position: relative;
+            background-color: var(--ad-navbar-bg);
+            color: var(--ad-navbar-text);
+            /* box-shadow: 0 4px 12px rgba(87, 87, 87, 0.2); */
+            z-index: 10;
+            font-family: 'Courier New', monospace;
+            padding: 1rem 2rem;
+            margin-bottom: 20px;
+        }
+        
+        /* Border image positioned to overlap */
+        .adbusters-nav::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: -38px; /* Half of 76px */
+            height: 76px;
+            background-image: url('https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/685c4198857af331f4be08b0_thin%20pen%20scribble%20horizontal%20line.jpg');
+            background-repeat: repeat-x;
+            background-size: auto 76px;
+            background-position: center;
+            z-index: 100; /* High z-index to be on top */
+            pointer-events: none; /* Allows clicking through the border */
+            mix-blend-mode: darken;
+        }
+        
+        /* Main flexbox layout */
+        .adbusters-nav-content {
+            display: flex;
+            align-items: center;
+            width: 100%;
+        }
+        
+        /* The three main sections */
+        .adbusters-nav-left {
+            flex: 1;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .adbusters-nav-brand {
+            flex: 0 0 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .adbusters-nav-right {
+            flex: 1;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        /* Logo styling */
+        .adbusters-logo-container {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            text-decoration: none;
+        }
+        
+        .adbusters-logo-text-img {
+            width: 140px;
+            max-width: 100%;
+            height: auto;
+            margin-left: 10px;
+            mix-blend-mode: darken;
+        }
+        
+        .adbusters-logo-img {
+            width: 50px;
+            height: auto;
+            filter: invert(0);
+            transform: rotate(-5deg);
+        }
+        
+        /* Link styling */
+        .adbusters-nav-link {
+            position: relative;
+            color: var(--ad-navbar-text);
+            text-decoration: none;
+            font-size: 1rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 5px 10px;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .adbusters-nav-link::after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 0;
+            left: 0;
+            bottom: -4px;
+            background-image: url('https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/685c471ccef9d47ea68a798d_thick%20red%20handdrawn%20line.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center bottom;
+            transition: height 0.2s ease;
+            z-index: -1;
+        }
+        
+        .adbusters-nav-link:hover {
+            color: var(--ad-navbar-highlight);
+            transform: translateY(-2px) skewX(-3deg);
+        }
+        
+        .adbusters-nav-link:hover::after {
+            height: 16px;
+        }
+        
+        /* Menu toggle button */
+        .adbusters-menu-toggle {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: none;
+            border: none;
+            color: var(--ad-navbar-text);
+            cursor: pointer;
+            padding: 0.5rem;
+            margin-left: 10px;
+            z-index: 15;
+            outline: none;
+            position: relative;
+            transition: transform 0.2s ease;
+        }
+        
+        .adbusters-menu-toggle:hover {
+            transform: scale(1.1);
+        }
+        
+        .adbusters-menu-toggle::after {
+            content: "MENU";
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.65rem;
+            font-weight: bold;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .adbusters-menu-toggle.mobile-toggle::after {
+            content: "CLOSE";
+        }
+        
+        .adbusters-menu-toggle:hover::after {
+            opacity: 1;
+        }
+        
+        .adbusters-menu-icon {
+            width: 32px;
+            height: auto;
+            object-fit: contain;
+        }
+        
+        /* Shake animation for the menu button */
+        @keyframes adbusters-shake {
+            0%, 100% { transform: rotate(0deg); }
+            25% { transform: rotate(-5deg); }
+            50% { transform: rotate(0deg); }
+            75% { transform: rotate(5deg); }
+        }
+        
+        .adbusters-menu-icon.shake {
+            animation: adbusters-shake 0.5s ease;
+        }
+        
+        /* Punk styled links */
+        .adbusters-punk-link {
+            position: relative;
+            overflow: hidden;
+            transform: rotate(-1deg);
+        }
+        
+        .adbusters-punk-text {
+            font-family: 'Impact', 'Arial Black', sans-serif;
+            letter-spacing: 1px;
+            color: var(--ad-navbar-accent);
+            font-weight: bold;
+            text-transform: uppercase;
+            display: inline-block;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+        
+        .adbusters-punk-link::before {
+            content: "";
+            position: absolute;
+            height: 3px;
+            width: 100%;
+            bottom: 0;
+            left: 0;
+            background: repeating-linear-gradient(
+                45deg,
+                var(--ad-navbar-accent),
+                var(--ad-navbar-accent) 3px,
+                transparent 3px,
+                transparent 6px
+            );
+            z-index: -1;
+        }
+        
+        .adbusters-punk-link:hover .adbusters-punk-text {
+            transform: skew(-5deg);
+            color: var(--ad-navbar-highlight);
+        }
+        
+        /* Mobile menu panel */
+        .adbusters-mobile-menu {
+            position: fixed;
+            top: 0;
+            right: -100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            background-color: var(--ad-navbar-bg);
+            width: max-content;
+            min-width: 200px;
+            height: 100vh;
+            padding: 4rem 2rem 2rem;
+            transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), right 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+            z-index: 1001;
+            list-style: none;
+            will-change: transform;
+            transform: translateX(100%);
+        }
+        
+        .adbusters-mobile-menu.active {
+            right: 0;
+            transform: translateX(0);
+        }
+        
+        /* Vertical border for mobile menu */
+        .adbusters-mobile-menu::before {
+            content: '';
+            position: absolute;
+            left: -38px; /* Half of 76px */
+            top: 0;
+            width: 76px;
+            height: 100vh; /* Full viewport height */
+            background-image: url('https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/685c469b77953951b8bb366a_thin%20pen%20scribble%20horizontal%20line%20rotated.jpg');
+            background-repeat: no-repeat;
+            background-size: 76px 100vh; /* Stretch to full height */
+            background-position: center;
+            z-index: 100;
+            pointer-events: none;
+            mix-blend-mode: darken;
+        }
+        
+        .adbusters-mobile-menu li {
+            margin: 1.2rem 0;
+            list-style: none;
+        }
+        
+        /* Special button styling */
+        .adbusters-cta {
+            background-color: var(--ad-navbar-accent);
+            color: var(--ad-navbar-bg);
+            padding: 6px 12px;
+            border: none;
+        }
+        
+        .adbusters-cta:hover {
+            background-color: var(--ad-navbar-highlight);
+            color: var(--ad-navbar-bg);
+        }
+        
+        /* Visibility of nav items */
+        .adbusters-nav-item {
+            display: inline-block;
+        }
+        
+        .adbusters-nav-item.hidden {
+            display: none;
+        }
+
+        .adbusters-menu-container {
+            z-index: 1002;
+            position: relative;
+        }
+        
+        /* Dropdown styles */
+        .adbusters-dropdown,
+        .adbusters-mobile-dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        
+        .adbusters-dropdown-toggle,
+        .adbusters-mobile-dropdown-toggle {
+            position: relative;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        
+        .adbusters-dropdown-menu {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            min-width: 180px;
+            background-color: var(--ad-navbar-bg);
+            padding: 10px 0;
+            display: none;
+            z-index: 1005;
+        }
+        
+        .adbusters-dropdown.active .adbusters-dropdown-menu {
+            display: block;
+        }
+        
+        .adbusters-dropdown-item {
+            padding: 5px 15px;
+            display: block;
+            white-space: nowrap;
+        }
+        
+        /* Mobile dropdown styling */
+        .adbusters-mobile-dropdown {
+            width: 100%;
+            text-align: center;
+        }
+        
+        .adbusters-mobile-dropdown-toggle {
+            width: auto;
+            text-align: center;
+        }
+        
+        .adbusters-mobile-dropdown-menu {
+            display: none;
+            width: 100%;
+            padding: 10px 0;
+            margin: 10px 0;
+            background-color: rgba(0, 0, 0, 0.05);
+        }
+        
+        .adbusters-mobile-dropdown.active .adbusters-mobile-dropdown-menu {
+            display: block;
+        }
+        
+        .adbusters-mobile-dropdown-item {
+            padding: 8px 10px;
+            display: block;
+            text-align: center;
+        }
+        
+        /* Responsive adjustments */
+        @media screen and (max-width: 768px) {
+            .adbusters-nav {
+                padding: 0.8rem 1rem;
+            }
+            
+            .adbusters-nav-content {
+                justify-content: space-between;
+            }
+            
+            .adbusters-nav-left, 
+            .adbusters-nav-right .adbusters-nav-item:not(.adbusters-menu-container) {
+                display: none;
+            }
+            
+            .adbusters-nav-brand {
+                flex: 1;
+                justify-content: flex-start;
+            }
+            
+            .adbusters-logo-text-img {
+                width: 120px;
+            }
+            
+            .adbusters-logo-img {
+                width: 30px;
+            }
+            
+            .adbusters-mobile-menu li a {
+                font-size: 1.2rem;
+            }
+            
+            /* Improve border image quality on mobile */
+            .adbusters-nav::after {
+                height: 40px;
+                bottom: -20px;
+                background-size: auto 35px;
+                transform: scaleY(1.4);
+                transform-origin: top;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="adbusters-navbar">
+        <div class="adbusters-navbar-container">
+
+            <!-- Main navigation bar -->
+            <nav class="adbusters-nav">
+                <div class="adbusters-nav-content">
+                    <!-- Left section with Manifesto and Join The Resistance -->
+                    <div class="adbusters-nav-left">
+                        <div class="adbusters-nav-item" data-priority="1">
+                            <a href="https://subscribe.adbusters.org/products/a-manifesto-for-world-revolution" class="adbusters-nav-link">
+                                Manifesto
+                            </a>
+                        </div>
+                        <div class="adbusters-nav-item" data-priority="2">
+                            <a href="/manifesto" class="adbusters-nav-link">Join Us</a>
+                        </div>
+                        <div class="adbusters-nav-item" data-priority="3">
+                            <a href="/fundraising" class="adbusters-nav-link">Mindbombs</a>
+                        </div>
+                    </div>
+                    
+                    <!-- Logo/Brand Section (Center) -->
+                    <div class="adbusters-nav-brand">
+                        <a href="/" class="adbusters-logo-container">
+                            <img src="https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/654188a0558a5db58bb21bf7_Adbusters_turtle_logo.png" alt="Adbusters logo" class="adbusters-logo-img">
+                            <img src="https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/685c43a937cb00efdff0dba0_adbusters%20name%20thick%20pen%20font.jpg" alt="Adbusters" class="adbusters-logo-text-img">
+                        </a>
+                    </div>
+                    
+                    <!-- Right section with other links and menu button -->
+                    <div class="adbusters-nav-right">
+                        <div class="adbusters-nav-item" data-priority="3">
+                            <a href="/spoof-ads" class="adbusters-nav-link">Jams</a>
+                        </div>
+                        
+                        <!-- Intelligence Dropdown -->
+                        <div class="adbusters-nav-item adbusters-dropdown" data-priority="4">
+                            <a class="adbusters-nav-link adbusters-dropdown-toggle">Socials ▼</a>
+                            <div class="adbusters-dropdown-menu">
+                                <a href="https://substack.com/@adbusters" class="adbusters-nav-link adbusters-dropdown-item">Substack</a>
+                                <a href="https://facebook.com/adbusters" class="adbusters-nav-link adbusters-dropdown-item">Facebook</a>
+                                <a href="https://www.instagram.com/adbusters.magazine" class="adbusters-nav-link adbusters-dropdown-item">Instagram</a>
+                                <a href="https://twitter.com/adbusters" class="adbusters-nav-link adbusters-dropdown-item">Twitter</a>
+                                <a href="https://subscribe.adbusters.org/" class="adbusters-nav-link adbusters-dropdown-item">Subscribe</a>
+                            </div>
+                        </div>
+                        
+                        <div class="adbusters-nav-item" data-priority="0">
+                            <a href="https://subscribe.adbusters.org/" class="adbusters-nav-link">Culture Shop</a>
+                        </div>
+                        
+                        <!-- Menu Toggle Button (always visible) -->
+                        <div class="adbusters-nav-item adbusters-menu-container">
+                            <button class="adbusters-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="mobile-menu" title="Open Menu">
+                                <img src="https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/685c4b6663b6d0ce3074f5d7_mobile%20menu%20hand%20drawn.jpg" alt="Menu" class="adbusters-menu-icon">
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            
+            <!-- Mobile Menu Panel -->
+            <ul class="adbusters-mobile-menu" id="mobile-menu">
+                <div class="adbusters-nav-item adbusters-menu-container">
+                    <button class="adbusters-menu-toggle mobile-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="mobile-menu" title="Close Menu">
+                        <img src="https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/685c4b6663b6d0ce3074f5d7_mobile%20menu%20hand%20drawn.jpg" alt="Menu" class="adbusters-menu-icon">
+                    </button>
+                </div>
+                <li><a href="https://subscribe.adbusters.org/" class="adbusters-nav-link">Culture Shop</a></li>
+                <li><a href="https://subscribe.adbusters.org/products/a-manifesto-for-world-revolution" class="adbusters-nav-link adbusters-punk-link"><span class="adbusters-punk-text">MANIFESTO</span></a></li>
+                <li><a href="/manifesto" class="adbusters-nav-link adbusters-punk-link"><span class="adbusters-punk-text">Join Us</span></a></li>
+                <li><a href="/spoof-ads" class="adbusters-nav-link">Jams</a></li>
+                
+                <!-- Mobile Intelligence Dropdown -->
+                <li class="adbusters-mobile-dropdown">
+                    <a class="adbusters-nav-link adbusters-mobile-dropdown-toggle">Intelligence ▼</a>
+                    <div class="adbusters-mobile-dropdown-menu">
+                        <a href="https://substack.com/@adbusters" class="adbusters-nav-link adbusters-mobile-dropdown-item">Substack</a>
+                        <a href="https://facebook.com/adbusters" class="adbusters-nav-link adbusters-mobile-dropdown-item">Facebook</a>
+                        <a href="https://www.instagram.com/adbusters.magazine" class="adbusters-nav-link adbusters-mobile-dropdown-item">Instagram</a>
+                        <a href="https://twitter.com/adbusters" class="adbusters-nav-link adbusters-mobile-dropdown-item">Twitter</a>
+                        <a href="https://subscribe.adbusters.org/" class="adbusters-nav-link adbusters-mobile-dropdown-item">Subscribe</a>
+                    </div>
+                </li>
+                
+                <li><a href="/downloads" class="adbusters-nav-link">Tools</a></li>
+                <li><a href="/about-us" class="adbusters-nav-link">About Us</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Cache DOM elements
+        const menuToggles = document.querySelectorAll('.adbusters-menu-toggle');
+        const mobileMenu = document.querySelector('.adbusters-mobile-menu');
+        const dropdowns = document.querySelectorAll('.adbusters-dropdown');
+        const mobileDropdowns = document.querySelectorAll('.adbusters-mobile-dropdown');
+        const menuIcon = document.querySelector('.adbusters-menu-icon');
+        const body = document.body;
+        const navbar = document.querySelector('.adbusters-nav-content');
+        const leftItems = Array.from(document.querySelectorAll('.adbusters-nav-left .adbusters-nav-item'));
+        const rightItems = Array.from(document.querySelectorAll('.adbusters-nav-right .adbusters-nav-item')).filter(
+            item => !item.classList.contains('adbusters-menu-container')
+        );
+
+        // Menu toggle functionality
+        menuToggles.forEach(toggle => {
+            toggle.addEventListener('click', function() {
+                // Use requestAnimationFrame for smoother toggle
+                requestAnimationFrame(() => {
+                    mobileMenu.classList.toggle('active');
+                    body.classList.toggle('menu-open');
+                    
+                    // Update aria attributes for accessibility
+                    const expanded = mobileMenu.classList.contains('active');
+                    this.setAttribute('aria-expanded', expanded);
+                    
+                    // Toggle close button styling
+                    menuToggles.forEach(t => t.classList.toggle('mobile-toggle', expanded));
+                });
+            });
+        });
+
+        // Dropdown functionality
+        function setupDropdowns(dropdownElements, isMobile = false) {
+            const toggleClass = isMobile ? '.adbusters-mobile-dropdown-toggle' : '.adbusters-dropdown-toggle';
+            
+            dropdownElements.forEach(dropdown => {
+                const toggle = dropdown.querySelector(toggleClass);
+                
+                // Click event for all devices
+                toggle.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    
+                    // Close other dropdowns first
+                    dropdownElements.forEach(d => {
+                        if (d !== dropdown) d.classList.remove('active');
+                    });
+                    
+                    // Toggle current dropdown
+                    dropdown.classList.toggle('active');
+                    
+                    // Update toggle text
+                    updateDropdownToggleText(toggle, dropdown.classList.contains('active'));
+                });
+                
+                // Hover events for desktop only
+                if (!isMobile) {
+                    dropdown.addEventListener('mouseenter', function() {
+                        if (window.innerWidth > 768) {
+                            dropdown.classList.add('active');
+                            updateDropdownToggleText(toggle, true);
+                        }
+                    });
+                    
+                    dropdown.addEventListener('mouseleave', function() {
+                        if (window.innerWidth > 768) {
+                            setTimeout(() => {
+                                if (!dropdown.matches(':hover')) {
+                                    dropdown.classList.remove('active');
+                                    updateDropdownToggleText(toggle, false);
+                                }
+                            }, 300);
+                        }
+                    });
+                }
+            });
+        }
+        
+        // Update dropdown toggle text
+        function updateDropdownToggleText(toggle, isActive) {
+            toggle.textContent = isActive ? 'Intelligence ▲' : 'Intelligence ▼';
+        }
+        
+        // Initialize dropdowns
+        setupDropdowns(dropdowns);
+        setupDropdowns(mobileDropdowns, true);
+        
+        // Simplified responsive display function
+        function checkResponsiveDisplay() {
+            if (window.innerWidth <= 768) {
+                // Mobile view - reset all items to default state
+                leftItems.forEach(item => item.classList.remove('hidden'));
+                rightItems.forEach(item => item.classList.remove('hidden'));
+                return;
+            }
+            
+            // Desktop view - reset all items first
+            [...leftItems, ...rightItems].forEach(item => item.classList.remove('hidden'));
+            
+            // Check if navbar is overflowing
+            if (navbar.scrollWidth <= navbar.clientWidth) return;
+            
+            // Create priority-sorted arrays
+            const sortedLeft = [...leftItems].sort((a, b) => 
+                parseInt(a.dataset.priority || 99) - parseInt(b.dataset.priority || 99)
+            );
+            
+            const sortedRight = [...rightItems].sort((a, b) => 
+                parseInt(a.dataset.priority || 99) - parseInt(b.dataset.priority || 99)
+            ).filter(item => parseInt(item.dataset.priority || 99) !== 0);
+            
+            // Create alternating hide sequence
+            const hideSequence = [];
+            const maxLength = Math.max(sortedLeft.length, sortedRight.length);
+            
+            for (let i = 0; i < maxLength; i++) {
+                if (sortedRight[i]) hideSequence.push(sortedRight[i]);
+                if (sortedLeft[i]) hideSequence.push(sortedLeft[i]);
+            }
+            
+            // Hide items until content fits
+            for (const item of hideSequence) {
+                item.classList.add('hidden');
+                
+                // Force reflow and check if we're done
+                void navbar.offsetHeight;
+                if (navbar.scrollWidth <= navbar.clientWidth) break;
+            }
+        }
+        
+        // Run responsive check initially and on resize
+        checkResponsiveDisplay();
+        let resizeTimer;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(checkResponsiveDisplay, 100);
+        });
+        
+        // Periodic menu icon shake (simplified)
+        function setupMenuIconShake() {
+            // Only run this if we haven't seen the menu before
+            if (sessionStorage.getItem('menuSeen')) return;
+            
+            // Initial shake after 3 seconds
+            setTimeout(() => {
+                if (!mobileMenu.classList.contains('active')) {
+                    menuIcon.classList.add('shake');
+                    setTimeout(() => menuIcon.classList.remove('shake'), 500);
+                }
+                
+                // Remember we've shown it
+                sessionStorage.setItem('menuSeen', 'true');
+            }, 3000);
+        }
+        
+        setupMenuIconShake();
+        
+        // Close dropdowns when clicking outside
+        document.addEventListener('click', function(e) {
+            // Don't process if clicking inside a dropdown
+            if (e.target.closest('.adbusters-dropdown') || 
+                e.target.closest('.adbusters-mobile-dropdown')) {
+                return;
+            }
+            
+            // Close all dropdowns
+            dropdowns.forEach(dropdown => dropdown.classList.remove('active'));
+            mobileDropdowns.forEach(dropdown => dropdown.classList.remove('active'));
+            
+            // Update toggle texts
+            document.querySelectorAll('.adbusters-dropdown-toggle, .adbusters-mobile-dropdown-toggle')
+                .forEach(toggle => updateDropdownToggleText(toggle, false));
+        });
+        
+        // Add keyboard accessibility
+        function setupKeyboardNavigation() {
+            const toggles = document.querySelectorAll('.adbusters-dropdown-toggle, .adbusters-mobile-dropdown-toggle');
+            
+            toggles.forEach(toggle => {
+                toggle.addEventListener('keydown', function(e) {
+                    // Enter or Space key
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        this.click();
+                    }
+                });
+            });
+            
+            menuToggles.forEach(toggle => {
+                toggle.addEventListener('keydown', function(e) {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        this.click();
+                    }
+                });
+            });
+        }
+        
+        setupKeyboardNavigation();
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+---
+title: "The only thing we can imagine is catastrophe"
+publishedOn: 2022-08-17T00:00:00Z
+author: "David Graeber from Adbusters issue 97"
+featuredImage: "/images/articles/62fd496c3f3c9a91608e9fb7_david_graeber_adb97_550px_1.jpg"
+---
+
+There is very good reason to believe that, in a generation or so, capitalism itself will no longer exist – most obviously, as ecologists keep reminding us, because it’s impossible to maintain an engine of perpetual growth forever on a finite planet, and the current form of capitalism doesn’t seem to be capable of generating the kind of vast technological breakthroughs and mobilizations that would be required for us to start finding and colonizing any other planets. Yet faced with the prospect of capitalism actually ending, the most common reaction – even from those who call themselves “progressives” – is simply fear. We cling to what exists because we can no longer imagine an alternative that wouldn’t be even worse.
+
+How did we get here? My own suspicion is that we are looking at the final effects of the militarization of American capitalism itself. In fact, it could well be said that the last 30 years have seen the construction of a vast bureaucratic apparatus for the creation and maintenance of hopelessness, a giant machine designed, first and foremost, to destroy any sense of possible alternative futures. 
+
+At its root is a veritable obsession on the part of the rulers of the world – in response to the upheavals of the 1960s and 1970s – with ensuring that social movements cannot be seen to grow, flourish or propose alternatives; that those who challenge existing power arrangements can never, under any circumstances, be perceived to win. To do so requires creating a vast apparatus of armies, prisons, police; various forms of private security firms and police and military intelligence apparatus, and propaganda engines of every conceivable variety, most of which do not attack alternatives directly so much as create a pervasive climate of fear, jingoistic conformity and simple despair that renders any thought of changing the world, an idle fantasy. 
+
+Maintaining this apparatus seems more important to exponents of the “free market” than maintaining any sort of viable market economy. How else can one explain what happened in the former Soviet Union? One would ordinarily have imagined that the end of the Cold War would have led to the dismantling of the army and the KGB and rebuilding the factories, but in fact what happened was precisely the other way around. This is just an extreme example of what has been happening everywhere. 
+
+Economically, the apparatus is pure dead weight; all the guns, surveillance cameras and propaganda engines are extraordinarily expensive and really produce nothing, and no doubt it’s yet another element dragging the entire capitalist system down – along with producing the illusion of an endless capitalist future that laid the groundwork for the endless bubbles to begin with. Finance capital became the buying and selling of chunks of that future, and economic freedom, for most of us, was reduced to the right to buy a small piece of one’s own permanent subordination.
+
+In other words, there seems to have been a profound contradiction between the political imperative of establishing capitalism as the only possible way to manage anything, and capitalism’s own unacknowledged need to limit its future horizons lest speculation, predictably, go haywire. When speculation did go berserk, and the whole machine imploded, we were left in the strange situation of not being able to even imagine any other way that things might be arranged. About the only thing we can imagine is catastrophe.

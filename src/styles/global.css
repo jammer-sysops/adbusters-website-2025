@@ -1,1 +1,122 @@
 @import "tailwindcss";
+
+/* CSS Variables for Adbusters theme */
+:root {
+  --ad-black: #000;
+  --ad-red: #ff2121;
+  --ad-white: #f7f7f7;
+  --ad-yellow: #ffff00;
+  
+  /* Theme variables - default to light theme */
+  --ad-navbar-bg: white;
+  --ad-navbar-text: #121212;
+  --ad-navbar-border: #383838;
+  --ad-navbar-highlight: #121212;
+  --ad-navbar-logo: #383838;
+  --ad-navbar-accent: #383838;
+  --ad-navbar-accent-underline: darkred;
+}
+
+/* Tailwind line-clamp utilities */
+.line-clamp-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.line-clamp-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+/* Adbusters Navbar specific styles */
+.adbusters-navbar {
+  font-family: 'Courier New', monospace;
+}
+
+/* Border image for navbar */
+.navbar-border::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -38px;
+  height: 76px;
+  background-image: url('https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/685c4198857af331f4be08b0_thin%20pen%20scribble%20horizontal%20line.jpg');
+  background-repeat: repeat-x;
+  background-size: auto 76px;
+  background-position: center;
+  z-index: 100;
+  pointer-events: none;
+  mix-blend-mode: darken;
+}
+
+/* Nav link underline effect */
+.nav-link-underline::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 0;
+  left: 0;
+  bottom: -4px;
+  background-image: url('https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/685c471ccef9d47ea68a798d_thick%20red%20handdrawn%20line.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  transition: height 0.2s ease;
+  z-index: -1;
+}
+
+.nav-link-underline:hover::after {
+  height: 16px;
+}
+
+/* Mobile menu border */
+.mobile-menu-border::before {
+  content: '';
+  position: absolute;
+  left: -38px;
+  top: 0;
+  width: 76px;
+  height: 100vh;
+  background-image: url('https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/685c469b77953951b8bb366a_thin%20pen%20scribble%20horizontal%20line%20rotated.jpg');
+  background-repeat: no-repeat;
+  background-size: 76px 100vh;
+  background-position: center;
+  z-index: 100;
+  pointer-events: none;
+  mix-blend-mode: darken;
+}
+
+/* Punk link styling */
+.punk-link::before {
+  content: "";
+  position: absolute;
+  height: 3px;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background: repeating-linear-gradient(
+    45deg,
+    var(--ad-navbar-accent),
+    var(--ad-navbar-accent) 3px,
+    transparent 3px,
+    transparent 6px
+  );
+  z-index: -1;
+}
+
+/* Shake animation */
+@keyframes shake {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-5deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(5deg); }
+}
+
+.shake {
+  animation: shake 0.5s ease;
+}
