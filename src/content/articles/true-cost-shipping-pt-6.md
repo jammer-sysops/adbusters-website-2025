@@ -1,8 +1,9 @@
 ---
 title: "True-Cost Shipping (PT. 6)"
-publishedOn: 2021-12-01T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-featuredImage: "/images/articles/61a7da15dc93c53c3dfc10fa_truecost_parts_6_600x150_1.jpg"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/truecost-parts-6-600x150.jpg"
+category: "Eco"
 ---
 
 For years it’s been ridiculously cheap to use mega tankers to ship stuff across the ocean. That will stop.

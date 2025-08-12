@@ -1,8 +1,9 @@
 ---
 title: "Goodnight Skirt"
-publishedOn: 2019-06-26T00:00:00Z
-author: "- Raoul Fernandes - Adbusters #https-subscribe-adbusters-org-products-ab-144-the-age-of-total-disruption"
-featuredImage: "/images/articles/5d13da0acd6c917f875d0148_birdcage-BW_1.jpg"
+publishedOn: 2024-11-05
+author: "Raoul Fernandes"
+featuredImage: "/images/articles/birdcage-bw.jpg"
+category: "Psycho"
 ---
 
 Permission to use that snowball

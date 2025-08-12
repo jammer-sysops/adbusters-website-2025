@@ -1,8 +1,9 @@
 ---
 title: "Winning the Planerary Endgame"
-publishedOn: 2022-12-14T00:00:00Z
-author: "- Third Force - Adbusters #164"
-featuredImage: "/images/articles/639b65c8e75a9d1f5fc94dac_burning-bull_600_1.gif"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/burning-bull-600.gif"
+category: "Anarcho"
 ---
 
 **To win the planetary endgame, we’ll have to rethink communications, finance, the corporation, economics, governance and aesthetics.**

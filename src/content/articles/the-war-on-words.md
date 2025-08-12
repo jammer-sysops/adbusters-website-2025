@@ -1,11 +1,12 @@
 ---
 title: "The War on Words"
-publishedOn: 2020-02-21T00:00:00Z
-author: "- Trevor Clarke - Adbusters #146"
-
+publishedOn: 2024-11-05
+author: "Trevor Clarke"
+featuredImage: "/images/articles/5e616e613792815588455a1e-words-blackboard-900x687.jpeg"
+category: "Aesthetico"
 ---
 
-![](/images/articles/5f07950057903bb0faac004b_5e616e613792815588455a1e_words_blackboard_900x687_1.jpeg)**Brutal days, to be resisted, often demand brutality inkind.**
+![Image](/images/articles/5e616e613792815588455a1e-words-blackboard-900x687.jpeg)**Brutal days, to be resisted, often demand brutality inkind.**
 In such times, marked as they are by the fear and uncertainty that naturally metastasize out of truth’s debasement, there is but one bold act from which all other acts of dissent may precede.
 
 That is to tell — **with utter, brutal frankness** — the truth.
@@ -16,7 +17,7 @@ So, when language is abused, we expose our most intimate selves to further and w
 Finally, when truth and untruth bleed into one — when we look from truth to untruth, and from untruth to truth, and from truth to untruth again; but already it is impossible to say which is which — **we become unable to discern what is moral from what is immoral. And when we can no longer distinguish between right and wrong, the gates that protect our freedom, decency, and autonomy** — all that allows us, by right, to fulfill our potential as human beings — **are left open to the wolves.**
 How can we best arm ourselves in defense of truth’s vitality? To tell and safeguard the truth, it is necessary to be able to identify its opposite. First, we must recognize its enemies.
 
-![](/images/articles/5f079510ca976934f64734f7_5e61861a2f5f3b37bcfec597_G_Orwell_quote_360x240_1.jpeg)**ENEMY No. 1: Disappearing and Bastardized Words
+![Image](/images/articles/5e61861a2f5f3b37bcfec597-g-orwell-quote-360x240.jpeg)**ENEMY No. 1: Disappearing and Bastardized Words
 
 ‍**The most profound horror of George Orwell’s harrowing final novel, **Nineteen Eighty-Four**, is also its most real. It is the horror of a language decimated to the degree that thought itself becomes impossible outside ideologically permitted limits. In the novel, an all-ruling party-state (“Ingsoc”) decrees ever slimmer official dictionaries, with the aim of replacing traditional English (“Oldspeak”) with its barren bastard, “Newspeak.” “The purpose of Newspeak,” wrote Orwell, “was not only to provide a medium of expression for the world-view and mental habits proper to the devotees of Ingsoc, but to make all other modes of thought impossible”:
 
@@ -27,7 +28,7 @@ Though based on the totalitarianism to which he bore witness during the twentiet
 Even the once objective notion of abstract numeracy is under threat. Patently false yet doubly defended claims of Donald Trump’s having drawn “the largest audience ever to witness an inauguration, period” bring to mind the absurd doublethink phrase “**two plus two equals five**,” belief in which is enforced by Ingsoc to demonstrate complete and slavish and arbitrary obedience to the Party’s doctrine. Nineteen Eighty- Four’s protagonist, Winston Smith, wonders whether widespread belief in the slogan is proof that it is true despite his misgivings. This fallacious logic is typified by Trump’s redoubled justification for racist comments made on Twitter (wherein he suggested that four nonwhite congresswomen “go back” to “the crime infested places from which they came”): that “**many people agree**” with his sentiments.
 Winston correctly noted the danger of this sort of thinking. “**Freedom**,” he noted, “**is the freedom to say that two plus two make four. If that is granted, all else follows**.” The barbarity of the tyrant is made plain by his linguistic savaging of truth. The first sign is the disappearance and bastardization of words.
 
-![](/images/articles/5f07953c10a80c326c9af4e7_5e61706994c904079f914324_semi-colon_300x573_1.jpeg)‍
+![Image](/images/articles/5e61706994c904079f914324-semi-colon-300x573.jpeg)‍
 
 **ENEMY No. 2: Sinister Euphemisms
 **
@@ -39,13 +40,13 @@ Millions of peasants are robbed of their farms and sent trudging along the roads
 It is thus that Venezuelan “**Operations for the Liberation of the People**” have resulted in the unlawful torture and murder, at the hands of death squads, of thousands of civilians. It is thus that Chinese gulags for the suppression of ethno-religious minorities are termed “**re-education**” centres. It is thus that xenophobia, intolerance, and supremacy masquerade as “**heritage**,” “**tradition**,” and “**pride**.” It is also thus that refugees are derided as “illegal aliens.” Furthermore, it is thus that the current climate crisis has, without much complaint, come to be known more mildly as “climate change,” and its deniers as “skeptics” — as if to imply that “change” might not be so urgent after all, and that deniers’ claims differ justifiably (instead of ignorantly) from the scientific consensus.
 In the same essay, Orwell wrote that “[w]hen the general atmosphere is bad, language must suffer.” Similarly, for the “atmosphere” (here, meant both metaphorically and not) to improve, language must also be saved. To that end, insidious euphemisms must be outed for what they truly are: attempts to slyly make that which is intolerable seem tolerable.
 
-![](/images/articles/5f079555e1da773536e7a40f_5e6177528436bc81a1f4dd2e_censored_360x119_1.jpeg)‍
+![Image](/images/articles/5e6177528436bc81a1f4dd2e-censored-360x119.jpeg)‍
 
 **ENEMY No. 3: Censorship
 
 **Freedom dies in silence. The erasure of facts suspends, by default, their very evaluation.
 
-![](/images/articles/5f0794f0a949df90ee2f9a02_5e617794f4a748848cc1b145_enemy_3_censored_1.png)And that is how censorship leads to self-censorship, which leads to silence, which leads to the death of freedom.
+![Image](/images/articles/5e617794f4a748848cc1b145-enemy-3-censored.png)And that is how censorship leads to self-censorship, which leads to silence, which leads to the death of freedom.
 
 **ENEMY No. 4: Cliché**
 
@@ -69,7 +70,7 @@ All these clichés have in common that they make judgment superfluous and that t
 If the association of clichés with one of the twenty first century’s most abhorrent criminals (and two of its most ruthless regimes) is not quite enough, consider the following (softened) clichés: “immigrants are criminals and rapists,” “people of Middle Eastern origin are terrorists,” the same “wish to instate Shariah law in the West,” “non-white people wish to ‘replace’ the white race,” and so on. Most inflammatory, resentful, hateful, and generalizing rhetoric (in short, the open endorsement of ignorance) can be reduced to slogan like clichés — again, according to Lifton, “brief, highly reductive, definitive-sounding phrases, easily memorized and easily expressed.”
 By “simply throwing your mind open and letting the ready-made phrases come crowding in,” Orwell wrote, clichés can “construct your sentences for you — even think your thoughts for you.” A language that is reduced to clichéd, bumper-sticker slogans is not the equal of thought — it is its pure, unmitigated opposite. And an unthinking person is the ideal vessel for corrosive, wrongheaded — and, yes, dangerous — ideas.
 
-![](/images/articles/5f07957b8f37f3ce1b63af8e_5e617c778436bca5a1f4ed7e_3_dots_360x119_1.jpeg)**ENEMY No. 5: Cynicism
+![Image](/images/articles/5e617c778436bca5a1f4ed7e-3-dots-360x119.jpeg)**ENEMY No. 5: Cynicism
 **
 Cynicism is lazy fatalism dressed up as rational skepticism. The very nonchalance of the cynic betrays his apathy; it absolves him of any responsibility to act. “Why bother,” he says, “when there is nothing to be done that is worth doing?” Yet this is never true: there is always something to be done — however small the act; however dire the circumstances.
 To be a cynic is to concede to the forces of wrongdoing. If a despot cannot successfully con you (for despotism necessitates an abuse of confidence), or if a naysayer cannot doom-and-gloom you into submission, then he can at least hope that you will give in to cynicism that is, to resigned passivity. “The government’s fucked. There are no viable alternatives. Why even vote?” “The planet’s fucked. Why not have a good time of it?” “The culture’s fucked and there’s no fixing it. Why participate in society at all?” No one who, in the face of adversity, has ever made significant change for the better has thought (except in moments of doubt) in this way. And many a cynic has abetted — whether unconsciously, indifferently, or secretly — the very wrongs that comfortably confirm his pessimism.

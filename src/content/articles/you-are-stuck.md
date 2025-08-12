@@ -1,8 +1,9 @@
 ---
 title: "You are stuck."
-publishedOn: 2020-10-02T00:00:00Z
-author: "- Afra van den Hoogen, Mila Vuckovic and Nick Verkroost - Adbusters #151"
-
+publishedOn: 2024-11-05
+author: "Afra van den Hoogen, Mila Vuckovic and Nick Verkroost"
+featuredImage: "/images/articles/afra-nick-mila-you-are-stuck-poster-600x900.jpg"
+category: "Aesthetico"
 ---
 
 Dear people of the Adbusters Media Foundation,
@@ -19,6 +20,9 @@ Kind regards,
 
 Afra van den Hoogen, Mila Vuckovic and Nick Verkroost
 
-![](/images/articles/5f7656e82090c2b924ddefc8_afra_nick_Mila_you_are_stuck_poster_600x900_1.jpg)#### "Every image, every advertisement imposes a consensus - that between all the individuals potentially called upon to decipher it, that is to say, called, by decoding the message, to subscribe automatically to the code in which it has been couched."
-###### - Jean Baudrillar, "The Consumer Society" (1998)
+![Image](/images/articles/afra-nick-mila-you-are-stuck-poster-600x900.jpg)
+## "Every image, every advertisement imposes a consensus - that between all the individuals potentially called upon to decipher it, that is to say, called, by decoding the message, to subscribe automatically to the code in which it has been couched."
+
+## - Jean Baudrillar, "The Consumer Society" (1998)
+
 ‍

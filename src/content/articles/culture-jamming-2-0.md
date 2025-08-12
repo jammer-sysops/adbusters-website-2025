@@ -1,8 +1,8 @@
 ---
 title: "Culture Jamming 2.0"
-publishedOn: 2022-08-15T20:20:31Z
-author: "Bruce Grierson"
-featuredImage: "/images/articles/62faaa87236318569446e80e_tang_ping_lay_flat_600.jpg"
+publishedOn: 2024-11-05
+author: "<p id=\"\">Bruce Grierson </p>"
+featuredImage: "/images/articles/tang-ping-lay-flat-600.jpg"
 ---
 
 In Early 2020, as the pandemic shut down the world and drove everyone deeper into cyberspace, word began to spread online about a massive and sinister cover-up. One that ought to have every every freedom-loving American very afraid. Had you heard? Birds aren’t real. Those feathered things in the sky are actually government surveillance drones. The CIA wiped out all the real birds in a secret military mission starting in the Sixties, and replaced the birds with bots to spy on Americans. They assassinated Kennedy because he refused to go along with it. You wanna go deeper? How much time ya got?
@@ -13,7 +13,7 @@ Meanwhile, over in the UK, another merry prankster was spreading FUD on the stre
 
 One morning not long ago a series of political ads appeared on London tube trains. In one, the Conservative Party promised to “erase all disabled people by December 2020.” In another, the party pledged to “cut all homeless people in half by 2025.” The ads seemed legit if you glanced at them quickly. But they were of course Foka Wolf creations. Just like the other sharp looking fake ads around town. The vacant-lot billboard announcing a coming condo development (“Erasing History to Maximize Profit”). The PSA giving drivers of Jeeps and other 4x4s the good news that they “may be eligible for a free penis enlargement.” Every one of them is Instagram bait. Every “risograph,” as Wolf calls them, an NFT-in-the-making. The target here isn’t some identifiable corporate villain, like in the fake ads of yore. It’s the culture itself — confused, gullible and chasing its own tail until it no longer knows what’s true and what isn’t, and isn’t at all sure it cares.
 
-**CULTURE JAMMING DIDN'T DIE  — IT JUST SKIPPED A GENERATION.**‍
+**CULTURE JAMMING DIDN'T DIE &nbsp;— IT JUST SKIPPED A GENERATION.**‍
 
 The new Gen Z jammers weren’t even a gleam in their *parents’ *eye when the Situationists were papering the Continent with their official-looking “Real Report on the Last Chance to Save Capitalism in Italy.” They weren’t yet born when the Yes Men, posing as George W. Bush supporters, urged Americans to sign a Patriot Pledge promising to keep nuclear waste in their yard. They were still in diapers when *Adbusters *was getting up to speed, and when *No Logo *was published, and when Reverend Billy started trooping into Starbucks to perform exorcisms on the cash registers. Yet the residue of that old resistance still greases these new gears.
 
@@ -45,7 +45,7 @@ As the pandemic eased, Chinese officials were relieved. They would shake out the
 
 It wasn’t. The resistance just shifted into a new phase. Tang ping gave way to *bai lan*.
 
-![](/images/articles/62fac00f5a1eebd7d2a0fa17_bai_lan_let_it_root.jpg)Which translates to something like: “let it rot.”
+![Image](/images/articles/bai-lan-let-it-root.jpg)Which translates to something like: “let it rot.”
 
 This is more serious cheese. 
 

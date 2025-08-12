@@ -1,8 +1,9 @@
 ---
 title: "The Flattening of the Money Curve"
-publishedOn: 2021-10-29T00:00:00Z
-author: "- Third Force - Adbusters #157"
-featuredImage: "/images/articles/617c4110fe610a5ac79c14d7_the_great_global_potbang_450x595_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/the-great-global-potbang-450x595.jpg"
+category: "Econo"
 ---
 
 Covid-19 turned from an outbreak into a pandemic because of airplanes. The virus shot around the world, instantly found new hosts, and replicated everywhere all at once. It was out of Pandora’s box before anyone could make a lid big enough to shut it down.
@@ -15,4 +16,4 @@ Slowly the supply of bad money starts shrinking and the supply of good money, mo
 
 As we flatten the speculative money curve, things for all of us all around the world will slowly get better — until eventually we reach financial herd immunity.
 
-![](/images/articles/617c411ec9c0d56a41d54751_flattening_handdrawn_graph_600x356_1.jpg)‍
+![Image](/images/articles/flattening-handdrawn-graph-600x356.jpg)‍

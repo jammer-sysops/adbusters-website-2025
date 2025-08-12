@@ -1,11 +1,12 @@
 ---
 title: "Pissing into the ocean."
-publishedOn: 2020-08-28T00:00:00Z
-author: "- The BlackSpot Collective - Adbusters #147"
-
+publishedOn: 2024-11-05
+author: "The BlackSpot Collective"
+featuredImage: "/images/articles/insta-ravingindian-460x690.jpg"
+category: "Anarcho"
 ---
 
-![](/images/articles/5f497c740d7ddc3eb731785d_insta_ravingindian_460x690_1.jpg)O, that moment of spreading warmth, of near union with the elements. the squeeze of release, the pleasure of pressure abating, the discharge of personal intensity.
+![Image](/images/articles/insta-ravingindian-460x690.jpg)O, that moment of spreading warmth, of near union with the elements. the squeeze of release, the pleasure of pressure abating, the discharge of personal intensity.
 
 It feels wonderful. and, as everyone knows, rapidly dissipates into nothing.
 

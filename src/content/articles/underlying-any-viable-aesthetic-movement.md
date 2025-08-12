@@ -1,11 +1,12 @@
 ---
 title: "Underlying any viable aesthetic movement"
-publishedOn: 2020-12-01T00:00:00Z
-author: "- —Sarah Nardi - Adbusters #152"
-
+publishedOn: 2024-11-05
+author: "—Sarah Nardi"
+featuredImage: "/images/articles/ideally-this-image-would-be-straight-600x506.jpg"
+category: "Aesthetico"
 ---
 
-![](/images/articles/5fc6c6cde42254a73ed1b92b_ideally_this_image_would_be_straight_600x506_1.jpg)Underlying any viable aesthetic movement is a broader philosophy, a loosely unifying worldview that connects the artists working within it. In the aftermath of WWI, Mondrian and the modernists weren’t just painting blocks of primary color, they were retreating from a physical world that had ceased to make sense into a realm of pure abstraction. They were pursuing the development of a universal language through which to express fundamental truths. And when the “war to end all wars” was succeeded by another, the abstract expressionists retreated even further from the external world, turning inward to search the collective unconscious for some sense of existential certitude. 
+![Image](/images/articles/ideally-this-image-would-be-straight-600x506.jpg)Underlying any viable aesthetic movement is a broader philosophy, a loosely unifying worldview that connects the artists working within it. In the aftermath of WWI, Mondrian and the modernists weren’t just painting blocks of primary color, they were retreating from a physical world that had ceased to make sense into a realm of pure abstraction. They were pursuing the development of a universal language through which to express fundamental truths. And when the “war to end all wars” was succeeded by another, the abstract expressionists retreated even further from the external world, turning inward to search the collective unconscious for some sense of existential certitude. 
 
 What have our contemporary artists been giving us? For the most part, they’ve given us objects and empty forms – golden calves and diamond skulls. It’s the economic substructure of art – the underlying network of critics, curators, collectors and tenured academics – that has been imbuing our art with its meaning … and value.
 

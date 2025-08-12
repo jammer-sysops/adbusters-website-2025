@@ -1,11 +1,12 @@
 ---
 title: "Liberal Hawks"
-publishedOn: 2020-12-09T00:00:00Z
+publishedOn: 2024-11-05
 author: "Ben Landis"
-
+featuredImage: "/images/articles/liberal-hawks-article-boys-staring-dead-body-600x600.jpg"
+category: "Aesthetico"
 ---
 
-![](/images/articles/5fd14b9a602ed384ca7fbf00_liberal_hawks_article_boys_staring_dead_body_600x600_1.jpg)You’ve heard the terms. Liberal hawk. War dove. Academic circles may prefer ‘liberal interventionist.’ The term applies to left-wingers who are committed to using military force to preserve and promote human rights. Their support for the invasion of Iraq confused some people. Aren’t lefties supposed to oppose the war? 
+![Image](/images/articles/liberal-hawks-article-boys-staring-dead-body-600x600.jpg)You’ve heard the terms. Liberal hawk. War dove. Academic circles may prefer ‘liberal interventionist.’ The term applies to left-wingers who are committed to using military force to preserve and promote human rights. Their support for the invasion of Iraq confused some people. Aren’t lefties supposed to oppose the war? 
 
 Many in the liberal hawk camp downplayed the relevance of the more dubious motives for attacking Iraq – supposed weapons of mass destruction and links to al Qaeda – in favor of a bigger point: removing Saddam Hussein from power would free millions of people from the torture and abuse of a brutal dictator. So it was a good thing. Well, not necessarily ‘good,’ but the lesser of two evils. That’s how liberal hawk posterboy Michael Ignatieff framed it. In *The Lesser Evil: Political Ethics in an Age of Terror*, Ignatieff argued that in order to combat serious evil, “we may have to traffic in evils: indefinite detention of suspects, coercive interrogations, targeted assassinations, even pre-emptive war.” He wrote those words before the evils carried out in Abu Ghraib prison were revealed. The scandal forced him to reassess his stance and note that, “Everything I’ve said and believed since I was 18 is on the line over this war, and I could be seriously wrong.” But Ignatieff – who is no apologist for the Bush administration – remained confident that the January 30 Iraqi elections would make up for the transgressions of the US occupiers. In fact, he noted in *The New York Times Magazine *that “Establishing free institutions in Iraq was the best reason to support the war – now it is the only reason.”
 

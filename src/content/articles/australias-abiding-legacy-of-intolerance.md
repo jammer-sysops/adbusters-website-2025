@@ -1,8 +1,8 @@
 ---
 title: "Australia’s Abiding  Legacy of Intolerance"
-publishedOn: 2019-09-18T00:00:00Z
-author: "- Trevor Clarke - Adbusters #145-i-feel-nothing"
-featuredImage: "/images/articles/5d827f2ed19e0b7048cff6c7_loves-coal_1.jpg"
+publishedOn: 2024-11-05
+author: "Trevor Clarke"
+featuredImage: "/images/articles/loves-coal.jpg"
 ---
 
 Dreams of a “White Australia” are not dead. 

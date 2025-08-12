@@ -1,8 +1,9 @@
 ---
 title: "Metaverse - New World Order"
-publishedOn: 2022-10-05T00:00:00Z
-author: "- Artificial Mind - Adbusters #163"
-featuredImage: "/images/articles/633deeda060f7fe4a0013cb2_goddess_of_the_metaverse_1.jpg"
+publishedOn: 2024-11-05
+author: "Artificial Mind"
+featuredImage: "/images/articles/goddess-of-the-metaverse.jpg"
+category: "Psycho"
 ---
 
 **Once upon a time, the goddess of the metaverse overthrew the game king and set in place a new world order.**

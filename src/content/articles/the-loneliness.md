@@ -1,8 +1,9 @@
 ---
 title: "The Loneliness"
-publishedOn: 2022-07-22T00:00:00Z
-author: "- Third Force - Adbusters #161"
-featuredImage: "/images/articles/62db284b5ac57a992b8cda43_forgetting-to-live-scrap_600_1.gif"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/forgetting-to-live-scrap-600.gif"
+category: "Psycho"
 ---
 
 If you’ve been out of the dating trenches for a while, know this: A recent Pew Research Center survey found that fully half of single adults have given up on looking for a relationship at all. Sexual activity, partnership and marriage have all reached 30-year lows.

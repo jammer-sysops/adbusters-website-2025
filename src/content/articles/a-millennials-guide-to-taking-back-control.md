@@ -1,15 +1,15 @@
 ---
 title: "A Millennial’s Guide to Taking Back Control"
-publishedOn: 2019-02-20T00:00:00Z
-author: "- Doug Haddow - Adbusters #142"
-
+publishedOn: 2024-11-05
+author: "Doug Haddow"
+featuredImage: "/images/articles/shopping-cart.png"
 ---
 
-![](/images/articles/5f18c38512371a0413f43302_Shopping-Cart_1.png)One minute you’re blasted on molly, snapchatting your dick-tits as Tiësto thuds in the background. Full earthquake eyes. The next you’re zoning out at some bullshit job while the world around you sinks into neoliberal quicksand.
+![Image](/images/articles/shopping-cart.png)One minute you’re blasted on molly, snapchatting your dick-tits as Tiësto thuds in the background. Full earthquake eyes. The next you’re zoning out at some bullshit job while the world around you sinks into neoliberal quicksand.
 
 Should have saved for a starter condo. Typical Millennial.
 
-![](/images/articles/5f18c3962b5546258ae0670f_Pink-Lady_1.jpg)Millennials are the lamest of all generations, right? Too few put down their phones long enough to vote in the 2016 election, and mocking them is a supremely satisfying pastime. But, hold on: they are also the most informed and forward-looking cohort in history. They’re unafraid of change, and their lie detectors are first rate. Can millennials — the maligned generation — suddenly click, become revolutionary, and take us into uncharted territory?
+![Image](/images/articles/pink-lady.jpg)Millennials are the lamest of all generations, right? Too few put down their phones long enough to vote in the 2016 election, and mocking them is a supremely satisfying pastime. But, hold on: they are also the most informed and forward-looking cohort in history. They’re unafraid of change, and their lie detectors are first rate. Can millennials — the maligned generation — suddenly click, become revolutionary, and take us into uncharted territory?
 
 I remember the first time I heard the word—*Millennial*. It must have been the earlyish mid-90s, because we were playing Wolfenstein 3D and listening to Nirvana.
 
@@ -23,12 +23,13 @@ The pop sociologists who coined the term, Neil Howe and William Strauss, predict
 
 O, to be a prelapsarian Millennial again. Things were good. Life was simple. Cartoons came on after school and you could nuke a miniature pizza in under three minutes. Soon enough, we’d all ascend to an adulthood spent telecommuting from beachside verandas, listening to jazztronica at responsible volumes on our Mini CDs.
 
-![](/images/articles/5f18c3abd09224d7bb292275_Yellow-Fruit_1.jpg)It didn’t take long for that future to sour.
+![Image](/images/articles/yellow-fruit.jpg)It didn’t take long for that future to sour.
 
 Soon after learning we were *Millennials*, the *Millennium* was upon us. That great threshold-crossing to the 2000s—the canvas onto which so much apocalyptic paint was thrown—rapidly become synonymous with paranoia, anxiety, and doom.
 
 ## **The first doom wave was spectral:
 a phantom bug was coming to smash our world**
+
 Sometime in the mid-80s, a handful of computer scientists began wringing their hands over the possibility of a glitch occurring when the clock struck midnight on December 31, 1999.
 
 A glitch with the capacity to end the world, as *Time* hyperventilated on its cover. Markets would crash. Nuclear subs would malfunction. Planes would fall from the sky.
@@ -39,12 +40,14 @@ That New Year’s Eve, as the ball dropped on Times Square, cops were out in for
 
 ## **The second wave was speculative:
 fake companies crashed a fake market.**
+
 Misleading statistics. Irrational exuberance. The promise of unlimited wealth. Fuck the middlemen; we’ll sell pet food directly to the consumer!
 
 Everyone got really excited about the internet once you could use it to buy stuff. So much so that they poured billions of dollars into a new type of venture that was so bleeding edge it didn’t need to turn a profit: the Silicon Valley startup. Then Fed chair Alan Greenspan slashed interest rates, the dot-com bubble inflated in kind, and the subsequent burst taught everyone a dread lesson. Capital tilts against those without it. And when it does, it’s average people left holding the bag.
 
 ## **The third wave was terrifying:
 Where were you?**
+
 Achingly clear blue sky. Another teacher, another hushed classroom. This time the pronouncement on our generation was bleak. Twin 747s had struck the twin towers in spectacular flashes of light, death, and jet fuel. The Kyoto Protocol was subsequently shredded and the Coalition of the Willing began a slaughter that has yet to stop. Cue Five Eyes. Cue Katrina. Cue Kanye West, attack dogs, drooling goons, and the steady tic, tic, tic of a culture crossing the point of no return.
 
 All of which is to say, as Millennials watched the dust settle on the 20th century, the world they inhabited—the world that had been promised them—was manifestly a paranoid and perilous place, one where the baby monitor never got turned off.
@@ -55,8 +58,10 @@ It was the sound of velocity. Things that hadn’t existed a week ago suddenly b
 
 But you can’t even personalize your profile? *Yeah, dummy, that’s the point.*
 
-![](/images/articles/5f18c3d4b89d6e5f43d1fba3_Fronch_1.png)## **Generation Me. Generation Selfie.
+![Image](/images/articles/fronch.png)
+## **Generation Me. Generation Selfie.
 Generation Snowflake.**
+
 This is the point in the story where the crusty old journalists get their knives out to carve up the children. Who knew that criticizing the youth would turn out to be such a clickbait gold mine for Boomer columnists and their Gen X lackeys. Who knew there would be such glee.
 
 They criticized Millennials for their upbringing and condemned them for their work ethic. They were lazy, shiftless, self-absorbed, narcissistic. They couldn’t get their shit together. Zero loyalty. Financially illiterate. Irritating. Just whiny little babies crying about every goddamned thing.
@@ -77,7 +82,9 @@ Our relationship with our tools is chiastic. Not only are we Jonah, swallowed up
 
 When we begin to untangle the mess of wires in which we’re ensnared, we see the strangeness of this landscape, of our politics, ecology, and technology. Not quite nature, not quite future, but a taiga in between.
 
-![](/images/articles/5f18c3ecc9c3bf06f5a63128_Goo-Chee_1.jpg)## **Generation Last Chance. Generation Mindfuck. Generation End User.**
+![Image](/images/articles/goo-chee.jpg)
+## **Generation Last Chance. Generation Mindfuck. Generation End User.**
+
 In the latter half of the Obama years, Millennials took a dark turn. The stereotype went from snivelling child to freelance destroyer of worlds.
 
 Millennials bumped off Applebee’s. Gut-knifed Macy’s. Bludgeoned the McWrap. Defenestrated the focus group. Strangled Hooters. We napalmed any totem of consumer splendor within the flight pattern.

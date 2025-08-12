@@ -1,8 +1,9 @@
 ---
 title: "Damage to Your Soul?"
-publishedOn: 2022-02-03T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/social-media-damage-600x600.jpg"
+category: "Psycho"
 ---
 
 Study after study has shown that using Facebook all the time makes people feel moody, anxious, and depressed.
@@ -13,4 +14,4 @@ High school students who spend over ten hours a week on social media are twice a
 
 Younger generations don't put much stock in religion, but their souls are being uploaded to the Cloud every day.
 
-![](/images/articles/61f08d9c744d156c67df2769_social_media_damage_600x600_1.jpg)‍
+![Image](/images/articles/social-media-damage-600x600.jpg)‍

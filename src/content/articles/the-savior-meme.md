@@ -1,6 +1,7 @@
 ---
 title: "The Savior Meme"
-publishedOn: 2023-12-07T19:39:34Z
+publishedOn: 2024-11-05
+featuredImage: "/images/articles/manifesto-upc-code.jpg"
 ---
 
 The late Stanford philosopher and therapist Paul Watzlawick had a good way of explaining how to get out of impossible jams. When change is required, there are different ways to think about the level of creativity that’s needed.
@@ -17,10 +18,10 @@ To date, only a handful of economists have bothered to think about the true cost
 
 Let’s figure this out. What is the real cost of shipping a container load of toys from Chongqing to Los Angeles? Or a case of apples grown in New Zealand to markets in North America? And what is the true cost of that fridge humming 24/7 in your kitchen . . . that steak sizzling on your grill . . . that car sitting in your garage? What are the by-products of our way of living actually costing us? Grab a calculator and let’s get at this. Instead of watching economists pontificate endlessly about interest rates, stock-market swings and GDP growth, let’s put them to productive big-picture use crunching the real cost of things. 
 
-![](/images/articles/65721f0f64868accb0d0cec4_manifesto upc code.jpg)
+![Image](/images/articles/manifesto-upc-code.jpg)
 
 The Universal Product Code (UPC) is the perfect mechanism for implementing True Cost. Almost every product sold around the world already has a UPC code on it. It was originally created to speed up the checkout process and track inventory at grocery stores. Now it becomes an essential part of the True Cost project. The human experience of buying something is transformed. When you swipe it, a True Cost price adjustment automatically kicks in. All the costs of making and marketing and shipping and distributing the product you’re buying are baked into the price. *One swipe, one truth. *Sticker shock: take it or leave it.
 
 — from [Manifesto For World Revolution (check it out here)](https://subscribe.adbusters.org/products/a-manifesto-for-world-revolution)
 
-![](/images/articles/65721fb7d0335bb6e9e8df12_Screen Shot 2023-12-07 at 11.40.20 AM.png)
+![Image](/images/articles/screen-shot-2023-12-07-at-11-40-20-am.png)

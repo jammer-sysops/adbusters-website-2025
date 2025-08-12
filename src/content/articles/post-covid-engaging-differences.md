@@ -1,12 +1,15 @@
 ---
 title: "Post-COVID engaging differences"
-publishedOn: 2020-07-28T00:00:00Z
-author: "- Harry Ford - Adbusters #150"
-
+publishedOn: 2024-11-05
+author: "Harry Ford"
+featuredImage: "/images/articles/isolation-lockdown-690x444.jpg"
+category: "Psycho"
 ---
 
-![man isolation](/images/articles/5f20a9dbf5441d793e6757ad_isolation_lockdown_690x444_1.jpg)#### Those of us who aren’t on the Covid frontlines have been told to stay home. That is our job. (Meanwhile, our actual job may or may not have been eliminated.) But as the weeks roll into months, we’re discovering that doing nothing in a crisis is its own kind of stress.
+![Image](/images/articles/isolation-lockdown-690x444.jpg)
+## Those of us who aren’t on the Covid frontlines have been told to stay home. That is our job. (Meanwhile, our actual job may or may not have been eliminated.) But as the weeks roll into months, we’re discovering that doing nothing in a crisis is its own kind of stress.
 Confine stessed-out people long enough and something strange happens. It’s called the Third Quarter Phenomenon. And we’re in it now.
+
 Turns out people cooped up together for extended periods — whether in submarines or Antarctic bases or space stations — go through phases.
 
 The first phase, Quarter One, is amygdala-inoverdrive time. Think existential dread. (Or panic-buying of toilet paper.) Astronauts en route to Mars are expected to experience a jolt of fear when they can no longer see Earth in the window. The rest of us, in the early days of this lockdown, saw Covid-19 infection numbers spike exponentially and understood: there is nowhere to hide.
@@ -18,8 +21,11 @@ Anxiety and depression set in. Morale crashes. For no particular reason, we want
 At this point there is only one prescription:
 
 ## When you’re 
+
 ## going through
+
 ## hell, keep going.
+
 In the department of Medicine at the University of Tasmania there is a psychologist named Kimberley Norris, whose specific expertise is “confinement and reintegration.” Her research identified a possible silver lining to the kind of social experiment we’re all in. A reason to believe the Fourth Quarter will be better.
 
 As it happens, many people who go through the trial of extended isolation — Third Quarter madness and all – say they would … do it again.

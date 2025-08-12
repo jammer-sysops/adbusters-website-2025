@@ -1,11 +1,13 @@
 ---
 title: "Lone Wolf"
-publishedOn: 2022-11-07T00:00:00Z
-author: "- KL - Adbusters #147"
-featuredImage: "/images/articles/63697a14665cb763508930a7_is_world_revolution_possible_600_1.jpg"
+publishedOn: 2024-11-05
+author: "KL"
+featuredImage: "/images/articles/is-world-revolution-possible-600.jpg"
+category: "Anarcho"
 ---
 
-### **The wolf is a pack animal, but I am a lone wolf.**
+## **The wolf is a pack animal, but I am a lone wolf.**
+
 I dislike the crush of the protesting crowd. My hands don’t grip the placards. My voice rings false when raised to chant.
 
 I prefer the solitary range. As I roam, in descending twilight, I mark territory. Sticking blackspots on ads I don’t like. Laying notes on ATMs and posters in strategic locations. I forgo the tumult of demonstration for the pinprick of consciousness that will catch someone, somewhere, sometime, unawares.

@@ -1,8 +1,9 @@
 ---
 title: "Spontaneous Eruptions of Spectacular Dissent"
-publishedOn: 2021-10-22T00:00:00Z
-author: "- Third Force - Adbusters #157"
-featuredImage: "/images/articles/61733044543ad74ed19ba6b6_spontaneous_eruptions_450x571_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/spontaneous-eruptions-450x571.jpg"
+category: "Econo"
 ---
 
 **What goes “viral”?**

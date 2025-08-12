@@ -1,18 +1,21 @@
 ---
 title: "Zen and Punk: A Path to Authentic Revolution"
-publishedOn: 2025-02-13T18:48:35Z 
-featuredImage: /images/articles/67ae45258338e251c05d12d3_punk zen.jpg
+publishedOn: 2025-02-13
+featuredImage: "/images/articles/punk-zen.jpg"
 ---
 
 While punk emerged as a reaction to the hippie movement of the 1960s, it has faced its own challenges in maintaining its revolutionary spirit. The commercialization of punk rock and the descent into mere escapism through drugs and loud music have buried the movement's original principles. However, Zen philosophy offers a powerful framework for revitalizing punk's core values.
 
 ## **The Convergence of Zen and Punk Ethics**
+
 At first glance, Zen's emphasis on silence and punk's loud rebellion might seem contradictory. Yet both share fundamental values: authenticity, rejection of materialism, and the importance of direct action over empty talk. As Zen teaches, "The more you talk about it, the less you understand" - a principle that aligns perfectly with punk's emphasis on action over rhetoric.
 
 ## **Beyond Nihilism: Zen as a Tool for Punk Revival**
+
 While many punks have fallen into cynical nihilism, Zen offers a way to maintain rebellion while finding deeper meaning. Instead of numbing oneself with substances and noise, Zen's practices of mindfulness and meditation provide tools for facing society's problems with clarity and purpose.
 
 ## **Key Principles for a Zen-Punk Future:**
+
 **AUTHENTIC REBELLION:** Rather than mere external rebellion, Zen encourages inner awareness that can fuel meaningful resistance to oppressive systems
 
 **DIRECT ACTION THROUGH MINDFULNESS:** Combining punk's DIY ethos with Zen's emphasis on present-moment awareness to create effective change
@@ -24,6 +27,7 @@ While many punks have fallen into cynical nihilism, Zen offers a way to maintain
 The integration of Zen principles could help transform punk from a movement that often loses itself in noise and nihilism into one that maintains its revolutionary edge through mindful, purposeful action. The fundamental truth that "Ethics and Enlightenment are one and the same" shows us that authentic punk rebellion must be rooted in ethical awareness and genuine being.
 
 ## The Eight Truths: A Revolutionary Framework
+
 Dogen's Eight Truths of Great Human Beings provide a powerful structure for authentic punk resistance:
 
 **1. SMALL DESIRE IN PRACTICE: **Rejecting mainstream consumerism while maintaining passionate resistance — showing that true punk isn't about wanting more, but about wanting what matters
@@ -43,6 +47,7 @@ Dogen's Eight Truths of Great Human Beings provide a powerful structure for auth
 **8. ACTION OVER EMPTY WORDS: **Focusing on direct action rather than scene politics or pointless debates
 
 ## Practical Steps Forward
+
 To revitalize the punk movement through Zen principles:
 
 Replace substance escapism with meditation practices

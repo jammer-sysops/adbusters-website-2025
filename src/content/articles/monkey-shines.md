@@ -1,8 +1,8 @@
 ---
 title: "Monkey Shines"
-publishedOn: 2019-12-12T00:00:00Z
-author: "- Ben Gibson - Adbusters #147"
-featuredImage: "/images/articles/5dcb539fa77069437d64c122_Monkeyshines-web_1.jpg"
+publishedOn: 2024-11-05
+author: "Ben Gibson"
+featuredImage: "/images/articles/monkeyshines-web.jpg"
 ---
 
 Hey Adbusters,

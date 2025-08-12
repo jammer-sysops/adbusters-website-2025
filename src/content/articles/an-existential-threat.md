@@ -1,8 +1,8 @@
 ---
 title: "An Existential Threat"
-publishedOn: 2023-06-19T00:00:00Z
+publishedOn: 2024-11-05
 author: "Adbusters #167"
-featuredImage: "/images/articles/6490ac370c4c38085caf9206_an existential threat_1.jpg"
+featuredImage: "/images/articles/an-existential-threat.jpg"
 ---
 
 Scientists used to think there were only six human emotions — anger, surprise, disgust, enjoyment, fear and sadness. We now know there is a seventh: awe. 

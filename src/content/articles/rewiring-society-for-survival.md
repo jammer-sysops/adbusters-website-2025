@@ -1,6 +1,6 @@
 ---
 title: "Rewiring Society for Survival"
-publishedOn: 2024-07-09T19:06:54Z
+publishedOn: 2024-11-05
 author: "— Harry Flood"
 ---
 
@@ -10,7 +10,8 @@ It's easier to imagine the end of the world than the end of capitalism.
 
 — Frederic Jameson
 
-# I. The Task
+## I. The Task
+
 The time for tiny tweaks to the status quo is over. We've run out of time for that. The only thing that will save us is massive buy-in to a major paradigm shift, a different way of living and loving on planet Earth. A lighter, looser, sparer one. More, because less.
 
 Here's how people typically change their minds. They do it the way a climber scales a rock face, inching out beyond the last point of protection — so that if they fall, they fall only as far as what they last believed.
@@ -61,7 +62,8 @@ Or worse (gasp): socialism.
 
 The examples of socialism that pop to mind are disastrous distortions of a workable template, totalitarian Leftist states with tyrants at the helm (Mao, Stalin, Pol Pot), and catastrophic suffering the by-product. This alternative to capitalism just seems evil. For many Americans, trying to imagine a kind of democratic socialism that works ... well, it's just about impossible. There are no hand holds on that rock face.
 
-# II. "Wild Problems"
+## II. "Wild Problems"
+
 Would we be better off if we dumped capitalism? That is what economists call a "wild problem."
 
 Wild problems are ones we have no real idea of how to think about. We can't get our minds around them because we've never encountered them before. There's no playbook. There's no way to PROVE which decision is the right one. No straight-line analysis is going to cut it. No experts are standing by to settle the matter. Rationality can't help you; it may in fact hurt you. You can't logic out a wild problem. When you try, you just end up looking ridiculous.
@@ -72,7 +74,8 @@ What we're talking about here is judgment calls. There's no right answer AND the
 
 These are the decisions that define us as humans.
 
-# III. Setting the Course
+## III. Setting the Course
+
 We don't know exactly what this new way of life we're going to need to adopt will look like. So if we don't know where we're going how do we proceed?
 
 By setting the co-ordinates of the way we want to feel. Free. Calm. Interconnected. Part of something bigger than ourselves.
@@ -97,7 +100,8 @@ In the 1970s, as acid rain became a phenomenon of growing concern Friends of the
 
 So this is the case for saying, in effect, fuck it, I know that this shift to a new way of living is the right thing to do. I have surmised it, based on everything I've heard, and lived, and read, and is now bubbling up within me. And I hope and trust that I'm not alone in this. That others are coming to the same conclusion.
 
-# IV. The Tipping Point
+## IV. The Tipping Point
+
 In any social system there eventually comes a point when a critical mass of people kind of "get it," all that the same time. It can happen at a result of what economists call an "information cascade." A bunch of people were quietly sitting on their private feelings that something here is messed up. They didn't act on those feelings because they thought they were the only ones feeling them.
 
 But then they discover that they're in fact NOT alone, that tons of people feel the way they do. And this confirmation, this social proof, wrenches from a whole population a collective aha. Suddenly, private knowledge (something everyone "knows" but has been too timid to say) becomes public knowledge, an accepted TRUTH. The guileless kid pipes up: Hey, the king's naked! That is how the murderous authoritarian tyrant is finally deposed. Or a system that everyone went along with, but nobody believed was working anymore, is overturned.

@@ -1,8 +1,8 @@
 ---
 title: "Now is the Time of Monsters"
-publishedOn: 2025-04-10T18:22:31Z
+publishedOn: 2025-04-10
 author: "— Kalle Lasn"
-featuredImage: "/images/articles/67f80c63addee3c7f5725e97_trump and putin sittin in a tree.jpg"
+featuredImage: "/images/articles/trump-and-putin-sittin-in-a-tree.jpg"
 ---
 
 When I first heard about "illiberal democracy," and what Victor Orban was doing in Hungary, I didn't give it much thought. Then when Marine Le Pen became a rising star in France, and a Nazi-tinged party started winning big in Germany, I just shook my head and hoped this far right trend would pass.

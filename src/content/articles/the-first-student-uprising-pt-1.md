@@ -1,8 +1,8 @@
 ---
 title: "The First Student Uprising (PT. 1)"
-publishedOn: 2021-09-07T22:29:02Z
-author: "Third Force"
-featuredImage: "/images/articles/613939b7a5f267deec729e9a_students_uprising_pt1_600x400.jpg"
+publishedOn: 2024-11-05
+author: "<p>Third Force</p>"
+featuredImage: "/images/articles/students-uprising-pt1-600x400.jpg"
 ---
 
 There’s a word for people who are obsessively focused only on what matters to them, in such granular detail that they lose sight of the big picture, and forget that what they do affects other people and other things, and that not everything needs to happen *right now*.

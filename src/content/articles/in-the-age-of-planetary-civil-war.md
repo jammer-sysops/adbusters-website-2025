@@ -1,8 +1,9 @@
 ---
 title: "In the Age of Planetary Civil War"
-publishedOn: 2021-07-08T00:00:00Z
-author: "- Daniel Harlow - Adbusters #155"
-
+publishedOn: 2024-11-05
+author: "Daniel Harlow"
+featuredImage: "/images/articles/did-this-for-the-money-600x758.jpg"
+category: "Political"
 ---
 
 With a radically decreasing life expectancy the neighborhood declared war. Acid attacks at dawn. Hack genre militant organizations set internet kiosks to play ice cream truck song to frustrate the heat wave public. The bohemian peripheries of militant formations rerouted the world’s fastest internet speeds, seeing posts before posted, livestreaming conversations that hadn’t yet taken place.
@@ -13,7 +14,7 @@ With a radically decreasing life expectancy the neighborhood declared war. Acid 
 
 ‍
 
-![black man holding a person](/images/articles/60e738ae4fb5bd6ef4dbaa78_did_this_for_the_money_600x758_1.jpg)‍
+![Image](/images/articles/did-this-for-the-money-600x758.jpg)‍
 
 Through the choreography of artificial intelligence, private militias apprehended the real-estate market. They had a bunch of bricks and were going to find the theory. Low-resolution homogeneous representations lost in a horrific hard-drive incident. Resolving to create a literature around not a living person but around a living deed. Residing sovereign in the people and absolving time of being permanent.
 

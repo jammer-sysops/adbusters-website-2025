@@ -1,8 +1,9 @@
 ---
 title: "True-Cost Eating (PT. 5)"
-publishedOn: 2021-12-01T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-featuredImage: "/images/articles/61a7d9d2f866a1edd4f43524_truecost_parts_5_600x150_1.jpg"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/truecost-parts-5-600x150.jpg"
+category: "Eco"
 ---
 
 Once we tally the hidden costs of our industrial farming and food-processing systems, we raise the price of groceries to reflect the true cost of shipping them long distances. An avocado from Mexico will cost you $15. You won’t be able to indulge so often. And that shrimp from Indonesia? Once the eco devastation of mega-farming and container shipping are added on, it will run you about $35 a pound. A Whopper with cheese will quadruple in price. So will most meats, produce and processed foods.

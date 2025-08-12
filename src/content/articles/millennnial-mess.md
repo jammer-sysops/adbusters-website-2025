@@ -1,8 +1,9 @@
 ---
 title: "Millennial Mess"
-publishedOn: 2018-08-27T00:00:00Z
-author: "- Indu Iyer - Adbusters #139"
-featuredImage: "/images/articles/5b844797f2b1225dcac38369_Lonely-Alienated-Men-insta_1.jpg"
+publishedOn: 2024-11-05
+author: "Indu Iyer"
+featuredImage: "/images/articles/lonely-alienated-men-insta.jpg"
+category: "Psycho"
 ---
 
 I was a fucking millennial mess. In and out of the psych ward, psychotic, bipolar, whatever comorbidity du jour; for a year I ended up chemically lobotomized by antipsychotic wunderkind Abilify, and it’s out-of-vogue older brother Seroquel.
@@ -15,7 +16,7 @@ I showered maybe once a week. New aquamarine civilizations grew in my sink. Psyc
 
 ‍
 
-![](/images/articles/5b8448bf6b0036c9b748326b_Hate-Being-Bipolar-its-awesome-web_1.jpg)‍
+![Image](/images/articles/hate-being-bipolar-its-awesome-web.jpg)‍
 
 One evening, I went in for Open Gym, the last hour of operations where we are free to ask questions and train on our own. I went up to one of our coaches to clarify a point on body shots. Mid-thirties, a former pro, the enigmatic smile of someone who likes mischief. “Hey Indu, how’s it going?” — and for a moment I was stuck.
 

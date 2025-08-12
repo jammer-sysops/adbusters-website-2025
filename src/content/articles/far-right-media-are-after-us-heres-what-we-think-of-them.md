@@ -1,11 +1,12 @@
 ---
 title: "Far-right media are after us. Here’s what we think of them."
-publishedOn: 2020-09-11T00:00:00Z
+publishedOn: 2024-11-05
 author: "Trevor Clarke"
-
+featuredImage: "/images/articles/adbusters-turtle-logo.png"
+category: "Political"
 ---
 
-![](/images/articles/5f5bfde98e1b2d55754a0d00_adbusters_turtle_logo_1.png)The inevitable has happened: *Adbusters *has been caught up in the far-right’s hysterical, post-truth fantasia. To understand how the rabid right turns fact into fraud, abandoning even the pretense of truthfulness, read on. You are about to witness an example of how information is forced through the ideological meatgrinder, emerging out the other side as inflammatory delusion. 
+![Image](/images/articles/adbusters-turtle-logo.png)The inevitable has happened: *Adbusters *has been caught up in the far-right’s hysterical, post-truth fantasia. To understand how the rabid right turns fact into fraud, abandoning even the pretense of truthfulness, read on. You are about to witness an example of how information is forced through the ideological meatgrinder, emerging out the other side as inflammatory delusion. 
 
 Readers will be familiar with [our calls](https://www.adbusters.org/campaigns) for Americans to gather peacefully for fifty days, starting September 17th — the ninth anniversary of Occupy Wall Street — in Washington, D.C. Our purpose was, and still is, to “rekindle the true essence of democracy” and “electrify the election season” by assembling outside the White House. We have detailed our strategy in a series of [Tactical Briefings](https://www.adbusters.org/whitehousesiege-campaign), which emphasize the non-violent nature of the demonstration. We called it, *figuratively*, the White House Siege. 
 
@@ -23,4 +24,4 @@ Prosobiec, who has based the entirety of his regrettable livelihood on deceit, d
 
 We, on the other hand, are [calling](https://www.adbusters.org/campaigns/whitehousesiege-tactical-briefing-2) for the peaceable gathering of “thousands … to remind this authoritarian regime” of the American people’s “significance,” “will,” and “power.” [In our eyes](https://www.adbusters.org/campaigns/whitehousesiege-tactical-briefing-2), the “survival of the American experiment — the American *spirit *— requires nothing less” than a mass display of resistance to the debasement of its [founding principles](https://constitution.congress.gov/constitution/amendment-1/). “We the People,” the Constitution’s framers wrote, seek to “establish Justice, insure domestic Tranquility,” to “promote the general Welfare, and secure the Blessings of Liberty.” We stand for justice, tranquility, general welfare, liberty — and truth. By spewing outright falsehoods, celebrating ignorance, and encouraging the violent suppression of avowedly non-violent protests, the feral fanatics of the American far-right have shown that they stand for exactly the opposite. They, not we, are the true enemies of the United States.
 
-> *Postscript, 14 September 2020. With no official explanation, but doubtless due to the above and other malign distortions, the hashtag ****#WhiteHouseSiege**** has been censored on Facebook and is not likely to survive for long on other social-media platforms. So, from now on, we will tag our WHS-related posts with the hashtag ****#ReOccupy****.*
+*Postscript, 14 September 2020. With no official explanation, but doubtless due to the above and other malign distortions, the hashtag ****#WhiteHouseSiege**** has been censored on Facebook and is not likely to survive for long on other social-media platforms. So, from now on, we will tag our WHS-related posts with the hashtag ****#ReOccupy****.*

@@ -1,7 +1,7 @@
 ---
 title: "Historical Horrors"
-publishedOn: 2023-05-04T22:22:30Z
-author: "- Trevor Clarke"
+publishedOn: 2023-05-04
+author: "<p>- Trevor Clarke</p>"
 ---
 
 Every revolution, every *authentic *revolution, promises to redeem the failures of its predecessors. This is what Walter Benjamin thought — or at least, this is what Slavoj Žižek says Benjamin thought at the end of [*The Pervert’s Guide to Ideology*](https://www.youtube.com/watch?v=oBcFLmu_tlc)* *(2012). Paraphrasing Benjamin, Žižek says in the film that all the unsettled ghosts of the past will at last find rest in the new freedom born out of the true revolution to come. Yet he warns the path to this freedom comes with no guarantees. There is no train of historical inevitability that can be ridden to the safe harbour of emancipation. Getting there all depends on a fickle crowd of free riders, a ragtag huddle of the flighty and the faithless. They should be a familiar bunch because, it turns out, they are us. Our liberation rests on nobody’s shoulders but our own. 

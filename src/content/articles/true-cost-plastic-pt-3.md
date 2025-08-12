@@ -1,8 +1,9 @@
 ---
 title: "True-Cost Plastic (PT. 3)"
-publishedOn: 2021-12-01T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-featuredImage: "/images/articles/61a7d953d927016644728d0d_truecost_parts_3_600x150_1.jpg"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/truecost-parts-3-600x150.jpg"
+category: "Eco"
 ---
 
 How much plastic is coming out of the industrial bunghole annually?

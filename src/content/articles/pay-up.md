@@ -1,8 +1,8 @@
 ---
 title: "Pay Up"
-publishedOn: 2023-08-18T00:00:00Z
-author: "- —The Third Force - Adbusters #164"
-featuredImage: "/images/articles/64dfb20f39d77721702ac0eb_pay up_1.png"
+publishedOn: 2024-11-05
+author: "—The Third Force"
+featuredImage: "/images/articles/pay-up.png"
 ---
 
 The truth is out. The crimes of colonialism have been laid bare. Now, in return for centuries of rape, pillage, slavery, and exploitation, the moment has come to ensure the descendants of colonised peoples get their fair share of the spoils. 

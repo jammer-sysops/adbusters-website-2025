@@ -1,8 +1,9 @@
 ---
 title: "Lost Boys"
-publishedOn: 2023-03-01T00:00:00Z
-author: "- Harry Flood - Adbusters #164"
-featuredImage: "/images/articles/63ffded89daa17ba6b82ff7a_celine_crossed_600_1.gif"
+publishedOn: 2024-11-05
+author: "Harry Flood"
+featuredImage: "/images/articles/celine-crossed-600.gif"
+category: "Psycho"
 ---
 
 My teenage daughter’s social life is a whirl of competing invitations: You wanna go thrifting, or to the movies? Or maybe we grab some food while we prep for the Model UN trip and solve the world’s problems before sunrise?

@@ -1,13 +1,14 @@
 ---
 title: "The #TrueCost Revolution"
-publishedOn: 2021-04-19T22:32:36Z
+publishedOn: 2024-11-05
+featuredImage: "/images/articles/adbusters-issue-1-backcover-480x628.jpg"
 ---
 
 I remember the energy in our office as we whipped up the first issue of Adbusters back in 1989. On the back cover, a stern-looking Planet Earth pointing an accusing finger: *I WANT YOU TO CURB YOUR CONSUMPTION.*
 
 ‍
 
-![](/images/articles/60904647b5a42b59ff22116c_adbusters_issue_1_backcover_480x628.jpg)Adbusters back cover issue 1 - 1989‍
+![Image](/images/articles/adbusters-issue-1-backcover-480x628.jpg)‍
 
 The world was in a phase change. The Berlin Wall was about to fall. Solidarity was in the air, and the environmental movement was driving it. We’d seen the whole Earth from space and by God it looked vulnerable, hanging out there in the darkness. Like: Holy hell we barely register in the cosmic accounting. Environmentalism wasn’t some kind of consensus we all arrived at: it was an existential reaction that prompted a million gut-level responses — from Greenpeace activists racing toward Alaska on the (doomed) *Rainbow Warrior*, to hippies huddling up in communes on the city fringes. It was a moment of sacred reckoning. The Earth was* alive*. She was Gaia: the rivers her veins, the forests her hair, the oceans her lungs. And we humans an organic part of her. It felt like we were embarking on a spiritual journey that would take all of humanity to a new level of consciousness.
 
@@ -43,9 +44,9 @@ That’s where we are now.
 
 ‍
 
-![](/images/articles/607dfe3d93070a44e8857cd7_keep_forgetting_to_tile_277x311.jpg)‍
+![Image](/images/articles/keep-forgetting-to-tile-277x311.jpg)‍
 
-In our brainstorming sessions at Adbusters, one idea kept popping up: If you burrow deep into the innards of the capitalist algorithm, you find a major flaw. It’s that the vast majority of humankind’s carbon emissions are unpriced. Out of the trillions of transactions made every day in our global marketplace, only a tiny fraction reflect their true cost. From the tires on our cars to the phones in our hands, right down to the napkins that McDonald’s hands out with their Big Mac & fries . . . *every purchase we make is essentially a mistake*. And each one drives us a little closer to global system collapse.
+In our brainstorming sessions at Adbusters, one idea kept popping up: If you burrow deep into the innards of the capitalist algorithm, you find a major flaw. It’s that the vast majority of humankind’s carbon emissions are unpriced. Out of the trillions of transactions made every day in our global marketplace, only a tiny fraction reflect their true cost. From the tires on our cars to the phones in our hands, right down to the napkins that McDonald’s hands out with their Big Mac &amp; fries . . . *every purchase we make is essentially a mistake*. And each one drives us a little closer to global system collapse.
 
 With every bogus transaction, another drop of meltwater slides off an iceberg, another puff of CO2 rises to the sky, another bubble of methane wafts up from the tundra. If we keep repeating that mistake, trillions of times a day, week after week, month after month, year after year, what do you think will happen?
 
@@ -56,11 +57,13 @@ Let’s figure this out. What is the real cost of shipping a container load of t
 ‍
 
 ## The Road To True Cost
+
 We start with the little things: plastic bags, coffee cups, paper napkins. Economists sleuth out the eco-costs — say it’s five cents per plastic bag, ten cents per cup and a fraction of a cent per paper napkin — and those we tack on. We’re already doing that with the various eco-fees and eco-taxes included in the price of tires, cans of paint and other products. But now we abandon the concept of ancillary fees and taxes and start implementing true-cost pricing right across the board.
 
 ‍
 
 ## True-Cost Plastic
+
 How much plastic is coming out of the industrial bunghole annually? Economists spitball a number. Say it’s a trillion tons. Then they come up with their best estimate of the environmental price we pay for our clogged garbage dumps, polluted oceans and the shitspray of plastic microbeads through the food chain – say it’s $500 per ton. Every manufacturer, corporation and retailer that uses plastic in their business will be required to account for that. Maybe it’s a surcharge of a quarter on every bottle of Coke. Coca Cola can’t take a hit like that on their margin. They’ll have to change their business model. Likewise, the automobile industry will have to redesign their cars. Food producers will have to adapt.
 
 The cost of living will go up, and that’ll hurt. But plastic packaging will gradually disappear from our lives. We’ll buy our milk in glass bottles and bring them in for recycling like we used to. We’ll wash our plates, knives and forks and use them year after year, some for a lifetime. The garbage gyres in the oceans will shrink and finally disappear. Blight will vanish from beaches and ravines. Microplastics will stop plugging the tissues of every mammal including us. And the horror of bringing our children up in a world awash in plastic will be over.
@@ -68,6 +71,7 @@ The cost of living will go up, and that’ll hurt. But plastic packaging will gr
 ‍
 
 ## True-Cost Driving
+
 Once we add on the environmental cost of carbon emissions, the cost of building and maintaining roads, the medical costs of accidents, the noise and the aesthetic degradation of urban sprawl, your private automobile will cost you around $100,000, and a tank of gas $150. You’ll still be free to drive all you want, but instead of passing the costs on to future generations, you’ll pay up front.
 
 Plenty of people will call bullshit on the concept – at least in the beginning. But once it’s in place, we’ll see a fundamental transformation in how we get around. Car use will plunge and bicycle use soar. Ride sharing will spike. People will live closer to work. Demand for monorails, bullet trains, subways and streetcars will surge. A paradigm shift in urban planning will calm the pace of urban living. Cities will be built for people, not cars. City skies will be clearer. Breathing easier. Catastrophic weather events like hurricanes, floods and superfires will subside. The spectre of global heating won’t feel so ominous anymore.
@@ -75,23 +79,26 @@ Plenty of people will call bullshit on the concept – at least in the beginning
 ‍
 
 ## True-Cost Eating
+
 We estimate and add in the hidden costs of our industrial farming and food processing systems. We raise the price of groceries to reflect the true cost of shipping them long distances. An avocado from Mexico will cost you $15. You won’t be able to indulge so often. And that shrimp from Indonesia? Once the eco-devastation of mega farming and container shipping are added on, it will run you about $35 a pound. A Big Mac will cost quite a bit more. So will most meats, produce and processed foods. You can still eat whatever you want, but you’ll have to pay the real price. Inevitably, your palate will submit to your wallet. It will be tough, especially on lower income families. But the cost of organic and locally produced food will go down and provide a good alternative. Local farmers will be celebrated. We will grow tomatoes on our verandas, eat at home more and maybe lose some weight and be a little healthier. Bit by bit, purchase by purchase, lifestyle change by lifestyle change, our global food system will heave toward sustainability.
 
 ‍
 
 ## True-Cost Shipping
+
 For years it’s been ridiculously cheap to use mega tankers to ship container loads of stuff across the ocean. Much of that will stop. Our current way of exporting and importing goods, the one economists have been touting as a way to spur growth, but which depends on a mightily subsidized transportation system, will no longer fly. Globalization — capitalism’s bred-in-the-bone burden — will cease to be the dominant economic paradigm. Just about everything at the multinational megamarts will cost more. The whole tenor of world trade will be transformed. Exports and imports will stabilize at a reduced level. Trillions of purchases every day will come back to your neighborhood.
 
 ‍
 
 ## Next-level Accounting: The Social and Psychic Costs
+
 You’re cruising along an eight-lane highway and suddenly everything lurches to a halt. There’s a lot more going on here than a hefty blast of carbon emissions. A traffic jam is a huge collective stress event. There are health costs to being pinned in your car, on a dammed river of steel, fingers tightening on the wheel, blood pressure rising. Mental health costs too. A recent Swedish study found that a daily commute of forty-five minutes or longer increases your chance of divorce by 40 percent.
 
 What is the psychic cost of advertising, that daily broadside of proconsumption messages? Or the mental toll of continually checking your phone — basically tugging on the leg-hold trap of Big Tech’s surveillance algorithms, over and over and over? Or the social and psychological cost of losing the indie shops in your neighborhood as Starbucks, Home Depot and Walmart muscle their way in. All this is part of the True Cost story — and so must eventually be part of the final accounting — of the epidemic of mental illness now sweeping the planet.
 
 ‍
 
-![](/images/articles/607e013432d3051632d2af79_consumerism_graph_growth_422x312.jpg)‍
+![Image](/images/articles/consumerism-graph-growth-422x312.jpg)‍
 
 For conventional economists, True Cost is a frightening, heretical concept. A True-Cost marketplace would slow growth, reduce the flow of world trade and curb consumption. It would force economists to rethink just about every axiom they’ve taken for granted since the dawn of the industrial age.
 
@@ -118,11 +125,12 @@ True Cost will put a shine on ‘the dismal science.’ Economists would suddenl
 ‍
 
 ## The Savior Mechanism
+
 Implementing a True-Cost global marketplace would actually be quite simple. It could be made to work through the UPC code that’s already on just about every product sold around the world. When you swipe it, a True-Cost price adjustment automatically kicks in. All the ecological costs of making and marketing and shipping and distributing that thing you’re buying are baked in to the price. One swipe, one truth. Sticker shock: take it or leave it.
 
 ‍
 
-![](/images/articles/607e03ec3409bd0ed647b412_barcode_stickmen_395x272.jpg)‍
+![Image](/images/articles/barcode-stickmen-395x272.jpg)‍
 
 True Cost will generate a vast amount of money — probably in the trillions of dollars a year. Agreeing on how to spend it will no doubt be a messy, angry, contentious affair. It may well torpedo the whole project. But it could also turn into a beautiful collective brainstorm. Humanity’s joint endeavor. The birth of a global mind, with the stakes as high as they go: our very survival.
 
@@ -135,6 +143,7 @@ The nations of the world may agree to pool some of the money into a global-emerg
 ‍
 
 ## Is True Cost a Pipedream?
+
 True Cost? Great idea! But it’s never gonna work.
 
 That’s what they all say.

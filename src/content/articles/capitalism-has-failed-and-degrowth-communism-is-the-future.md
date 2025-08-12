@@ -1,6 +1,6 @@
 ---
 title: "Capitalism has Failed and Degrowth Communism is the Future"
-publishedOn: 2024-05-21T18:19:19Z
+publishedOn: 2024-11-05
 ---
 
 An Interview with Kohei Saito

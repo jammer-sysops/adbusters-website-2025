@@ -1,17 +1,20 @@
 ---
 title: "I’m W.E.I.R.D."
-publishedOn: 2021-03-30T00:00:00Z
-author: "- — Harry Flood - Adbusters #153"
-
+publishedOn: 2024-11-05
+author: "— Harry Flood"
+featuredImage: "/images/articles/im-weird-girl-600x742.gif"
+category: "Political"
 ---
 
-#### Ten years ago an academic paper stood the social sciences on their ear. It came out of the psychology department at the University of British Columbia.
+## Ten years ago an academic paper stood the social sciences on their ear. It came out of the psychology department at the University of British Columbia.
+
 A certain kind of person, the authors noticed, has been building the models and running the experiments and basically “programming the algorithms that run the world.” The psychologists (Joe Henrichs and Steve Heine and Ara Norenzayan) coined a term for those people: They are WEIRD.
 
-#### ‍
+## ‍
+
 **W**estern, **E**ducated, **I**ndustrialized, **R**ich, and **D**emocratic.
 
-![](/images/articles/60635f90cdb2bd77dfd8ea6b_im_weird_girl_600x742_1.gif)In other words, us. We are the WEIRDos. *The WEIRDest People in the World.*
+![Image](/images/articles/im-weird-girl-600x742.gif)In other words, us. We are the WEIRDos. *The WEIRDest People in the World.*
 
 And the constellation of circumstances that makes us us produces a particular kind of mind. It’s a mind that’s great at some things, such as generating wealth and occupying thrones and enforcing accountability. But it’s also a mind with serious blind spots. (Not the least of which is that it’s blind to its own blind spots.)
 

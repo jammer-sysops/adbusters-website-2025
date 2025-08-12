@@ -1,8 +1,8 @@
 ---
 title: "I was deeply inspired."
-publishedOn: 2020-06-24T00:00:00Z
-author: "- Lindsey - Adbusters #142"
-
+publishedOn: 2024-11-05
+author: "Lindsey"
+category: "Aesthetico"
 ---
 
 I found you years ago and was deeply inspired. I never missed an issue until they started changing. The

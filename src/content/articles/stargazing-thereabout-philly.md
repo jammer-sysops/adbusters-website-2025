@@ -1,8 +1,8 @@
 ---
 title: "STARGAZING THEREABOUT PHILLY"
-publishedOn: 2020-06-02T00:00:00Z
-author: "- Philly - Adbusters #149"
-
+publishedOn: 2024-11-05
+author: "Philly"
+category: "Psycho"
 ---
 
 This is just a note to say I'm thinking about you.

@@ -1,7 +1,8 @@
 ---
 title: "Birth of the Third Force"
-publishedOn: 2021-03-02T19:16:43Z
-author: "— from Adbusters’ forthcoming book, *The Third Force – Field Guide To a New World Order.*"
+publishedOn: 2024-11-05
+author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force – Field Guide To a New World Order.</em></p>"
+featuredImage: "/images/articles/new-left-arrows-450x236.jpg"
 ---
 
 Today we are witnessing the birth of a new kind of resistance, a movement that operates completely outside of geographic borders and political structures. *A Third Force*.
@@ -26,7 +27,7 @@ Politics will look like this:
 
 ‍
 
-![](/images/articles/602ef1697997d1436fd5083c_new_left_arrows_450x236.jpg)‍
+![Image](/images/articles/new-left-arrows-450x236.jpg)‍
 
 Our elected governments, the United Nations, the World Bank, the International Monetary Fund, etc. will continue to govern much as they always have. They will build the highways, collect the taxes, run the courts, deliver the mail. But now they will have to deal with this unsilenceable new voice demanding systemic transformations on multiple fronts.
 
@@ -48,7 +49,8 @@ We’re just learning how to harness the power of the Net. Not in a surface way,
 
 If we play this right, maintain clarity of mind, all the while keeping it loose, keeping it nimble, improvising riffs, being systems thinkers of the highest order, then we can become the dominant political force of the 21st century.
 
-#### The Revolution Algorithm
+## The Revolution Algorithm
+
 Dana Meadows, the environmental scientist who co-authored *The Limits of Growth*, urged us to think below the surface. In her iceberg model of systems thinking, the events we see unfolding, the stuff that makes the news, are only a small part of life.
 
 One level down lie trends. Repeating patterns.
@@ -59,7 +61,7 @@ The whole iceberg is shaped like a turnip. The deeper you get to the root, the m
 
 ‍
 
-![](/images/articles/602ef1f4aaaec88046156073_cools_pyramid_450x578.jpg)‍
+![Image](/images/articles/cools-pyramid-450x578.jpg)‍
 
 bottom — the level of our most ingrained values, assumptions and beliefs — to bring about meaningful, lasting change.
 
@@ -71,7 +73,7 @@ But now, caught in an existential crisis with no obvious way out, we begin to qu
 
 ‍
 
-![](/images/articles/602ef23c18c2e382f3e2df86_cultural_meme_pool_450x639.jpg)‍
+![Image](/images/articles/cultural-meme-pool-450x639.jpg)‍
 
 And then we deploy them.
 

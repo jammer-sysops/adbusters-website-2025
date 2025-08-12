@@ -1,8 +1,9 @@
 ---
 title: "True-Cost Driving (PT. 4)"
-publishedOn: 2021-12-01T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-featuredImage: "/images/articles/61a7d99b724c486529a21afe_truecost_parts_4_600x150_1.jpg"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/truecost-parts-4-600x150.jpg"
+category: "Eco"
 ---
 
 Once we account for the environmental cost of carbon emissions, the cost of building and maintaining roads, the medical costs of accidents, and the noise and the aesthetic degradation of urban sprawl, your personally owned car will cost you around $100,000, and a tank of gas $150. You’ll still be free to drive all you want, but instead of passing the costs on to future generations, you’ll pay up front.

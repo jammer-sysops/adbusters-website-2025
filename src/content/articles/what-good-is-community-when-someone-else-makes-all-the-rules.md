@@ -1,8 +1,9 @@
 ---
 title: "What Good Is ‘Community’ When Someone Else Makes All the Rules?"
-publishedOn: 2018-09-21T00:00:00Z
-author: "- Carina Chocano - Adbusters #139"
-featuredImage: "/images/articles/5ba570aa49b817837b6f5009_zuck terminator vision_1.jpg"
+publishedOn: 2024-11-05
+author: "Carina Chocano"
+featuredImage: "/images/articles/zuck-terminator-vision.jpg"
+category: "Psycho"
 ---
 
 ‍**We imagine community as a co-created project in which everything can be negotiated, in which everyone has a stake, in which democracy can flourish. The digital platforms present rich, human-built spaces where we can gather, have a voice and feel supported. But their promise of community masks a whole other layer of control — an organizing, siphoning, coercive force with its own private purposes. This is what has been sinking in, for more of us, over the past months, as attention turns toward these platforms and sentiment turns against them.**

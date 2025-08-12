@@ -1,8 +1,9 @@
 ---
 title: "The Solution Emerges (PT. 2)"
-publishedOn: 2021-12-02T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-featuredImage: "/images/articles/61a7d8d45ab425dde3905ea7_truecost_parts_2_600x150_1.jpg"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/truecost-parts-2-600x150.jpg"
+category: "Eco"
 ---
 
 The new accounting starts with the little stuff: plastic bags, coffee cups, paper napkins. 

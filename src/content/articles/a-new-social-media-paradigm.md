@@ -1,8 +1,9 @@
 ---
 title: "A New Social Media Paradigm"
-publishedOn: 2022-05-03T00:00:00Z
-author: "- Johann Hari, in Vox Conversations - Adbusters #160"
-featuredImage: "/images/articles/62719dba1d28d7f2e33e0375_jeff_deng_600_1.jpg"
+publishedOn: 2024-11-05
+author: "Johann Hari, in Vox Conversations"
+featuredImage: "/images/articles/jeff-deng-600.jpg"
+category: "Political"
 ---
 
 **Johann Hari: We just have to say that a business model that’s premised upon discovering the weaknesses in your attention in order to hack it and sell it to the highest bidder is fundamentally immoral and we will not allow it.

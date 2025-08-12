@@ -1,8 +1,8 @@
 ---
 title: "Nat Turner's Rebellion: Echoes of Resistance from Virginia to Gaza"
-publishedOn: 2024-04-17T18:25:48Z
+publishedOn: 2024-11-05
 author: "— Trevor Clarke"
-featuredImage: "/images/articles/6620351ab618370d7bd546f7_nat turner v2.jpg"
+featuredImage: "/images/articles/nat-turner-v2.jpg"
 ---
 
 Nat Turner was born in Virginia in 1800, the son of slaves and the property of plantation owners.

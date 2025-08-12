@@ -1,8 +1,8 @@
 ---
 title: "We've Got a Revolution on Our Hands"
-publishedOn: 2021-07-19T00:00:00Z
+publishedOn: 2024-11-05
 author: "Harry Flood"
-
+category: "Anarcho"
 ---
 
 If you look at the MeToo and BLM movements and ask *Why Now? What was different this time?*, it’s clear some key conditions were in place. A sort of energy had been building, an invisible rising heat that needed to meet its historical moment, and a final torch blast to get it to Fahrenheit 451.

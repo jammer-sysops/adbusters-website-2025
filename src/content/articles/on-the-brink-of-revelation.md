@@ -1,13 +1,14 @@
 ---
 title: "On the Brink of Revelation"
-publishedOn: 2023-05-24T00:00:00Z
-author: "- Rob Wipond - Adbusters #162"
-featuredImage: "/images/articles/646e6b546ad5c1fa61843a59_on-the-brick-of-relevation_1.gif"
+publishedOn: 2024-11-05
+author: "Rob Wipond"
+featuredImage: "/images/articles/on-the-brick-of-relevation.gif"
 ---
 
 ‍
 
-#### On the weather report, another record-breaking hurricane is chewing up the coast. You drive out through the suburbs and discover a shantytown, the kind you’ve always associated more with Somalia or Haiti than your own hometown. One more overtime shift at work, and your company health plan will automatically sign you up for Prozac. On TV, there’s another war.
+## On the weather report, another record-breaking hurricane is chewing up the coast. You drive out through the suburbs and discover a shantytown, the kind you’ve always associated more with Somalia or Haiti than your own hometown. One more overtime shift at work, and your company health plan will automatically sign you up for Prozac. On TV, there’s another war.
+
 Around and around and around. Even the most entrenched believers in the new global order have a mounting sense that some fundamental mindshift is needed. The contradictions of late-capitalist life put increasing pressure on our psyches to synthesize the data, yet insights come only in fits and starts. They appear like desert mirages, dazzling us with their promise and then dissolving into sand. 
 
 And suddenly we are all wondering: What would it be like to drink deeply? Can we in the First World have a revelation? Would we recognize one if we had it?

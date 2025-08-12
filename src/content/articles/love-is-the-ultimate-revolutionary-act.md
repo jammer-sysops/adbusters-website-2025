@@ -1,8 +1,8 @@
 ---
 title: "Love is the ultimate revolutionary act"
-publishedOn: 2024-03-11T18:41:38Z
+publishedOn: 2024-11-05
 author: "Daniel Younger"
-featuredImage: "/images/articles/65ef50596c855b2577bd8f80_love article.jpg"
+featuredImage: "/images/articles/love-article.jpg"
 ---
 
 The easy thing to do right now is pick a side. To let darkness get me all stirred up, convince me I know who’s right, put up my dukes and deny the humanity of the wrongdoer. But isn’t this line of thinking what leads to all bloodshed?

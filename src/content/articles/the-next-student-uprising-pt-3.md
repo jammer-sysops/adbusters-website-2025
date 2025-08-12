@@ -1,8 +1,8 @@
 ---
 title: "The Next Student Uprising (PT. 3)"
-publishedOn: 2021-09-22T22:19:01Z
-author: "Third Force"
-featuredImage: "/images/articles/614bafcb10f0b5400e6d42c2_students_next_pt3_600x400.jpg"
+publishedOn: 2024-11-05
+author: "<p>Third Force</p>"
+featuredImage: "/images/articles/students-next-pt3-600x400.jpg"
 ---
 
 And so here we are. And things are worse than ever. Cynicism about the global economy is off the charts. The whole game feels rigged.
@@ -11,7 +11,7 @@ The rich pay no taxes. Despite proof of a gigantic rogue offshore finance indust
 
 Market conditions are eerily similar to just before the crash of 1929. We’re inching toward some invisible tipping point where a runaway automated selloff trips all the circuit breakers on Wall Street. That, or it gets too hot to go outside in August.
 
-Millennials & Gen Z are feeling lost. They immerse themselves in cyberspace and do the best they can, though deep down they know that unless something fundamentally changes, they will continue to live precarious lives and have very little to look forward to.
+Millennials &amp; Gen Z are feeling lost. They immerse themselves in cyberspace and do the best they can, though deep down they know that unless something fundamentally changes, they will continue to live precarious lives and have very little to look forward to.
 
 But something is stirring. Those banked fires of previous stifled revolutions never went out. And now they have found a new fuel. #MeToo and #BLM shimmer as existence proofs: *Systemic change is possible!*
 

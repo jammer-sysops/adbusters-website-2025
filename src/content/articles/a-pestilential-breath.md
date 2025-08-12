@@ -1,11 +1,11 @@
 ---
 title: "A Pestilential Breath"
-publishedOn: 2022-11-08T22:34:37Z
-author: "- Trevor Clarke - Adbusters #161"
-featuredImage: "/images/articles/636c32edfa66485f44342a78_plagues_virus_pandemic_600.gif"
+publishedOn: 2024-11-05
+author: "<p id=\"\">- Trevor Clarke - <a href=\"https://subscribe.adbusters.org/products/ab-161-nope-hope\">Adbusters #161</a></p>"
+featuredImage: "/images/articles/plagues-virus-pandemic-600.gif"
 ---
 
-This plague will not be the last. This is not a prophecy. It is a scientific certainty. So long as the city-sprawl keeps on crushing up against the forest’s edge, so long as extractive industry treads farther into the hotbeds of contagion that are the deepest wilds, so long as highways and airlines, supply chains and shipping routes link those hotbeds to more and more remote corners of the human-inhabited world — in short, so long as things go on as usual, there will be more disease, disruption, and death. What’s more, it will all strike with greater and less manageable frequency. There is little indication that medicine will be able to keep up. Barring nuclear annihilation or Earth-swallowing war, we’ll simply have to learn to live and die on a planet not only blistering with heat but festering with pestilence. So don’t be too quick to let go of that mask. The only alternative is to perish. 
+![Image](/images/articles/plagues-virus-pandemic-600.gif)This plague will not be the last. This is not a prophecy. It is a scientific certainty. So long as the city-sprawl keeps on crushing up against the forest’s edge, so long as extractive industry treads farther into the hotbeds of contagion that are the deepest wilds, so long as highways and airlines, supply chains and shipping routes link those hotbeds to more and more remote corners of the human-inhabited world — in short, so long as things go on as usual, there will be more disease, disruption, and death. What’s more, it will all strike with greater and less manageable frequency. There is little indication that medicine will be able to keep up. Barring nuclear annihilation or Earth-swallowing war, we’ll simply have to learn to live and die on a planet not only blistering with heat but festering with pestilence. So don’t be too quick to let go of that mask. The only alternative is to perish. 
 
 The only alternative, that is, apart from a complete re-examination of the socioeconomic paradigm that has given rise to this state of affairs. But don’t get your hopes up. This is precisely what is called for in the case of the climate, and so far, it has proved too tall a task even (or rather *especially*) for some of the most formidable concentrations of power and resources humanity has yet known. This is no coincidence. The kinds of ventures driving up the likelihood of further and fiercer pandemics are the very same that are pushing us nearer the cliff’s edge of environmental catastrophe. These are twin crises, in other words, with a common origin. They both spill forth from the same polluted spring, which we’ve been drinking from greedily for decades. 
 

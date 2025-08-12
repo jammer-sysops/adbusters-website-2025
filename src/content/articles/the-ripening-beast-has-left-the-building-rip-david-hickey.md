@@ -1,12 +1,12 @@
 ---
 title: "The “Ripening Beast” Has Left the Building: RIP David Hickey"
-publishedOn: 2022-03-28T00:00:00Z
-author: "- Harry Flood - Adbusters #159"
-featuredImage: "/images/articles/62422131fa0e629135d43a62_dave_hickey_1.jpg"
+publishedOn: 2024-11-05
+author: "Harry Flood"
+featuredImage: "/images/articles/dave-hickey.jpg"
+category: "Anarcho"
 ---
 
-> **"In the twentieth century, that's all there is: jazz and rock-and-roll. The rest is term papers and advertising."** - Dave Hickey
-‍
+**"In the twentieth century, that's all there is: jazz and rock-and-roll. The rest is term papers and advertising."** - Dave Hickey‍
 
 The smartest guy in the room was also the biggest smartass. Harvard and Yale — both places he taught at – were the kind of clubs he wasn’t sure he wanted to belong to. He accepted a MacArthur “genius” grant while remaining deeply suspicious of the word. Nothing in life matters more than beauty, he insisted — even while scarfing hamburgers and living in Vegas. He pissed off people on both ends of the political spectrum, calling himself, at various times, a “bleeding heart libertarian,” and an “egalitarian elitist.” He said what it wasn’t safe to say until everyone else was saying it too (or at least thinking it).
 
@@ -16,8 +16,7 @@ All revolutions are aesthetic before they’re anything else. Taste is power, an
 
 From his perch way outside the establishment (like Diogenes the Cynic, living on lentils so he wouldn’t be beholden to the king), Hickey watched the culture re-order its preferences, sculpting and resculpting itself. Art is happening all over, in real time, and if you just look for it in galleries you’ll miss most of it. He saw no real distinction between a Mondrian painting and a Dr. J jump shot: if it makes your scalp tingle, it’s art. “There are people who treat Raphael as graffiti, and people who treat graffiti as Rafael,” he said. “I prefer the latter.”
 
-> “Bad taste is good taste,” he said, “and good taste is just the residue of someone else’s privilege.”
-*
+“Bad taste is good taste,” he said, “and good taste is just the residue of someone else’s privilege.”*
 
 He was the scat poet of literary criticism — his style was inspired, he claimed, by Chet Baker’s trumpet solos. (Hickey liked jazz because jazz exemplifies the possibly doomed experiment of being totally free, with others.) He wrote in bursts of observation that glowed with gonzo radioactivity. Old-school, yes, but somehow new-school too, in tune with the 140-character pulses sent daily by the billions into the Twitterverse. (Hickey saw the Internet for what it is — a double-edged blade. “If you’re on social media, you are not making good art or, at least, not enough of it . . . ”)
 

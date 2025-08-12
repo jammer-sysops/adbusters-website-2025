@@ -1,8 +1,8 @@
 ---
 title: "City of Thieves"
-publishedOn: 2023-08-25T00:00:00Z
-author: "- The Third Force - Adbusters #164"
-featuredImage: "/images/articles/64e8efb0453942a27b10b4ff_queen_1.png"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/queen.png"
 ---
 
 Which island country plays host to the most egregious financial misdeeds? Hint: it’s no beach-blanket paradise. It’s the UK, and London — its crime den of a capital — is at the heart of a globe-spanning system of money laundering, tax evasion and fraud, pumping dirty cash and facilitating dirty dealings around the world. 

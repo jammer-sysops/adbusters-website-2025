@@ -1,8 +1,8 @@
 ---
 title: "The Unofficial History of America"
-publishedOn: 2023-07-04T00:00:00Z
+publishedOn: 2024-11-05
 author: "Kalle Lasn"
-featuredImage: "/images/articles/64a47cbb8c345a44fa99bef4_history of america_1.jpg"
+featuredImage: "/images/articles/history-of-america.jpg"
 ---
 
 In high school the cool kids smoked. So I started smoking too. And I continued to smoke in university. I just changed brands. Gaulois were too pretentious; I went for British brands like Peter Stuyvesant, with its pure white pack.

@@ -1,8 +1,8 @@
 ---
 title: "Lone Wolf Activism — Live Without Dead Time"
-publishedOn: 2024-05-29T20:44:18Z
+publishedOn: 2024-11-05
 author: "— KL"
-featuredImage: "/images/articles/665794ae9d4bee98871c1949_Long Wolf Activisim.jpg"
+featuredImage: "/images/articles/long-wolf-activisim.jpg"
 ---
 
 The only thing that gives me satisfaction lately is going out and getting my nose dirty. Pulling off some little act of subversion — like placing an OUT OF ORDER sign on an ATM, or taping an *Ultimatum to World Leaders *poster on a bus stop shelter. Once in awhile I’ll drop	by the economics department of the University of British Columbia and pin *KICKITOVER MANIFESTOs *on professors’ doors. In future I might, I dunno, let the air out of some SUV tires; place a stink bomb in a bank; throw a handful of pixel dust in Justin Trudeau’s face. Such acts of civil disobedience aren’t exactly denting the universe. But they always turn my day around. Like, now I have the strength to fight another day.

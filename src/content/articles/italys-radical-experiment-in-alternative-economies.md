@@ -1,8 +1,9 @@
 ---
 title: "Italy’s Radical Experiment in Alternative Economies"
-publishedOn: 2019-05-29T00:00:00Z
-author: "- contribute editor - Adbusters #131"
-featuredImage: "/images/articles/5cef01cf5742d7c74a7b6c26_adbusters_126_perma-1170x635_1.jpg"
+publishedOn: 2024-11-05
+author: "contribute editor"
+featuredImage: "/images/articles/adbusters-126-perma-1170x635.jpg"
+category: "Eco"
 ---
 
 Casa delle Erbe (House of Herbs) is a growing community that challenges the idea that we need a capitalistic socio-economic structure.
@@ -19,7 +20,7 @@ From a foundation which connects people and land, an extensive and strong commun
 
 Beyond the harvest, people learn to cook with wild foods, homeopathy, art therapy, permaculture, music, and dance. Accessibility and community are of the upmost importance. Each Casa Delle Erbe must remain open. When an owner goes away, another member of the network fills in and any member can arrange an event at any of the houses in the network. Anyone may join. Participation in Casa delle Erbe requires only a desire to learn and a willingness to work.
 
-![](/images/articles/5cef0218285aecd8c53e9700_2017-01-06-1483695222-3793551-mariasoniabaldoni-thumb_1.jpeg)“To join this type of economy you don’t have to be a landowner. All you need is to recognize what plants to harvest, be connected to the network, and help process the plants. You can harvest in the wild, on roadsides, in gardens, anywhere. For local people who want to participate, we function by barter only. All the publicity in this region is designed by a young person for free because they want to participate and learn in the workshops. Another person does the printing, another person brings wood. No money has changed hands setting up Casa Delle Erbe and we have no sponsors. People come to us and offer the skills they have in order to join and learn. Those who learn become teachers and inspire more people to learn and teach. This is a movement which multiplies from its own energy.”
+![Image](/images/articles/2017-01-06-1483695222-3793551-mariasoniabaldoni-thumb.jpeg)“To join this type of economy you don’t have to be a landowner. All you need is to recognize what plants to harvest, be connected to the network, and help process the plants. You can harvest in the wild, on roadsides, in gardens, anywhere. For local people who want to participate, we function by barter only. All the publicity in this region is designed by a young person for free because they want to participate and learn in the workshops. Another person does the printing, another person brings wood. No money has changed hands setting up Casa Delle Erbe and we have no sponsors. People come to us and offer the skills they have in order to join and learn. Those who learn become teachers and inspire more people to learn and teach. This is a movement which multiplies from its own energy.”
 
 In parts of Europe where the economy is in decline and young people have no clear future, this represents a dynamic solution. The movement provides work, creativity, a culture of learning, and engages in research about early peoples’ traditions, how they understood the earth, a holistic life – a way of life that does not rely upon money.
 
@@ -27,4 +28,4 @@ In parts of Europe where the economy is in decline and young people have no clea
 
 -From Adbusters #131
 
-![](/images/articles/5cef0242635ae7d3926e3aeb_Cover-AB-131-1-313x360_1.jpg)‍
+![Image](/images/articles/cover-ab-131-1-313x360.jpg)‍

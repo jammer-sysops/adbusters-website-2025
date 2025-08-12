@@ -1,8 +1,7 @@
 ---
 title: "Unstraight lines"
-publishedOn: 2019-07-25T00:00:00Z
+publishedOn: 2024-11-05
 author: "Adbusters"
-
 ---
 
 Hello Adbusters,

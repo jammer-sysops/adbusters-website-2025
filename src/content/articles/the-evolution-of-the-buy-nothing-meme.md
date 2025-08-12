@@ -1,8 +1,9 @@
 ---
 title: "The Evolution of the Buy Nothing Meme"
-publishedOn: 2021-11-01T00:00:00Z
-author: "- Third Force - Adbusters #157"
-featuredImage: "/images/articles/61803181e24439152b0c7b21_buy_nothing_day_600x692_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/buy-nothing-day-600x692.jpg"
+category: "Corpo"
 ---
 
 Nearly three decades ago a neat little idea called Buy Nothing Day was born in Vancouver, BC. Conceived by artist Ted Dave and popularized by your favorite bimonthly, the activist ritual sprang out of the realization that consumption had gotten out of hand — that addiction-forming advertising had polluted our mental environment to the point of breakdown. Endless, mindless dissipation had become endemic, and it was killing not only our wallets but our culture, our souls, our planet. Something had to be done to take back power from corporations, to send the message that the spending public had woken up. Hence the one-day challenge to “participate by not participating.”

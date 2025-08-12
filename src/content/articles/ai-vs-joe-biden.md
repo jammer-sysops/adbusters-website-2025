@@ -1,8 +1,9 @@
 ---
 title: "AI Profiles Joe Biden"
-publishedOn: 2022-10-11T00:00:00Z
-author: "- Artificial Mind - Adbusters #163"
-featuredImage: "/images/articles/6345db9287c58e6cf3e8da5f_AI_vs_joe_biden_1.jpg"
+publishedOn: 2024-11-05
+author: "Artificial Mind"
+featuredImage: "/images/articles/ai-vs-joe-biden.jpg"
+category: "Political"
 ---
 
 Joe was feeling nervous. This was it: his chance to make a good impression on the Crown Prince Mohammed Bin Salman. They were both in attendance at the hottest disco in all of Manhattan, and Joe had to make sure he put his best foot forward.

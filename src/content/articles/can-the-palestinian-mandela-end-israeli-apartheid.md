@@ -1,8 +1,9 @@
 ---
 title: "Can the Palestinian Mandela End Israeli Apartheid?"
-publishedOn: 2021-05-26T00:00:00Z
-author: "- The Third Force - Adbusters #155"
-featuredImage: "/images/articles/60aea0e3f26619d5d2ca3f57_the_palestinian_mandela_600x780_1.gif"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/the-palestinian-mandela-600x780.gif"
+category: "Political"
 ---
 
 “Symbolically, nothing represents the bitter Palestinian reality under occupation more than the thousands of political prisoners languishing in Israeli jails,” writes Marwan Bishara for Al Jazeera. “And nothing personifies the struggle for liberty more than the likes of [Marwan] Barghouti, who spent much of his adult life in an Israeli jail or in exile.”

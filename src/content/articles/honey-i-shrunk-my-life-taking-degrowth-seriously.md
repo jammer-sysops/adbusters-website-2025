@@ -1,8 +1,8 @@
 ---
 title: "Honey, I shrunk my life - Taking “degrowth” seriously"
-publishedOn: 2024-03-06T18:56:21Z
-author: "—Harry Flood"
-featuredImage: "/images/articles/65e8c99aaa66081e39070f4f_degrowth-1.jpg"
+publishedOn: 2024-11-05
+author: "<p id=\"\">—Harry Flood</p>"
+featuredImage: "/images/articles/degrowth-1.jpg"
 ---
 
 “If economic policies have been failing for 30 years, then why don’t we invent a new way of life? The desire for that is suddenly there.”					
@@ -54,7 +54,7 @@ For awhile Kohei himself was a believer in the Green Growth middle way. But at a
 
 ‍
 
-![](/images/articles/65e8c9aba47f99aebd551a1d_degrowth-2.jpg)‍
+![Image](/images/articles/degrowth-2.jpg)‍
 
 **Engineering a Mindshift**
 
@@ -90,7 +90,7 @@ Sounds radical, but even John Stuart Mill, the philosopher and economist who fir
 
 ‍
 
-![](/images/articles/65e8c9b8dc46733515008855_degrowth-3.jpg)‍
+![Image](/images/articles/degrowth-3.jpg)‍
 
 **From saver to “savor”**
 
@@ -136,7 +136,7 @@ In the end these epiphanies did not stick. The paradigm shift never really mater
 
 ‍
 
-![](/images/articles/65e8c9c69bd51db53e919f71_degrowth-4.jpg)‍
+![Image](/images/articles/degrowth-4.jpg)‍
 
 **The Big Picture**
 
@@ -182,7 +182,7 @@ Living by a growth mindset, as we do now, “will become something like smoking,
 
 ‍
 
-![](/images/articles/65e8c9d4400485a0eeaa00e7_degrowth-5.jpg)‍
+![Image](/images/articles/degrowth-5.jpg)‍
 
 **Who will go first?**
 

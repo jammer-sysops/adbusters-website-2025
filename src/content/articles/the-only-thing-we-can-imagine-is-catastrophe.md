@@ -1,8 +1,9 @@
 ---
 title: "The only thing we can imagine is catastrophe"
-publishedOn: 2022-08-17T00:00:00Z
+publishedOn: 2024-11-05
 author: "David Graeber from Adbusters issue 97"
-featuredImage: "/images/articles/62fd496c3f3c9a91608e9fb7_david_graeber_adb97_550px_1.jpg"
+featuredImage: "/images/articles/david-graeber-adb97-550px.jpg"
+category: "Eco"
 ---
 
 There is very good reason to believe that, in a generation or so, capitalism itself will no longer exist – most obviously, as ecologists keep reminding us, because it’s impossible to maintain an engine of perpetual growth forever on a finite planet, and the current form of capitalism doesn’t seem to be capable of generating the kind of vast technological breakthroughs and mobilizations that would be required for us to start finding and colonizing any other planets. Yet faced with the prospect of capitalism actually ending, the most common reaction – even from those who call themselves “progressives” – is simply fear. We cling to what exists because we can no longer imagine an alternative that wouldn’t be even worse.

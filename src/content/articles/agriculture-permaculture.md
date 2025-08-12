@@ -1,8 +1,9 @@
 ---
 title: "Industrial Farming Is a War with Nature"
-publishedOn: 2021-07-14T00:00:00Z
-author: "- The Third Force - Adbusters #155"
-
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/agriculture-permaculture-600x882.jpg"
+category: "Eco"
 ---
 
 **Industrial farming is a war with nature. It’s about killing everything so one plant can grow. “You could argue that modern agriculture has brought about the most wholesale ecocide on the planet by killing the astonishingly rich microbial life of the soil,” writes Verlyn Klinkenborg for *The New York Review of Books*. Scraping away layer after layer of fertile, living soil, industrial farmers since the 19th century “simply mined their way downward … until they reached the place we are now.” That is, at the barren limit of rock bottom.**
@@ -21,4 +22,4 @@ Here’s what needs to happen — a pie-in-the-sky but desperately needed vision
 
 Who’s going to do all this? Not the government. Certainly not the corporations. It’s up to us — the revolutionary Third Force, a new kind of resistance, a movement that operates completely outside of geographic borders and political structures — to get it done.
 
-![](/images/articles/60ef30a469abb194b2a9c97a_agriculture_permaculture_600x882_1.jpg)
+![Image](/images/articles/agriculture-permaculture-600x882.jpg)

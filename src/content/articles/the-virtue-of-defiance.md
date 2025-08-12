@@ -1,7 +1,7 @@
 ---
 title: "The Virtue of Defiance"
-publishedOn: 2025-05-15T21:11:23Z 
-featuredImage: /images/articles/6826587690a70297223dd84d_4th refusal image.jpg
+publishedOn: 2025-05-15
+featuredImage: "/images/articles/4th-refusal-image.jpg"
 ---
 
 Young guy in a vest, holding a clipboard, came to the door.
@@ -42,7 +42,8 @@ His secret was out. The company script was clear on this. The fourth refusal wou
 
 There was, I now believe, a universal lesson in this small dumb exchange that may be key to stopping the shitshow breaking across the world.
 
-### “THE EXPERIMENT REQUIRES THAT YOU CONTINUE.”
+## “THE EXPERIMENT REQUIRES THAT YOU CONTINUE.”
+
 In Stanley Milgram’s famous “obedience to authority” studies – the ones where test subjects thought they were administering powerful shocks to a volunteer in the next room for their goofs on a memory test – the subjects grew increasingly uncomfortable with inflicting pain on this poor stranger. And yet their misgivings were dismissed. When they balked, the experimenter pressed them to continue.
 
 After the first refusal the subjects heard: “Please continue.”
@@ -67,7 +68,8 @@ But it takes courage! Because obedience to authority is the safest path to secur
 
 Indeed, so effective is the gaslighting in an authoritarian regime that we may talk ourselves out of acknowledging that there’s anything to be defiant *about*, even as the contours of control morph under our noses: now they’ve taken the C-suites; now they’ve taken the courts; now they’ve taken the media. Eventually if dawns on you that, my god, they’re trying to overturn democracy itself. But by now it may be too late. Your refusals haven’t registered as refusals at all. Because you haven’t done anything.
 
-### **YOUR LADDER OF DEFIANCE**
+## **YOUR LADDER OF DEFIANCE**
+
 The psychological machinery of defiance grinds quietly away in every skull, according to Sah, in a sequence that goes something like this:
 
 **Stage one:** tension arises from this uncomfortable ask.
@@ -108,7 +110,8 @@ So this is the question we all need to ask ourselves right now:
 
 Where is *my* red line?
 
-### **REFUSAL IS A TRAINABLE SKILL**
+## **REFUSAL IS A TRAINABLE SKILL**
+
 The fourth refusal is the source code of democracy. Each one of us needs the bravery to carry on refusing till we reach it.
 
 Refusal is a trainable skill.

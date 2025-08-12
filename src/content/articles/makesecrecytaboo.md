@@ -1,6 +1,7 @@
 ---
 title: "#MakeSecrecyTaboo"
-publishedOn: 2021-03-19T18:52:25Z
+publishedOn: 2024-11-05
+featuredImage: "/images/articles/article-19-universal-declaration-of-human-rights-600x776.jpg"
 ---
 
 On November 1, 1964, just as he was gaining real traction, Reverend Martin Luther King received a vicious blackmail letter. The anonymous writer threatened to destroy him personally and professionally, and suggested he just commit suicide and save somebody a bullet.
@@ -219,7 +220,7 @@ Here’s the other thing about free-flowing information: it works. In the long r
 
 ‍
 
-When people feel empowered, they behave differently. The psychological power balance between top & bottom of society is shattered.
+When people feel empowered, they behave differently. The psychological power balance between top &amp; bottom of society is shattered.
 
 ‍
 
@@ -335,6 +336,6 @@ The stakes are huge. As long as elites and powerful forces are able to concoct w
 
 ‍
 
-![](/images/articles/6054f2b89f59dafcbe38a18b_article_19_universal_declaration_of_human_rights_600x776.jpg)‍
+![Image](/images/articles/article-19-universal-declaration-of-human-rights-600x776.jpg)‍
 
 — from Manifesto for World Revolution, [get your copy here!](https://subscribe.adbusters.org/products/a-manifesto-for-world-revolution)

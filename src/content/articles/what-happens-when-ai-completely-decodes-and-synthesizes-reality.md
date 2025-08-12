@@ -1,8 +1,8 @@
 ---
 title: "What Happens When AI Completely Decodes and Synthesizes Reality?"
-publishedOn: 2023-07-13T00:00:00Z
+publishedOn: 2024-11-05
 author: "Kalle Lasn"
-featuredImage: "/images/articles/64b0446a4e0051f9b3708027_butterfly_1.jpg"
+featuredImage: "/images/articles/butterfly.jpg"
 ---
 
 As we realize A.I. can do what we do, better – and for free — we’ll experience a kind of false dawn of euphoria. It steps up, and we happily step back. 

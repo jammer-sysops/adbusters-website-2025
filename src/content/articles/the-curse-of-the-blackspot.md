@@ -1,8 +1,9 @@
 ---
 title: "The Curse of the BlackSpot"
-publishedOn: 2021-09-30T00:00:00Z
-author: "- — The Third Force - Adbusters #157"
-
+publishedOn: 2024-11-05
+author: "— The Third Force"
+featuredImage: "/images/articles/the-blackspot-298x265.png"
+category: "Anarcho"
 ---
 
 **Gen. Min Aung Hlaing of Myanmar. Belarus’s Lukashenko. Assad. Sisi. MBS.**
@@ -21,7 +22,7 @@ It’s time to slip them the sign of their imminent doom:
 
 ‍
 
-![](/images/articles/615600fe76aec984d5cf3177_the_blackspot_298x265_1.png)‍
+![Image](/images/articles/the-blackspot-298x265.png)‍
 
 The Blackspot is a symbol of rage — of hurt , of anger, of a thirst for justice. It’s a mark of Cain. A scourge. A judgement.
 

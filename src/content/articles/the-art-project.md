@@ -1,8 +1,9 @@
 ---
 title: "The Art Project"
-publishedOn: 2021-10-25T00:00:00Z
-author: "- Third Force - Adbusters #157"
-featuredImage: "/images/articles/61771313f091c70b342f5391_atm_art_project_450x571_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/atm-art-project-450x571.jpg"
+category: "Anarcho"
 ---
 
 There are places we go to stand, naked and vulnerable, before a higher power. Like the ATM.

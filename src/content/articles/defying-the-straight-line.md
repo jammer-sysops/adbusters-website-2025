@@ -1,8 +1,8 @@
 ---
 title: "Defying the Straight Line"
-publishedOn: 2024-06-24T17:58:37Z
+publishedOn: 2024-11-05
 author: "– Harry Flood"
-featuredImage: "/images/articles/6679b62ad36a8cd20c9b10e0_defy the straight line.jpg"
+featuredImage: "/images/articles/defy-the-straight-line.jpg"
 ---
 
 He couldn't stand straight lines and right angles, which aren't much found in nature. Things not made by us mostly curve. Nothing worthwhile is plum, level or square.

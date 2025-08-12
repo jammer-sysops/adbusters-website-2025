@@ -1,8 +1,9 @@
 ---
 title: "Revolution is Coming."
-publishedOn: 2021-11-05T00:00:00Z
-author: "- Third Force - Adbusters #157"
-featuredImage: "/images/articles/6185a4e2ef3a006d77b3a1dc_revolution_is_coming_Martha_Burzynski_600x412_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/revolution-is-coming-martha-burzynski-600x412.jpg"
+category: "Anarcho"
 ---
 
 What is the capitalist algorithm after all but a machine that runs on money?

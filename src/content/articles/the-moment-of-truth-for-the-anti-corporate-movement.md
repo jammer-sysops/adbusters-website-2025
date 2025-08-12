@@ -1,14 +1,13 @@
 ---
 title: "#KILLACORP"
-publishedOn: 2021-07-05T18:24:35Z
-author: "— from Adbusters’ forthcoming book, *The Third Force: Field Guide to a New World Order*"
-featuredImage: "/images/articles/60e370c43dd91c65908198bd_killacorp_Exxon_spoofad_600x400.jpg"
+publishedOn: 2024-11-05
+author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force: Field Guide to a New World Order</em></p>"
+featuredImage: "/images/articles/killacorp-exxon-spoofad-600x400.jpg"
 ---
 
 ‍
 
-> This is part 4 of a 4 part series. Read [Part 1](http://www.adbusters.org/full-articles/the-unofficial-history-of-america), [Part 2](http://www.adbusters.org/full-articles/four-metamemes-to-take-power-back-from-corporations) and [Part 3](http://www.adbusters.org/full-articles/rise-of-the-corporate-charter-revocation-movement)
-‍
+This is part 4 of a 4 part series. Read [Part 1](http://www.adbusters.org/full-articles/the-unofficial-history-of-america), [Part 2](http://www.adbusters.org/full-articles/four-metamemes-to-take-power-back-from-corporations) and [Part 3](http://www.adbusters.org/full-articles/rise-of-the-corporate-charter-revocation-movement)‍
 
 The worst of the corporate criminals have committed inexcusable trespass. Philip Morris, Monsanto, GM, the Sackler family, ExxonMobil: the list goes on and on. Not once over the last one hundred years has a criminal corporation been brought all the way down: its brand erased, its business disbanded, its profits paid out in reparations, its name turned into a historical footnote.
 

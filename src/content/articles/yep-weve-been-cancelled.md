@@ -1,8 +1,9 @@
 ---
 title: "Yep, We’ve Been Cancelled"
-publishedOn: 2021-07-12T00:00:00Z
+publishedOn: 2024-11-05
 author: "Adbusters"
-
+featuredImage: "/images/articles/adbusters-cancelled-issue-155-corpo.jpg"
+category: "Corpo"
 ---
 
 Shoppers Drug Mart doesn’t want you to read *Adbusters*.
@@ -13,7 +14,7 @@ And for what? An unspecified number of complaints about issue #155, in which we 
 
 ‍
 
-![](/images/articles/60eca3bca6cf78e37cba995f_adbusters_cancelled_issue_155_corpo_1.jpg)![](/images/articles/60eca3e24f34500bf3ad92ff_adbusters_cancelled_issue_155_dead_animals_1.jpg)‍
+![Image](/images/articles/adbusters-cancelled-issue-155-corpo.jpg)![Image](/images/articles/adbusters-cancelled-issue-155-dead-animals.jpg)‍
 
 When we reached out to the distributor for clarification — *What was the specific nature of the complaints? How many complaints did Shoppers receive? Does the company follow a codified procedure when deciding to delist?* — we were met with a shrug. “I think it’s pretty self explanatory …” was their unsigned final word. Talk about courtesy.
 

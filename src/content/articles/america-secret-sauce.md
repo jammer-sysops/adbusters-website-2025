@@ -1,8 +1,9 @@
 ---
 title: "America's Secret Sauce"
-publishedOn: 2023-03-28T00:00:00Z
+publishedOn: 2024-11-05
 author: "- KL"
-featuredImage: "/images/articles/642346117318eaa43e822f92_tarot-OCCUPY_600_1.gif"
+featuredImage: "/images/articles/tarot-occupy-600.gif"
+category: "Political"
 ---
 
 When I first hit San Francisco back in the ’60s, America was in the throes of an almighty cultural explosion. Everything in the air all at once. Poetry and music and fashion trying to explain it as it was happening, but it couldn’t keep up. You needed LSD / psilocybin / marijuana to modulate the tempo. And the new vibe – which absolutely steamrolled the tired old tummy-rub culture of Gunsmoke / Bonanza / I Love Lucy — shot throughout the world so quickly you couldn’t help but wonder: Could this youth rebellion be the beginning of a global revolution?

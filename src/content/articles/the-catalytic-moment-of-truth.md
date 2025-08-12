@@ -1,8 +1,9 @@
 ---
 title: "The Catalytic Moment of Truth"
-publishedOn: 2022-03-22T00:00:00Z
-author: "- Third Force - Adbusters #155"
-featuredImage: "/images/articles/623a2e9817155bc33cccd890_organized_crime_600x472_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/organized-crime-600x472.jpg"
+category: "Corpo"
 ---
 
 Dam justice long enough and eventually it splits the concrete and floods the valley.

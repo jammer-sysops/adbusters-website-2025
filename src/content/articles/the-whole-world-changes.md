@@ -1,8 +1,9 @@
 ---
 title: "The Whole World Changes"
-publishedOn: 2022-08-26T00:00:00Z
-author: "- Rob Wipond - Adbusters #162"
-featuredImage: "/images/articles/6309326ac4a11b353e6a20e2_jenny_woods_593_1.jpg"
+publishedOn: 2024-11-05
+author: "Rob Wipond"
+featuredImage: "/images/articles/jenny-woods-593.jpg"
+category: "Psycho"
 ---
 
 We were standing in the street, half-way home from the day job and momentarily distracted by a good-looking parking cop, when it happened. It happened. And everything in our life – jobs, relationships, pastimes – was instantly suspended. It felt as if something beneath us was shifting in a fundamental way. 

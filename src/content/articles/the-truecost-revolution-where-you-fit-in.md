@@ -1,10 +1,11 @@
 ---
 title: "The #TrueCost Revolution - Where You Fit In"
-publishedOn: 2021-05-03T22:40:51Z
-author: "— from Adbusters’ forthcoming book, *The Third Force: A Field Guide to a New World Order*"
-featuredImage: "/images/articles/6091d4c87e3abb6f606fba4f_where_you_fit_in_truecost_600x528.jpg"
+publishedOn: 2024-11-05
+author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force: A Field Guide to a New World Order</em></p>"
+featuredImage: "/images/articles/where-you-fit-in-truecost-600x528.jpg"
 ---
-‍
+
+![Image](/images/articles/where-you-fit-in-truecost-600x528.jpg)‍
 
 Over the last couple of generations, we in the so-called “developed” world have eased into a very cushy way of living. We love our dish washers, spin dryers and microwave ovens. We love our throw away diapers, pre-washed veggies and ready-to-eat dinners delivered right to our door. And we love cruising in our cars with our favorite music playing. The idea of living more austere lives is anathema. We’re hooked on all of this stuff now. Whatever it takes, we gotta have our Doritos.
 
@@ -33,6 +34,7 @@ That’s why there might actually not be the almighty pushback you’d expect �
 ‍
 
 ## A New Myth
+
 The man who proposed the Gaia hypothesis, James Lovelock, is hopeful at age 100 that what’s going to save Gaia is the very species that drove her to the brink: us. Or rather, a technologically enhanced us. Cyborgs, programmed to save themselves, will save Earth, he reckons. 
 
 I have my doubts. I think it’s going to take something way more personal and emotional. Because until you can feel what needs to be done, you won’t do it. If it seems like a hellacious sacrifice to do what needs doing, we won’t do it. It has to instead take the form of — let’s just say it — a *spiritual* leap.

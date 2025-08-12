@@ -1,8 +1,9 @@
 ---
 title: "The Surefire Solution to Our Climate Crisis."
-publishedOn: 2021-12-01T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-featuredImage: "/images/articles/61a7ca2b3a3a86284dbc02df_sea_levels_rise_intro_600x386_1.jpg"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/sea-levels-rise-intro-600x386.jpg"
+category: "Eco"
 ---
 
 Storms are building. Floods are surging. Wildfires are blazing. Heat and drought are desiccating the earth. People are suffering, their livelihoods combusting like so much dredged-up fossil matter.

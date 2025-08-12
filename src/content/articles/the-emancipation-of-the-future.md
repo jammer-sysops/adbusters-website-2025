@@ -1,11 +1,12 @@
 ---
 title: "The Emancipation of the Future"
-publishedOn: 2018-08-27T00:00:00Z
-author: "- Dayna Mahannah - Adbusters #139"
-featuredImage: "/images/articles/5b844c4fa4355b3565fdc6fe_Perma-Culture-web_1.jpg"
+publishedOn: 2024-11-05
+author: "Dayna Mahannah"
+featuredImage: "/images/articles/perma-culture-web.jpg"
+category: "Eco"
 ---
 
-### Remember when permaculture took root nearly a hundred years ago, back in 1978?
+## Remember when permaculture took root nearly a hundred years ago, back in 1978?
 
 Ha! Wild how time flies, and ideas grow. Bill Mollison and David Holmgren would be proud papas, were they to see the world today. Their permababy has flourished into a permaworld! It took a while to really get anywhere, but after the Global Food Apartheid in the 2020s, there was no going back. Renegades like Ron Finley boiled down the heart of permaculture—creating your own system—into a simple action: grow your own food! 
 
@@ -25,7 +26,7 @@ And they tried to take them to jail, but the guerrilla gardeners banded together
 
 ‍
 
-![](/images/articles/5b844cb226a89255962c3904_water-is-life-web_1.jpg)Grape vines trawled over the railings. An old man with eczema duct-taped glass jars of aloe vera and succulents to his wheelchair. Then he built a tiny shelf structure that fitted to it and he lined them with little pots of seedlings, and he handed them out to kids in the street. I know because I was a kid then and I helped him hand them out. That old boy was my grandpa.
+![Image](/images/articles/water-is-life-web.jpg)Grape vines trawled over the railings. An old man with eczema duct-taped glass jars of aloe vera and succulents to his wheelchair. Then he built a tiny shelf structure that fitted to it and he lined them with little pots of seedlings, and he handed them out to kids in the street. I know because I was a kid then and I helped him hand them out. That old boy was my grandpa.
 
 Eventually, the City budged. People called him Seedy Joe, and when he passed away his soul lived on in the huge tomato plants and the garlic and sunflowers that grew in the gardens of the kids who had grown up and continued the permarevolution.
 

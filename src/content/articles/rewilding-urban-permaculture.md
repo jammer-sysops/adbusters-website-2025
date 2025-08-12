@@ -1,8 +1,9 @@
 ---
 title: "Rewilding Urban Permaculture"
-publishedOn: 2022-06-16T00:00:00Z
-author: "- Third Force - Adbusters #161"
-featuredImage: "/images/articles/62ab7f3a70767552c9cb5da6_stop_mowing_your_lawn_600_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/stop-mowing-your-lawn-600.jpg"
+category: "Eco"
 ---
 
 The empire of bugs is collapsing. If it fails completely, we might all starve.

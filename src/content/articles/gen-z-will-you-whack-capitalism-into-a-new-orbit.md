@@ -1,8 +1,9 @@
 ---
 title: "Opting Out: Antiwork and the Great Resignation"
-publishedOn: 2022-03-07T00:00:00Z
-author: "- The Third Force - Adbusters #159"
-featuredImage: "/images/articles/62266db561ca2a734c20695e_didnt_go_to_work_600x413_1.gif"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/didnt-go-to-work-600x413.gif"
+category: "Econo"
 ---
 
 Americans quit their jobs this summer at rate never seen before. Gen Z led the charge. The children of Occupy Wall Street — footsoldiers of the Third Force — went full Johnny Paycheck on their crappy minimum-wage employment.

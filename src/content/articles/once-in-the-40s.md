@@ -1,8 +1,9 @@
 ---
 title: "Once in the 40s"
-publishedOn: 2019-07-31T00:00:00Z
-author: "- William Stafford - Adbusters #142"
-featuredImage: "/images/articles/5d41d703b8b3b47445fef6a6_annie-spratt-web_1.jpg"
+publishedOn: 2024-11-05
+author: "William Stafford"
+featuredImage: "/images/articles/annie-spratt-web.jpg"
+category: "Aesthetico"
 ---
 
 We were alone one night on a long

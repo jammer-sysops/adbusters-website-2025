@@ -1,8 +1,8 @@
 ---
 title: "The Second Student Revolt (PT. 2)"
-publishedOn: 2021-09-17T21:19:40Z
-author: "Third Force"
-featuredImage: "/images/articles/61450666608f851b69884330_students_revolt_pt2_600x400.jpg"
+publishedOn: 2024-11-05
+author: "<p>Third Force</p>"
+featuredImage: "/images/articles/students-revolt-pt2-600x400.jpg"
 ---
 
 On September 15, 2008, out of the blue sky, a crash. Twenty percent of global trade wiped out. The beginning of a depression that would last longer than the Great Depression. Mainstream economists were blindsided. Not even one in a hundred saw it coming.

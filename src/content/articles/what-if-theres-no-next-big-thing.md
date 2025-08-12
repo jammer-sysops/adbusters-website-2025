@@ -1,8 +1,9 @@
 ---
 title: "Will Humanity Survive?"
-publishedOn: 2023-03-08T00:00:00Z
+publishedOn: 2024-11-05
 author: "- William Davies"
-featuredImage: "/images/articles/6408ec9d01f03f149b5a2591_next-big-thing-165-homepage_1.gif"
+featuredImage: "/images/articles/next-big-thing-165-homepage.gif"
+category: "Anarcho"
 ---
 
 Humanity has always pulled out a win in the fourth quarter. The Big Chill 150,000 years ago nearly knocked us out before we'd really gotten started. The Toba volcano almost finished us 70,000 years ago, but we persisted. We dodged nuclear apocalypse by a hair's-breadth during the Cuban missile crisis. We've been knocked back decades by plagues and pandemics a few times, but we always come back swinging.

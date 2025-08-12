@@ -1,11 +1,12 @@
 ---
-title: "Violence and Activism: Five Variations"
-publishedOn: 2020-02-06T00:00:00Z
-author: "- Trevor Clarke - Adbusters #147"
-
+title: "\"Violence and Activism: Five Variations\""
+publishedOn: 2024-11-05
+author: "Trevor Clarke"
+featuredImage: "/images/articles/violence-profiles-pic01-800x444.jpg"
+category: "Anarcho"
 ---
 
-![](/images/articles/5f07792b213ede22d8127f8e_violence_profiles_pic01_800x444_1.jpg)Does violence have a place in art? Whether it does, it has featured to a growing extent in the “actions,” or protest-performances, of Petr Pavlensky. The Russian-born provocateur first made a sensation of himself when, in 2012, he sewed his lips shut and stood in public protest of the jailing of members of Pussy Riot. (They were convicted of hooliganism for their punk demonstration, within the Cathedral of Christ the Saviour in Moscow, against the Russian Orthodox Church’s support of then-candidate Vladimir Putin.)
+![Image](/images/articles/violence-profiles-pic01-800x444.jpg)Does violence have a place in art? Whether it does, it has featured to a growing extent in the “actions,” or protest-performances, of Petr Pavlensky. The Russian-born provocateur first made a sensation of himself when, in 2012, he sewed his lips shut and stood in public protest of the jailing of members of Pussy Riot. (They were convicted of hooliganism for their punk demonstration, within the Cathedral of Christ the Saviour in Moscow, against the Russian Orthodox Church’s support of then-candidate Vladimir Putin.)
 
 The following year, assistants laid his nude body, wrapped within a tangled nest of barbed wire, before the Legislative Assembly of Saint Petersburg. This action was intended to protest the Russian state’s turning its citizens into “gutless and securely guarded cattle, which can only consume, work, and reproduce.” He was left to be pried free by police.
 
@@ -17,7 +18,7 @@ Pavlensky’s transgressive pageantry confirms that carefully fashioned, vaguely
 
 And yet, he has placed no body but his own in harm’s way, and damaged only property that belongs to formidable institutions — which is to say, to those who can more than afford the bill for repairs. On those grounds, Pavlensky’s methods lie outside the sphere of truly intolerable violence. But for his eye-catching theatrics to have the potential to achieve real political purchase, he must do more than simply disturb his audience — by shaking its constituents into a state of greater awareness, imparting on them a greater impetus to act.
 
-![](/images/articles/5f077937886ac78ca4f10978_violence_profiles_pic02_800x444_1.jpg)“Terrorist” is a loaded word, the connotations of which are subject to time and place. It meant something altogether different, at its birth, to the French citizen during Maximilien Robespierre’s Reign of Terror, than to the bourgeois of turn-of-the-century Europe, harried by insurrectionary anarchists’ “propaganda of the deed.” It meant something different to Ireland during three bloody decades of Troubles, than to near-contemporaneous West Germany, then in the homicidal grip of the Red Army Faction. And It meant something different to the world before, and after, the events of the eleventh of September.
+![Image](/images/articles/violence-profiles-pic02-800x444.jpg)“Terrorist” is a loaded word, the connotations of which are subject to time and place. It meant something altogether different, at its birth, to the French citizen during Maximilien Robespierre’s Reign of Terror, than to the bourgeois of turn-of-the-century Europe, harried by insurrectionary anarchists’ “propaganda of the deed.” It meant something different to Ireland during three bloody decades of Troubles, than to near-contemporaneous West Germany, then in the homicidal grip of the Red Army Faction. And It meant something different to the world before, and after, the events of the eleventh of September.
 ‍
 Between activist Scott Crow, on one hand; and the F.B.I. (which has a file open on Crow, who has never been charged, that is more than a decade old), on the other, there is a similar disagreement as to the scope of that heavy word. The agency suspects that the man is a terrorist, while the man maintains that he is nothing of the sort.
 ‍
@@ -25,7 +26,7 @@ Crow, fifty-two, is a self-described anarchist, organizer (of such initiatives a
 ‍
 Crow justifies his willingness to engage violently in such skirmishes as a means to deter “fascists,” broadly speaking, from their openly endorsing their creed. “For them to show up in public to speak about genocide and hate,” he claims, “it raises the cost.” Though to what extent such armed, civilian counter-counterdemonstration has sequestered, or can sequester, the proliferation of hatred is not clear. Nor is the efficacy of his fighting the exponents of violence with little besides the very instrument of their choice. For violence alone, without an appeal to principles, can only beget more of the same. Can Crow do much of anything to stop fascism, all but the quintessence of violence, while aping the petty violence that characterizes his purported enemies?
 
-![](/images/articles/5f07795e886ac730f6f1098d_violence_profiles_pic03_800x444_1.jpg)It is a city of looming towers and chasmic thoroughfares, veritable canyons of concrete and glass. In Hong Kong, there are more skyscrapers — three-hundred and fifty-three — than in any other city on earth. There are also, therefore, more shadows.
+![Image](/images/articles/violence-profiles-pic03-800x444.jpg)It is a city of looming towers and chasmic thoroughfares, veritable canyons of concrete and glass. In Hong Kong, there are more skyscrapers — three-hundred and fifty-three — than in any other city on earth. There are also, therefore, more shadows.
 ‍
 What has transpired in the shadows of these colossal steel pillars these last months is nothing short of historic. Without any central organizing leadership, millions of demonstrators have descended, as if in a fluid mass, on Hong Kong’s riverine streets and roadways. Thousands have marched, chanted, and picketed; gone on strike, formed human chains, and disrupted public life; vandalized, wrecked, and beaten; been beaten, maimed, and jailed. Thousands have risked their livelihoods, even their very lives. Eight have died, all at their own hand, in protest.
 ‍
@@ -33,7 +34,7 @@ A clear consequence of the protests’ being decentralized is that many strategi
 ‍
 The risk is that, in escalating the number and severity of violent acts, Hong Kong’s fighters for freedom bring down upon themselves, and all Hong Kong besides, the wrath of their nominal sovereign. Theirs is one, to put it almost indelicately, not favourably disposed to dissent. Only thirty years since (in bleak contrast to the contemporaneous mounting of the Autumn of Nations across Europe, east to the crumbling Soviet Union), demonstrators in their untold numbers fell to the rifles and tanks of Beijing. And there is no telling how patient its present-day rulers will remain before such a moment repeats itself. In that dreary light, the phrase “You’re the ones who taught me peaceful protests don’t work,” seen spray-painted about Hong Kong, seems at once righteous and rash. After all, who are but a minority to take to such violent measures, without consent, on the part of millions? Would that justice could be sought in Hong Kong without summoning the military might, already at the gates, of the CCP.
 
-![](/images/articles/5f07797b52711610814a482a_violence_profiles_pic04_800x444_1.jpg)Roger Hallam knows that his time, and ours, is short. Hence the urgency of his woeful message to the inhabitants of the warming earth — who, without prompt, sweeping change to their collective habits, may find themselves amid the worst and widest threat to human life in history. Hence his fury, aimed at the abetters of the ongoing Sixth Extinction and coeval Climate and Ecological Emergency.
+![Image](/images/articles/violence-profiles-pic04-800x444.jpg)Roger Hallam knows that his time, and ours, is short. Hence the urgency of his woeful message to the inhabitants of the warming earth — who, without prompt, sweeping change to their collective habits, may find themselves amid the worst and widest threat to human life in history. Hence his fury, aimed at the abetters of the ongoing Sixth Extinction and coeval Climate and Ecological Emergency.
 ‍
 Hallam, who is fifty-three, is one of a pair of activists to have founded Extinction Rebellion (XR). “[XR] is humbly following in the tradition of Gandhi and Martin Luther King,” Hallam wrote in The Guardian last May. “We are simply rediscovering what people do when they have had enough of failure and really want to make a difference.” Holding true to the principles of that tradition, he insisted that “[we] have to stay strictly nonviolent.”
 ‍
@@ -45,7 +46,7 @@ Few if any drones flew successfully at Heathrow. Most either were apprehended be
 ‍
 These beg yet further questions: how far, in the name of life on earth, ought we to go? If extinction or a thousand-year dark age are truly in the cards, what acts are we ready to commit, in good conscience or ill, to stave off the worst? The legacy of today’s struggle on behalf of the climate, and the shape that it will give to the future, rest upon their answers. Whatever we do, our deeds, with our planet, will remain to those not yet born; either as examples — or as warnings.
 
-![](/images/articles/5f0779928d297d71db3026db_violence_profiles_pic05_800x444_1.jpg)“Nothing was your own” in the totalitarian state of Oceania, the setting of George Orwell’s Nineteen Eighty-Four; “except the few cubic centimetres inside your skull.” Yet small as was this islet of grey matter, it offered room enough to gain a foothold of resistance. “Being in a minority, even a minority of one, did not make you mad. There was truth and there was untruth, and if you clung to the truth even against the whole world, you were not mad.”
+![Image](/images/articles/violence-profiles-pic05-800x444.jpg)“Nothing was your own” in the totalitarian state of Oceania, the setting of George Orwell’s Nineteen Eighty-Four; “except the few cubic centimetres inside your skull.” Yet small as was this islet of grey matter, it offered room enough to gain a foothold of resistance. “Being in a minority, even a minority of one, did not make you mad. There was truth and there was untruth, and if you clung to the truth even against the whole world, you were not mad.”
 ‍
 Twenty-two-year-old Aslan Sagutdinov must have felt a similar conviction as, one May day in his native Kazakhstan, he stood alone in public, holding a placard as barren and white as the day it was made — and, for no other reason, was arrested.
 ‍

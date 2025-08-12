@@ -1,8 +1,8 @@
 ---
 title: "Students of the World, Unite! (PT. 4)"
-publishedOn: 2021-09-29T18:13:54Z
-author: "Third Force"
-featuredImage: "/images/articles/6154aed12d1282708e0977bd_students_unite_pt4_600x400.jpg"
+publishedOn: 2024-11-05
+author: "<p>Third Force</p>"
+featuredImage: "/images/articles/students-unite-pt4-600x400.jpg"
 ---
 
 At critical moments throughout history, university students have catalyzed massive protests, called their professors and leaders on their lies and thrust their nations in brave new directions. It happened in the 1960s on hundreds of campuses around the world, and more recently in South Korea, China, Indonesia, Greece, Spain, Egypt, Chile and Argentina. Now, with inequality reaching obscene levels, financial instability becoming endemic and multiple climate tipping points looming, we’ve reached another of those moments. Now students everywhere are called upon to seize their birthright and perpetrate the overhaul of a political ideology and theoretical framework that has ruled the world since World War II.

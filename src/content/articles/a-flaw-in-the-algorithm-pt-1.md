@@ -1,8 +1,9 @@
 ---
 title: "A Flaw in the Algorithm (PT. 1)"
-publishedOn: 2021-12-01T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-featuredImage: "/images/articles/61a7d8864059bb58d7f23d49_truecost_parts_1_600x150_1.jpg"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/truecost-parts-1-600x150.jpg"
+category: "Eco"
 ---
 
 If you burrow deep into the innards of the capitalist algorithm, you’ll find a major flaw: the vast majority of humankind’s carbon emissions are unpriced.

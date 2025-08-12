@@ -1,8 +1,9 @@
 ---
 title: "A Word to Help Us Survive the Next Ten Years"
-publishedOn: 2022-04-19T00:00:00Z
-author: "- Chiara Milford - Adbusters #160"
-featuredImage: "/images/articles/626063fe2de9f7ac2132db1f_taking_a_stand_in_Baton_Rouge_600_1.jpg"
+publishedOn: 2024-11-05
+author: "Chiara Milford"
+featuredImage: "/images/articles/taking-a-stand-in-baton-rouge-600.jpg"
+category: "Psycho"
 ---
 
 As she was in a hospital bed dying of cancer, my mother got a message from a friend with the words, “remember *sisu*.” 

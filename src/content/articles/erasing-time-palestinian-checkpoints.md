@@ -1,7 +1,7 @@
 ---
 title: "Erasing Time"
-publishedOn: 2023-06-14T22:59:52Z
-author: "Erasing Palestine: Free Speech and Palestinian Freedom by Rebecca Ruth Gould"
+publishedOn: 2024-11-05
+author: "<p id=\"\"><em>Erasing Palestine: Free Speech and Palestinian Freedom</em> by Rebecca Ruth Gould</p><p></p>"
 ---
 
 On an average day, a Palestinian who works in Jerusalem and resides in the West Bank must wake up at four in the morning in order to arrive at work by nine. The reason is not the distance between workplace and home. With the construction of the separation wall that began in 2002, and is still underway as of 2022, the Israeli state entered into a new stage of encroachment on Palestinian territory. The Palestinian worker has to wait in line for hours at checkpoints staffed by soldiers who are incentivized to make the line move as slowly as possible. Most of these border-crossers have a long day ahead of them in various kinds of construction work. After crossing into Israel, they must spend hours every day passing through checkpoints to get to work, even though they often have only a few kilometres to travel.

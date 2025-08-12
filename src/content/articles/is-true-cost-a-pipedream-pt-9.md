@@ -1,8 +1,9 @@
 ---
 title: "Is True Cost a Pipedream? (PT. 9)"
-publishedOn: 2021-12-01T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-featuredImage: "/images/articles/61a7dabf622c6fbf5b61d851_truecost_parts_9_600x150_1.jpg"
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/truecost-parts-9-600x150.jpg"
+category: "Eco"
 ---
 
 “True Cost? Great idea! But it’s never gonna work.” That’s what they’ll all say.

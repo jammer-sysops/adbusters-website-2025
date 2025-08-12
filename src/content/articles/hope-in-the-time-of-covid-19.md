@@ -1,11 +1,12 @@
 ---
 title: "Hope in the Time of COVID-19"
-publishedOn: 2020-03-02T00:00:00Z
+publishedOn: 2024-11-05
 author: "Thomas Homer-Dixon"
-
+featuredImage: "/images/articles/5e750c356d8075d8a1b4be22-planet-virus-900x900.jpeg"
+category: "Eco"
 ---
 
-![](/images/articles/5f0f5f570738a361e93b90a6_5e750c356d8075d8a1b4be22_planet_virus_900x900_1.jpeg)The virus seems well-turned to exploit the specific characteristic of the world we’ve created for ourselves - with our massive population tightly linked by air travel, exotic tourist excursions and just-in-time supply chains, and marked by brutal inequalities in health care and physical well-being.
+![Image](/images/articles/5e750c356d8075d8a1b4be22-planet-virus-900x900.jpeg)The virus seems well-turned to exploit the specific characteristic of the world we’ve created for ourselves - with our massive population tightly linked by air travel, exotic tourist excursions and just-in-time supply chains, and marked by brutal inequalities in health care and physical well-being.
 ‍
 Taken together, humanity is now among the largest bodies of genetically identical, multicellular biomass on Earth; all told, we weigh nearly a billion tonnes. Combined with our proximity in huge cities and our constant travel around the globe, we’ve now an enormous Petri dish brimming with nutrients for cultivating new diseases.
 

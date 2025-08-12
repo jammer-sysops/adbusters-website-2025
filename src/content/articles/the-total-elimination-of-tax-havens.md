@@ -1,8 +1,9 @@
 ---
 title: "The Total Elimination - of Tax Havens -"
-publishedOn: 2021-10-12T00:00:00Z
-author: "- Third Force - Adbusters #157"
-featuredImage: "/images/articles/6165f29a5e160962f87c16b5_elimination_of_tax_havens_600x455_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/elimination-of-tax-havens-600x455.jpg"
+category: "Political"
 ---
 
 A huge chunk of planetary wealth is simply unaccounted for. Rich people are hiding it in tax havens. There’s far more money in these havens now than there is actual currency in circulation: in excess of 30 trillion dollars.

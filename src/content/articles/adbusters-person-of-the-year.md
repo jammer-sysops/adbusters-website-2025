@@ -1,8 +1,9 @@
 ---
 title: "Adbusters Person of the year"
-publishedOn: 2023-01-26T00:00:00Z
+publishedOn: 2024-11-05
 author: "Third Force - from Issue 165"
-featuredImage: "/images/articles/63d1c919bb11e9928fc87342_Person-of-the-year-2_1.gif"
+featuredImage: "/images/articles/person-of-the-year-2.gif"
+category: "Political"
 ---
 
 Time magazine put Zelensky on the cover as Person of the Year. We here at Adbusters might have made a different choice. Not that it’s a competition, but for our money it has to be Gustavo Petro. Because his cause goes beyond the survival and dignity of one nation. It’s about the future of every living soul.

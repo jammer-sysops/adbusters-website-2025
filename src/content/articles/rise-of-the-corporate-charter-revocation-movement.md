@@ -1,8 +1,8 @@
 ---
 title: "Rise of the Corporate Charter Revocation Movement"
-publishedOn: 2021-06-28T20:04:05Z
-author: "— from Adbusters’ forthcoming book, *The Third Force: A Field Guide to a New World Order*"
-featuredImage: "/images/articles/60da41f5f0ae2f755bfb6ace_Corporate-independance-TW_600x338.jpg"
+publishedOn: 2024-11-05
+author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force: A Field Guide to a New World Order</em></p>"
+featuredImage: "/images/articles/corporate-independance-tw-600x338.jpg"
 ---
 
 A corporation has no heart, no soul, no morals. When it hurts people or damages the environment, it will feel no sorrow or remorse because it is *intrinsically unable to*. (It may sometimes apologize, but that’s not remorse — that’s public relations.)
@@ -25,7 +25,7 @@ And at the end of every charter, we could add a **Revoke Clause.** *If our compa
 
 ‍
 
-![](/images/articles/60da44eea46836674baf0e77_facebook_certificate_of_incorporation_600x726.jpg)
+![Image](/images/articles/facebook-certificate-of-incorporation-600x726.jpg)
 
 Look at Article III of Facebook Inc’s Certificate of Incorporation:
 
@@ -38,14 +38,16 @@ What Facebook covets most, its precious Gollum ring, is its collection of data-g
 We can decide Facebook’s secrecy doesn’t serve the public interest. Blow open the doors. Add a clause to their charter that says: We the people hereby grant you the privilege of lawfully existing among us, but in return, here are two clauses we require you to live by:
 
 ## **Consent Clause**
+
 Our company will ask for permission to collect personal data. The permission statement will be short and clearly written, so every person who decides to use our platform knows exactly what they are getting into.
 
 ## **Full Disclosure Clause**
+
 Our company will be transparent and open to the public in everything we do. Our surveillance algorithm will be open to public scrutiny so every Facebook user knows exactly how their personal data is being used.
 
 ‍
 
-![](/images/articles/60da45e5f0ae2f60f3fb7bfb_goldman_sachs_certificate_of_incorporation_600x726.jpg)
+![Image](/images/articles/goldman-sachs-certificate-of-incorporation-600x726.jpg)
 
 Look at the THIRD “purpose” clause on page 1 of Goldman Sachs Group Inc’s Certificate of Incorporation.
 
@@ -54,17 +56,19 @@ It’s that same meaningless phrase that just about every corporation uses. The 
 So let’s add in some responsibility:
 
 ## **Financial Fraud Clause**
+
 If our company breaks the public trust — if it is caught repeatedly manipulating stock prices, engaging in fraudulent trading, hiding information from regulators or keeping vital public-interest data secret, then our business operations will be temporarily or permanently shut down.
 
 A clause like this would stop Wall Street from engaging in the kinds of shady dealings that brought on the financial meltdown of 2008.
 
-![](/images/articles/60da47d04f02b63b05690c6d_exxon_mobil_certificate_of_incorporation_600x758.jpg)![](/images/articles/60da47e10f35a9cb48c3affa_exxon_mobil_certificate_of_incorporation2_600x758.jpg)‍
+![Image](/images/articles/exxon-mobil-certificate-of-incorporation-600x758.jpg)![Image](/images/articles/exxon-mobil-certificate-of-incorporation2-600x758.jpg)‍
 
 Underneath all the legal jargon in ExxonMobil’s Certificate of Incorporation lies the stark fact that this company is guilty of a crime against humanity.
 
 We must add a clause like this to all the Certificates of Incorporation of all the corporations around the world:
 
 ## **Kill Clause**
+
 If your company perpetrates massive social, ecological or financial harm on society, it will be sentenced to death, its charter revoked, its assets sold off and the money funnelled into a superfund for its victims.
 
 ‍

@@ -1,8 +1,8 @@
 ---
 title: "Economics - The Queen of the Sciences"
-publishedOn: 2021-08-20T00:00:00Z
-author: "- Third Force - Adbusters #156"
-
+publishedOn: 2024-11-05
+author: "Third Force"
+category: "Econo"
 ---
 
 You’re entering university at a critical moment.

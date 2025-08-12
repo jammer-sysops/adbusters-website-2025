@@ -1,8 +1,9 @@
 ---
-title: "Economics is a Form of Brain Damage."
-publishedOn: 2022-08-10T00:00:00Z
-author: "- Kalle Lasn - Adbusters #162"
-featuredImage: "/images/articles/62f42d38f09d032df99c286c_hazel_henderson_rip_600_1.jpg"
+title: "\"Economics is a Form of Brain Damage.\""
+publishedOn: 2024-11-05
+author: "Kalle Lasn"
+featuredImage: "/images/articles/hazel-henderson-rip-600.jpg"
+category: "Econo"
 ---
 
 I was knee-deep in a documentary on the global economy for Canada’s National Film Board, gallivanting around interviewing the world’s most esteemed economists and growing more disillusioned by the day. The economists claimed they’d discovered laws within their discipline as solid as the laws of physics. We can micromanage growth, engineer prosperity and keep the economy humming with few or no ill effects, they said. It was such arrogant bullshit. And Hazel called them on it. 

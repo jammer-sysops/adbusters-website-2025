@@ -1,8 +1,8 @@
 ---
 title: "Four Metamemes to Take Power Back from Corporations"
-publishedOn: 2021-06-17T20:02:34Z
-author: "— from Adbusters’ forthcoming book, *The Third Force: A Field Guide to a New World Order*"
-featuredImage: "/images/articles/60d24ddcc90634a83bf4274e_meme_wars_450x540.jpg"
+publishedOn: 2024-11-05
+author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force: A Field Guide to a New World Order</em></p>"
+featuredImage: "/images/articles/meme-wars-450x540.jpg"
 ---
 
 Somewhere between Santa Clara and Citizens United, we the people lost our confidence. We lost our dignity. We rolled over to America Inc. Job One now is to get back some of that arrogance and boldness we had 150 years ago, when misbehaving corporations were ferociously slapped down.
@@ -11,7 +11,9 @@ One way to do that is to use the Promethean tool in the palms of our hands to fl
 
 ‍
 
-![](/images/articles/60d248cf64af4f4282052683_meme_1_300x75.jpg)## ‍**The 25% Rule**
+![Image](/images/articles/meme-1-300x75.jpg)
+## ‍**The 25% Rule**
+
 A hundred years ago the state broke up oil companies or railroads if they got too big — because too much market concentration is bad. Yet here’s Google controlling 90% of Internet searches. Here’s Amazon hoovering up more than half of online purchases. Most industries are way more clotted today than in the time of the robber barons. Airlines, telecom, banking, pharma, hospitals, agribusiness, waste management: a handful of big players dominate them all.
 
 Bust them up! Except you can’t. Teams of high-priced lobbyists swarm the regulators. (Facebook has more lobbyists than there are senators.) They spin irresistible “consumer welfare” stories. Mergers are very rarely turned down. Antitrust laws are useless. We’ve tried this experiment for four decades and no one thinks it’s working.
@@ -26,14 +28,18 @@ This is an audacious idea that will be fiercely countered by the hundred corpora
 
 ‍
 
-![](/images/articles/60d248f8e63250702b59fb9a_meme_2_300x75.jpg)## ‍**A Size Tax**
+![Image](/images/articles/meme-2-300x75.jpg)
+## ‍**A Size Tax**
+
 To this day, economists have yet to calculate the true social cost of a Walmart coming to town, Google dominating Internet searches, Facebook commanding people-to-people communication and Amazon monopolizing online sales.
 
 So here’s a way to stop the concentration of power at the top: We slap a *Size Tax *on mega-corporations — a gradually growing, progressive tax that corporations must pay once they grow beyond a certain size.
 
 It’s a brazen idea that the classical economists will dismiss as exactly the wrong move. So is turning in the direction of a skid. But it works. And it would unleash a tsunami of grassroots entrepreneurial zeal.
 
-![](/images/articles/60d249130377d1d7247626cb_meme_3_300x75.jpg)## **The End of Shareholder Capitalism**
+![Image](/images/articles/meme-3-300x75.jpg)
+## **The End of Shareholder Capitalism**
+
 The deal for investors used to be: enjoy this company’s profits, but if the company fucks up and does damage, it’s on you. That’s the way it worked — risk it for the biscuit – until the mid-19th century.
 
 Then a landmark legal decision came down that shielded shareholders from personal liability for corporate missteps. It was rocket fuel for the stock market — because now that investors could only lose their initial bet, they jumped in in droves. Corporations could now shoot for the moon without worrying too much about future fallout. If a tanker runs aground or a chlorine plant blows up, or an ecosystem is destroyed, everyone’s free and clear. Win-win! For executives and shareholders, anyway.
@@ -58,7 +64,8 @@ Well: imagine it.
 
 ‍**‍**
 
-![](/images/articles/60d24959e632501aff59fddb_meme_4_300x75.jpg)## **Three Strikes and You’re Out**
+![Image](/images/articles/meme-4-300x75.jpg)
+## **Three Strikes and You’re Out**
 
 Yeah, I’m sorry, but we’re gonna talk about Pfizer. The company a US federal judge called “the world’s worst recidivist.” They conduct illegal medical trials on critically ill children. Pay a fine. They defraud the Medicaid system. Pay a bigger fine. They sell the wrong drugs to the wrong people for the wrong thing (with horrific side effects), are caught, admit guilt, vow earnestly never to do it again, pay the largest criminal fine ever (2.3 billion), and carry on. No Pfizer executive has ever faced charges for any of these violations of the public trust.
 

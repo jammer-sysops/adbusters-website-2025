@@ -1,13 +1,14 @@
 ---
 title: "At my Quaker Meeting,"
-publishedOn: 2020-11-06T00:00:00Z
-author: "- Christine E. Black - Adbusters #151"
-
+publishedOn: 2024-11-05
+author: "Christine E. Black"
+featuredImage: "/images/articles/listening-to-the-silence-quaker-meeting-600x400.jpg"
+category: "Aesthetico"
 ---
 
 occasionally someone will say, “Could we have some silence please?” especially during a business meeting, which we call Meeting for Worship with a Concern for Business. Someone may request silence when the discussion becomes too contentious, and we are not progressing towards resolution. We wait and listen.
 
-![](/images/articles/5fa5a0ce7a78a14ddd6e8d58_listening_to_the_silence_quaker_meeting_600x400_1.jpg)What are we listening for? As corny and old-fashioned as it may sound, we are waiting for guidance from god. I have been attending the Quaker Meeting for many years now and have felt increasing awe and reverence for this process by which Quakers conduct business. No shouting. No interrupting. Even the most timid, the most outlying or awkward person may be given time to gather her thoughts, to breathe and to speak, perhaps falteringly, even if she has to pause before continuing. People wait. It is quite amazing. I had never seen anything like it.
+![Image](/images/articles/listening-to-the-silence-quaker-meeting-600x400.jpg)What are we listening for? As corny and old-fashioned as it may sound, we are waiting for guidance from god. I have been attending the Quaker Meeting for many years now and have felt increasing awe and reverence for this process by which Quakers conduct business. No shouting. No interrupting. Even the most timid, the most outlying or awkward person may be given time to gather her thoughts, to breathe and to speak, perhaps falteringly, even if she has to pause before continuing. People wait. It is quite amazing. I had never seen anything like it.
 
 Quakers do not vote on issues but discuss, sometimes a lot, and tiringly. Members direct comments to the clerk. At its best, there is time for each person who wants to speak to be heard during the meeting. Instead of voting, we try to discern the “sense of the Meeting” before acting. We are trying to discern god’s will. And even one person can change the movement of the group as he or she feels led to speak. One voice can be the one to heed even if the whole group is going another way – because we believe that all have direct access to god’s guidance, no one person more than another. If the group has not gathered a sense of unity, then the meeting may decide to postpone action. We wait and listen more -- and try again at another meeting.
 
@@ -23,4 +24,4 @@ Lately, I find myself longing for a Ticonderoga number two pencil, soft lead, ru
 
 Could we have some silence please?
 
-###### Christine E. Black’s work has been published in *The American Journal of Poetry, New Millennium Writings, Nimrod International, Sojourners Magazine*. Her poetry has been nominated for a Pushcart Prize and the Pablo Neruda Prize.
+## Christine E. Black’s work has been published in *The American Journal of Poetry, New Millennium Writings, Nimrod International, Sojourners Magazine*. Her poetry has been nominated for a Pushcart Prize and the Pablo Neruda Prize.

@@ -1,8 +1,9 @@
 ---
 title: "AI Profiles Xi Jinping"
-publishedOn: 2022-10-17T00:00:00Z
-author: "- Artificial Mind - Adbusters #163"
-featuredImage: "/images/articles/634dd5d4046fef251a4b1a01_AI_vs_xijinping_1.jpg"
+publishedOn: 2024-11-05
+author: "Artificial Mind"
+featuredImage: "/images/articles/ai-vs-xijinping.jpg"
+category: "Political"
 ---
 
 I, Xi Jinping, President of the People’s Republic of China, have come to speak to you today about who controls the future. 

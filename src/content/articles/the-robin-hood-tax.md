@@ -1,8 +1,9 @@
 ---
 title: "The Robin Hood - Tax -"
-publishedOn: 2021-10-19T00:00:00Z
-author: "- Third Force - Adbusters #157"
-featuredImage: "/images/articles/616f0e048bd1b91689fd8ba2_robin_hood_taxes_600x465_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/robin-hood-taxes-600x465.jpg"
+category: "Econo"
 ---
 
 This idea is not new — it used to be called the Tobin Tax, after the economist James Tobin, who first proposed it in the 1970s.

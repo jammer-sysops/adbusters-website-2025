@@ -1,8 +1,9 @@
 ---
 title: "Rewild your Child"
-publishedOn: 2023-04-13T00:00:00Z
-author: "- — Paul Keeling - Adbusters #166"
-featuredImage: "/images/articles/64386cfddef8073700af25df_girl_licking_frog_600_1.gif"
+publishedOn: 2024-11-05
+author: "— Paul Keeling"
+featuredImage: "/images/articles/girl-licking-frog-600.gif"
+category: "Psycho"
 ---
 
 No screen time before age two, period. Reduce your own screen use in family spaces. De-screen common living areas and normalize analog pastimes and traditions; music, fine arts, reading, out loud story time, board and card games, help in the kitchen with cooking, candlelight hang-outs. Eat meals together as much as possible, with no screens permitted; respect the culture of the table.

@@ -1,8 +1,9 @@
 ---
 title: "Can We Meet the Moment?"
-publishedOn: 2023-04-21T00:00:00Z
-author: "- KL - Adbusters #152"
-featuredImage: "/images/articles/6442dd90462a97472d883eae_kenya-hara_510_1.gif"
+publishedOn: 2024-11-05
+author: "KL"
+featuredImage: "/images/articles/kenya-hara-510.gif"
+category: "Anarcho"
 ---
 
 Hey,

@@ -1,13 +1,14 @@
 ---
 title: "I’m About to Give You the Codes. Are You Ready?"
-publishedOn: 2021-02-05T00:00:00Z
-author: "- Kalle Lasn - Adbusters #153"
-
+publishedOn: 2024-11-05
+author: "Kalle Lasn"
+featuredImage: "/images/articles/adbsuters-issue-153-the-third-force-600x600.jpg"
+category: "Political"
 ---
 
 Dear reader, let’s get into something personal right off the hop. I want to talk to you about resistance.
 
-![](/images/articles/601d9b947326a7ef501a4c3f_adbsuters_issue_153_the_third_force_600x600_1.jpg)Resistance is what people feel when they just can’t face what needs to be done. Something important is right in front of them, but it’s so hairy, so scary in its implications on their life, their cozy way of keeping on keeping on, that they can’t deal with it. They resist. The more fear, the more resistance. The more they know deep down that this needs to happen, the more they resist. 
+![Image](/images/articles/adbsuters-issue-153-the-third-force-600x600.jpg)Resistance is what people feel when they just can’t face what needs to be done. Something important is right in front of them, but it’s so hairy, so scary in its implications on their life, their cozy way of keeping on keeping on, that they can’t deal with it. They resist. The more fear, the more resistance. The more they know deep down that this needs to happen, the more they resist. 
 
 Resistance grips us when our very soul recognizes just how much is on the line.
 

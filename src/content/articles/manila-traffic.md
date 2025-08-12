@@ -1,18 +1,19 @@
 ---
 title: "Manila traffic"
-publishedOn: 2019-02-20T00:00:00Z
-author: "- Rica Talay - Adbusters #142"
-featuredImage: "/images/articles/5f18a19672b7f8dfa1203168_traffic_1.jpg"
+publishedOn: 2024-11-05
+author: "Rica Talay"
+featuredImage: "/images/articles/traffic.jpg"
 ---
 
 ## **Something that caught my eye
 as we were stuck in the dreadful
 Manila traffic,**
+
 with cars bumper to bumper as far as your eyes can see, was the countless murals of Rodrigo Duterte plastered around the city. I was confused, I thought “don’t they hate their president?”
 
 For someone who’s only heard about this man through news articles, I saw Duterte as a ruthless leader willing to go to great lengths to conquer his war on drugs. I recall reading articles about his brutal crackdown taking thousands of lives and placing the Philippines into a human rights crisis. But what really stood out to me was when he detained senator Leila de Lima, his most notable domestic critic, on charges for illegal drug trading, an offence she’s firmly denied. I was appalled by his power. It was only when I visited the Philippines in June, for the first time since immigrating to Canada in 2007, that I saw a different side of this so-called “monster.”
 
-![](/images/articles/5f18a1aed368ef6ac5136804_Duarte-web_1.jpg)From the outside looking in, Duterte is a monster. His "war on drugs" has seen government forces kill over twelve thousand, mostly poor, many children. Among them are protestors and rival politicians. But the citizens of his country don't lie on the outside. For them, the strongman is taking on the drug dealers, taking hard steps to do what must be done. This is a state of emergency, after all --civil liberties can always be sidestepped.
+![Image](/images/articles/duarte-web.jpg)From the outside looking in, Duterte is a monster. His "war on drugs" has seen government forces kill over twelve thousand, mostly poor, many children. Among them are protestors and rival politicians. But the citizens of his country don't lie on the outside. For them, the strongman is taking on the drug dealers, taking hard steps to do what must be done. This is a state of emergency, after all --civil liberties can always be sidestepped.
 ‍
 For anyone worried about the country's drug problem, the strong man comes in and solves everything. Almost overnight, the drug dealers are rendered invisible and all is well-- Until anyone opposes his administration, or runs against him. Then the strong leader" shows his teeth, and those who voted for him have the bodies of innocent children to answer for.
 

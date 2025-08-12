@@ -1,12 +1,13 @@
 ---
 title: "“Come drink beer here!”"
-publishedOn: 2018-12-01T00:00:00Z
-author: "- Michelle Gamage - Adbusters #141"
-
+publishedOn: 2024-11-05
+author: "Michelle Gamage"
 ---
 
-# We are walking through a market in Qingdao, China, when an English voice calls out,
-# “Come drink beer here!”
+## We are walking through a market in Qingdao, China, when an English voice calls out,
+
+## “Come drink beer here!”
+
 ‍
 
 Hearing English in a town where our white faces are exotic makes us pause, and several hours later we’re still drinking pitchers of Tsingtao beer with our new friend—a local named Laogai.

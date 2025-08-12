@@ -1,8 +1,8 @@
 ---
 title: "Why Don't I Care?"
-publishedOn: 2021-07-26T00:00:00Z
-author: "- THE THIRD FORCE - Adbusters #155"
-
+publishedOn: 2024-11-05
+author: "THE THIRD FORCE"
+category: "Psycho"
 ---
 
 EACH MORNING I WAKE UP

@@ -1,10 +1,11 @@
 ---
 title: "Are You in Denial?"
-publishedOn: 2022-05-18T20:35:07Z
-author: "- **Kalle Lasn**"
-featuredImage: "/images/articles/62855e1621313e1d2c97a33f_vr_meta_denial_600.jpg"
+publishedOn: 2024-11-05
+author: "<p>- <strong>Kalle Lasn</strong></p>"
+featuredImage: "/images/articles/vr-meta-denial-600.jpg"
 ---
-You know the story. An irreversible extinction event is about to drop – literally. A meteorite is on a collision course for earth, and earthlings can’t get their shit together to deal with it or even acknowledge it in any productive way. (The plan of a few people to get rich from its rare minerals doesn’t count because it’ll be a lavish, short-lived party.)
+
+![Image](/images/articles/vr-meta-denial-600.jpg)You know the story. An irreversible extinction event is about to drop – literally. A meteorite is on a collision course for earth, and earthlings can’t get their shit together to deal with it or even acknowledge it in any productive way. (The plan of a few people to get rich from its rare minerals doesn’t count because it’ll be a lavish, short-lived party.)
 
 *Don’t Look Up!, *the movie that caught the zeitgeist over the long Omicron winter, is all about denial. More than that, it’s about what cognitive sociologist Evia Zerubavel calls “meta-denial”: denial hiding even from itself. As in: *No one is talking about the fact that no one is talking about this. *But now they are, thanks to this film. That’s a good thing. There are still some elements of the movie that rankle, and I’ll get to them in a sec.
 

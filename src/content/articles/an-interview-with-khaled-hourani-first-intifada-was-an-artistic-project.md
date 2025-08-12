@@ -1,14 +1,17 @@
 ---
-title: "An Interview with Khaled Hourani: First Intifada Was an Artistic Project"
-publishedOn: 2023-05-05T17:40:27Z
-author: "An interview by Lela Vujanić"
-featuredImage: "/images/articles/645547a0f64eda2a3720f0c6_Khaled-Hourani---Palestinian-Flag.png"
+title: "An Interview with Khaled Hourani: First Intifada Was an Artistic Project (by Lela Vujanić)"
+publishedOn: 2024-11-05
+author: "<p id=\"\">An interview by <strong>Lela Vujanić</strong></p>"
+featuredImage: "/images/articles/khaled-hourani-palestinian-flag.png"
 ---
 
 An Interview
 
-#### Khaled Hourani:
-![](/images/articles/645555f2a91f315f43d9927b_khaled_hourani_artist.jpeg)#### FIRST INTIFADA WAS AN ARTISTIC PROJECT
+## Khaled Hourani:
+
+![Image](/images/articles/khaled-hourani-artist.jpeg)
+## FIRST INTIFADA WAS AN ARTISTIC PROJECT
+
 **“I always argued that the First Intifada was an artistic action,” said Palestinian artist Khaled Hourani, almost immediately upon meeting me on the patio of his Ramallah apartment. We spoke at the end of September, when the temperature was still high; you could feel the summer breeze in the air and hear the drums of the Third Intifada, played by youth born in refugee camps. As international organizations like to put it, “security conditions were deteriorating” all around us thanks to decades of Israeli dispossession, violence, and occupation.**
 
 Khaled Hourani is a critical, peculiar institution. His prolific artistic practice encompasses painting, sculpture, writing, curating, and conceptual art, but he is also a part of the Palestinian collective body — crossing boundaries and limitations and constantly engaging in dialogue, the rule of art, and the possibilities of the present moment.
@@ -43,7 +46,7 @@ The uprising was like announcing a revolution not only against the occupation an
 
 The beginning revealed that this uprising had no leadership. On the contrary, the movement its protests came from the bottom up. I am talking about the beginning of an uprising that challenged art and surpassed it. The uprising is an artistic event, and people are artists until proven otherwise.
 
-![](/images/articles/645556a9dd739278e972a070_Picasso_in_palestine.jpg)Khaled Hourani, *Picasso in Palestine #3 *(2019, oil on canvas)‍
+![Image](/images/articles/picasso-in-palestine.jpg)‍
 
 **You are fully recognized internationally. Your work has been exhibited in major galleries of contemporary art, and it is part of the collection of Western museums. Considering the political nature of your work, on one hand, and the fact that you come from occupied territory on the other, what was your position abroad, structurally speaking, as a Palestinian artist? Did you experience accusations of antisemitism — which happens quite frequently with Palestinian artists and intellectuals — or any sort of Western gaze toward your work?**
 
@@ -89,7 +92,7 @@ I was the general director of the Fine Arts department. It is a very big name fo
 
 The PLO had a state kind of structure, and it started all these departments — literature, visual arts, cinema, dancing, and theatre, each art had its own department. I was invited to work there, in the Ministry of Culture, though I didn’t apply myself. These were dreamy times, and I did many things that I am proud of — a lot of international workshops and biennales. But I figured out that art has its own life away from this government institution, and that art has to think about how to see this government from a critical point of view, too.
 
-![](/images/articles/645557067df9d0512ab80d06_Khaled-1-scaled.jpg)Khaled Hourani, *Hasan*, *Zeina*, *Rakan* (2020, Acrylic on canvas)‍
+![Image](/images/articles/khaled-1-scaled.jpg)‍
 
 **Throughout your life, you invested yourself not only in your artwork but also in what we could call institutional design. I am referring not only to the Academy and the Ministry of Culture, but to initiating or being present in other artistic and cultural initiatives, supporting younger artists, and building a scene.**
 
@@ -141,4 +144,4 @@ And yet there is nowhere to go. Where else to go? Now, is it better here or ther
 
 ‍
 
-![](/images/articles/6455465ec83e014b39f01153_Khaled-Hourani---In-Wait_original.jpg)Khaled Hourani, *In Wait *(2019, Acrylic on canvas)
+![Image](/images/articles/khaled-hourani-in-wait-original.jpg)

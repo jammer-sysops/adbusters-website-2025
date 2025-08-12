@@ -1,8 +1,9 @@
 ---
 title: "A Dispatch from the Mental Liberation Front"
-publishedOn: 2023-04-04T00:00:00Z
-author: "- In solidarity, Paul Keeling, father, Vancouver, B.C. - Adbusters #165"
-featuredImage: "/images/articles/642f4d74faceca8ca51df3ae_smash-phone-v2_1.gif"
+publishedOn: 2024-11-05
+author: "In solidarity, Paul Keeling, father, Vancouver, B.C."
+featuredImage: "/images/articles/smash-phone-v2.gif"
+category: "Psycho"
 ---
 
 To The Kids Becoming Luddites,

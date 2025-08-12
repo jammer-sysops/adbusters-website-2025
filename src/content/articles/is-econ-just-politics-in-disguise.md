@@ -1,7 +1,7 @@
 ---
 title: "Is Econ Just Politics in Disguise?"
-publishedOn: 2021-08-23T20:48:26Z
-author: "Third Force"
+publishedOn: 2024-11-05
+author: "<p>Third Force</p>"
 ---
 
 Neoclassical economists basically say: Trust the models. Trust *us*. We have this thing figured out. We can micromanage growth, engineer prosperity and keep the economy humming.

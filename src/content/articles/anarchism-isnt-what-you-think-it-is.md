@@ -1,10 +1,11 @@
 ---
 title: "Anarchism isn't what you think it is."
-publishedOn: 2021-03-11T00:58:19Z
+publishedOn: 2024-11-05
 author: "The Third Force"
-featuredImage: "/images/articles/604a92a1404cde503e59b6f7_anarchism_street_protest_720x519.gif"
+featuredImage: "/images/articles/anarchism-street-protest-720x519.gif"
 ---
-‍
+
+![Image](/images/articles/anarchism-street-protest-720x519.gif)‍
 
 Blame Johnny Rotten (who by the way, was never really an anarchist – he only needed a rhyme for “antichrist” in that song), but lots of folks still think anarchy is just young people wantonly smashing public property. Like it’s some kind of macho Project Mayhem, from Fight Club, with no plan and no limits.
 
@@ -164,7 +165,7 @@ A demonstration of what freedom actually looks like.
 
 — Harry Flood
 
-![](/images/articles/604a8ed0fc4380498f4307eb_anarchism_symbol_360x204.png)‍
+![Image](/images/articles/anarchism-symbol-360x204.png)‍
 
 ‍
 
@@ -180,22 +181,22 @@ I consider Anarchism the most beautiful and practical philosophy that has yet be
 
 ‍
 
-![](/images/articles/604a905b71d7786ddfc113fc_banquet_painting_420x528.gif)‍
+![Image](/images/articles/banquet-painting-420x528.gif)‍
 
 ‍
 
 ‍
 
-![](/images/articles/604a9132a4adc5e57357e84f_open_mouth_yelling_480x310.gif)‍
+![Image](/images/articles/open-mouth-yelling-480x310.gif)‍
 
 ‍
 
 ‍
 
-![](/images/articles/604a91e32845f1de71f5c93e_2033_revolution_is_a_force_600x733.gif)‍
+![Image](/images/articles/2033-revolution-is-a-force-600x733.gif)‍
 
 ‍
 
 ‍
 
-![](/images/articles/604a93cc5fccce87339d14bc_anarchism_punky_DIY_kind_of_thing_600x746.jpg)
+![Image](/images/articles/anarchism-punky-diy-kind-of-thing-600x746.jpg)

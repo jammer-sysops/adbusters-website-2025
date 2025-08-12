@@ -1,7 +1,8 @@
 ---
 title: "My Political Awakening"
-publishedOn: 2021-04-23T16:57:53Z
-author: "— Kalle Lasn (from our forthcoming book, The Third Force: Field Guide To a New World Order) Also featured in Adbusters issue 153."
+publishedOn: 2024-11-05
+author: "<p>— Kalle Lasn (from our forthcoming book, <em>The Third Force: Field Guide To a New World Order</em>)</p><p>Also featured in Adbusters issue 153.</p>"
+featuredImage: "/images/articles/ludwig-wittgenstein-600x450.gif"
 ---
 
 I have no memory of my birthplace of Tallinn, Estonia. I was two years old when Red Army busted through the Leningrad Blockade and marched in.
@@ -33,6 +34,7 @@ My father was a tennis champion. His actual job was as a lawyer for the Estonian
 ‍
 
 ## INITIATION
+
 When I stepped onto campus at the University of Adelaide, I don’t think I had a political bone in my body.
 
 I noticed two types of students running around. The beer-drinking righties with their Bertrand Russell, A.J. Ayer and Gilbert Ryle, more British than the British.
@@ -53,7 +55,7 @@ Wittgenstein’s last words on his deathbed were “Tell them I’ve had a wonde
 
 ‍
 
-![](/images/articles/60806ccbdac14753d1a5d529_Ludwig_Wittgenstein_600x450.gif)[Ludwig Wittgenstein.](https://www.theparisreview.org/blog/2015/03/05/wittgenstein-schoolteacher/)‍
+![Image](/images/articles/ludwig-wittgenstein-600x450.gif)‍
 
 A friend introduced me to classical music. His love for Berlioz, Bach and Beethoven bordered on the obsessive, and some of it rubbed off on me. I joined a record club, and once a month when the disc arrived, I’d put my head close to the gramophone late at night. The dark tones of Sibelius. The sublime quiet movement of Beethoven’s 9th. The triumphant cannon blasts in Tchaikovsky’s 1812 overture. And later in life, the dissonant forebodings of Bruckner and Mahler.
 
@@ -94,13 +96,14 @@ Australia was a culture shock in the opposite direction — more chloroform than
 ‍
 
 ## MUSE
+
 The Australian government paid my way through university, and in exchange I gave them three years of my life. I played war games for the Department of Defence. As soon as my contract was up, I hopped on a boat heading for Amsterdam.
 
 But the boat made a stop in Yokohama. There, unfolding all around were the mysteries of a culture that turned everything I believed inside out. I was entranced. Three days later the boat left for Amsterdam. I wasn’t on it.
 
 I got a job with a consulting company, and soon after starting my own marketing firm, grandiosely called International Computer Research (ICR), in Tokyo’s Roppongi district. I made tons of money. That’s no brag; in the booming Sixties anybody could.
 
-I hit the clubs most nights with my ad-agency pals. Behind the scenes, I dabbled in Judo & Zen. Savored Kawabata’s *The Sound of The Mountain*, Yukio Mishima’s *Forbidden Colors*, Osamu Dazai’s *No Longer Human*.
+I hit the clubs most nights with my ad-agency pals. Behind the scenes, I dabbled in Judo &amp; Zen. Savored Kawabata’s *The Sound of The Mountain*, Yukio Mishima’s *Forbidden Colors*, Osamu Dazai’s *No Longer Human*.
 
 Then one day… Basho.
 
@@ -116,11 +119,11 @@ The legendary calligrapher Sesshu would spend many days preparing himself — an
 
 ‍
 
-![](/images/articles/60807588b3736ad57711e39d_one_shot_one_life_395x245.gif)‍
+![Image](/images/articles/one-shot-one-life-395x245.gif)‍
 
 One afternoon I caught Yasujiro Ozu’s Ikiru and walked out of the theatre stunned. His masterpieces were *Tokyo Story* and *Equinox Flower*. His subject was family life, and the camera was always placed low down in the sitting position. On the surface not much happens. In *Tokyo Story* there’s a scene of an old couple, who have come from the country, sitting on a park bench in the sunlight. They don’t speak. Nothing happens. The scene lingers for what feels like forever. It is incredibly profound.
 
-In the bars, night after night, I met disillusioned American GIs on R & R leave from the Vietnam War. They told me stories of the hell that was being loosed over there. Many of them went AWOL, hiding in their girlfriends’ apartments until the military police tracked them down and dragged them back to their units.
+In the bars, night after night, I met disillusioned American GIs on R &amp; R leave from the Vietnam War. They told me stories of the hell that was being loosed over there. Many of them went AWOL, hiding in their girlfriends’ apartments until the military police tracked them down and dragged them back to their units.
 
 Then I got wind of another uprising. It had started in Paris’ Latin Quarter and quickly spread around the world.
 
@@ -133,6 +136,7 @@ It was time to see what it was all about.
 ‍
 
 ## EROS
+
 “Feed your head,” Jefferson Airplane sang.
 
 Grace Slick would later say that song (“White Rabbit”) was inspired by Miles Davis’s *Sketches in Spain*. She said it meant follow your curiosity. But everyone knew what it really meant.
@@ -143,7 +147,7 @@ The people I was meeting in San Francisco were like the guy in that smoky loft i
 
 ‍
 
-![](/images/articles/6080811d2fe7587934c8f58e_grace_slick_onstage_with_jefferson_airplane_at_woodstock_1969_600x338.gif)[Grace Slick onstage with Jefferson Airplane at Woodstock, 1969.](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5248043/mud-no-bathrooms-and-bad-trips-grace-slick-looks-back-on-woodstock-1.5248046)‍
+![Image](/images/articles/grace-slick-onstage-with-jefferson-airplane-at-woodstock-1969-600x338.gif)‍
 
 I found myself planted in the middle of an oxymoron: a community of rebels. We felt that a lot of things were broken, and we could help bring the fix. We’d take this old world that our stuffy parents believed in, and shake some passion, compassion and camaraderie into it.
 
@@ -164,6 +168,7 @@ In these moments, something universal within us is ignited. And radicalization a
 ‍
 
 ## HISTORY LESSON
+
 I bought a used VW beetle and drove all over America.
 
 I was 200 miles from Memphis when Martin Luther King was shot and the riots broke out everywhere at once. I headed south to Mexico, then deeper into Central America. Through Nicaragua when General Somoza was still in power. Through Guatemala and Costa Rica and Panama. I spent half a year in what was then still called British Honduras.
@@ -181,6 +186,7 @@ Wherever I went I’d find a rep cinema and slide into the anonymous dark and ca
 ‍
 
 ## FILM CAREER
+
 I returned to Japan, married my sweetheart and together we decided to start a new life in Canada.
 
 The National Film Board of Canada had a reputation as one of the most exciting documentary filmmaking institutions in the world. No artist could fail to feel its pull. As soon as we arrived in Vancouver, I bought a 16mm projector and all I did the first few months was borrow NFB films and watch them over and over again.
@@ -212,6 +218,7 @@ I knew it was time to move on.
 ‍
 
 ## CULTURE JAMMING
+
 In the spring of 1989, British Columbia’s forest industry launched a slick multimillion-dollar campaign called “Forests Forever.” On billboards, in newspapers and on TV, the government bragged about the marvelous job it was doing managing the province’s forests. Rest easy British Columbia, their ads proclaimed, you’ve got nothing to worry about, you’ve got “Forests Forever.”
 
 A few of us green-minded filmmakers were incensed. We decided to come up with our own 30-second TV spot telling the other side of the story: that British Columbia’s old-growth forests were being logged at an alarming rate and the future of this precious resource was far from secure.
@@ -228,7 +235,7 @@ Taking a cue from a little NGO startup across town named Greenpeace, we called o
 
 ‍
 
-![1990: ERIC UTNE & BILL MCKIBBENHOLDING ADBUSTERS #3](/images/articles/6074d7cda272541b350e414f_eric_utne_and_bill_mckibben_265x392.jpg)1990: ERIC UTNE & BILL MCKIBBEN HOLDING ADBUSTERS #3‍
+![Image](/images/articles/eric-utne-and-bill-mckibben-265x392.jpg)‍
 
 In the beginning *Adbusters* was a typical Lefty rag, full of impassioned essays, rants against evil corporations and fervent calls for radical change, with nary a photograph or cartoon for comic relief. We mimicked the *Utne Reader*, *The Nation, Mother Jones* and championed all the Lefty causes of the time.
 
@@ -236,7 +243,7 @@ We decided to rely only on subscriptions and newsstand sales . . . vowed never t
 
 ‍
 
-![](/images/articles/6080ac21ff98f6bc2b34f6a3_A_Anarchism_symbol_600x635.gif)‍
+![Image](/images/articles/a-anarchism-symbol-600x635.gif)‍
 
 And bit by bit we embarked on an aesthetic journey. A journey, you might say to get off the grid; to blow up the norms of print; to abandon that sanitized, soul-destroying modernist look . . . to create a magazine that was less about the content you “consume” than a river you jump into and are swept downstream.
 
@@ -256,7 +263,7 @@ After a few years, *Adbusters* was all over Canada. And then the US. By the mid 
 
 ‍
 
-[![Adbusters Spoof Ads Samples](/images/articles/607728ad61cd5dcef7cc167c_adbusters_apoofads_595x530.jpg)](https://www.adbusters.org/spoof-ads)‍
+![Image](/images/articles/adbusters-apoofads-595x530.jpg)‍
 
 What everyone remembers from that period are the spoof ads on our back and inside covers. Absolut Vodka. McDonald’s, Philip Morris, Obsession, Nike. We went after any mega-corporate ad campaign that pissed us off. These companies had spent millions to build a nuclear glows around their brands, and now, in deft, judo-like moves we threw them on the mat with their the power of their own momentum.
 
@@ -274,7 +281,7 @@ We learned that if you let loose a tantalizing meme at just the right cultural m
 
 ‍
 
-![](/images/articles/6080ad490c918d5a0ac3b325_28MemeWarOnCampus_600x392.jpg)‍
+![Image](/images/articles/28memewaroncampus-600x392.jpg)‍
 
 We noticed that some teachers were using our magazine in their classrooms; they even had their students making spoof ads. So we added a 16-page Media Literacy supplement into the middle of the magazine. Ads were soon being altered, mucked with and “detourned,” Situationist-style, all over the world. Culture jamming had became a new activist playground.
 
@@ -284,122 +291,7 @@ We produced a flurry of 30-second TV spots. First we called them “antiads,” 
 
 ‍
 
-‍
-
-‍
-
-There was *Autosaurus*, a takedown of the auto industry involving a rampaging dinosaur made of scrapped cars, and ending with a vision of the future: folks riding bicycles over the car-free plain.
-
-‍
-
-‍
-
-‍
-
-‍
-
-There was *Obsession Fetish*, a critique of the fashion industry featuring a bulimic Kate Moss look-alike. The tagline over the extremely unhappy-looking model: “The Beauty Industry is the Beast.”
-
-‍
-
-‍
-
-‍
-
-‍
-
-There was *Tubehead*, which spoofed TV addiction, and hatched with a slogan that’s only become more relevant in the age of Facebook: “The Product Is You.”
-
-‍
-
-‍
-
-‍
-
-‍
-
-*Bull In The China Shop* mocked economists for mis-measuring progress. When everything – even ecological disasters — make the Gross Domestic Product (GDP) go up, something doesn’t add up. “Economists,” we suggested, “must learn to subtract.”
-
-In our brainstorming sessions we plotted a full-fledged onslaught against the trillion-dollar corporate advertising machine. Inspired by how the anti-smoking TV spots had demolished Big Tobacco, we now wanted to turn commercial television into a battleground of competing ideas. To fight an all-out meme war — where our mindbombs are constantly taking the piss out of the corporate pro-consumption agenda. We thought that this kind of culture jamming on TV would capture the imagination of the world, and we were confident we would win this meme war.
-
-But again — just like with *Forests Forever*, the TV stations refused to take our money.
-
-The ABC network’s commercial clearance boss Art Moore was predictably defiant. “There’s no law that says we have to air anything,” he shouted at me on the phone. “We’ll decide what we want to air or not.”
-
-NBC’s Richard Gitter said, “We don’t want to take any advertising that’s inimical to our legitimate business interests.”
-
-And Robert Lowery at CBS finally put it straight. “This commercial . . . is in opposition to the current economic policy in the United States.”
-
-I remember getting a creepy sense of déjà vu listening to remarks like that. I was born in Estonia where during Soviet rule people were not allowed to speak against the government. There simply were no media channels for debating controversial public issues because the government did not want such discussion to take place. And here I was 50 years later in “the land of the free” and there was a lack of media space in which to challenge consumptive, commercial and corporate agendas — you were not allowed to speak out against the sponsors.
-
-We spent $100,000 fighting a legal action against the CBC, arguing that every Canadian citizen has the right under the Canadian Charter to walk into their local TV station and buy 30 seconds of airtime for a message they believed in. The legal squabbling continued for more than 10 years, until we could no longer afford to pay the lawyers their $500 per hour fees. (One of our lawyers, Clayton Ruby, had a conflict of interest that utterly destroyed our case, but he refused to take responsibility or give back any of the vast sum we’d paid him. I will never forgive him for that).
-
-But it turns out that nothing is more tantalizing than something that’s been banned. People wanted to see the rejected ads, to know why they were rejected. Our culture jamming anti-ads circulated widely.
-
-And we made a lot of people question what television, the most powerful social communications medium of that time, was really all about if citizens can’t buy airtime under the same rules and conditions as corporations do. After all, doesn’t Article 19 of the Universal Declaration of Human Rights clearly state that: “Everyone has the right . . . to freedom of opinion and expression; this right includes . . . the right to seek, receive and impart information and ideas through any media and regardless of frontiers.”
-
-‍
-
-## DISENCHANTMENT
-At the apex of the *Adbusters*’ flight path, as our worldwide circulation climbed beyond 100,000, a strange thing happened. I became disillusioned. Or rather, I became pretty profoundly disappointed with the other kids in the sandbox. And me too in there with them.
-
-We Lefties just weren’t … making things happen.
-
-A protest could draw a million people, but then everyone resumed business as usual. Internet campaigns whipped up great anticipation, but then a week later you hardly even remembered what they were about.
-
-We whined. A lot. We knew what was wrong with the world but had no idea how to fix it.
-
-And excuse me, but when did the Left start taking itself so seriously? Where did the “people’s laughter” go? Weren’t we the people who knew how to live, love, think and have fun?
-
-And, you know, care? About the big stuff?
-
-I saw my compadres fighting smaller and smaller battles. Choking on critical theory. A sort of self-purification program seemed to be happening – an “I can hang my head lower than you” one-upmanship of gooey liberal guilt that was frankly embarrassing.
-
-The Left suddenly just … wasn’t cool anymore.
-
-And that’s not trivial. Because when you lose your cool you lose your influence. Cool’s sneaky superpower is its ability to propagate, to replicate in some critical mass of human minds. Lose that and you’ve lost the game.
-
-I wrote an editorial saying, “The time has come to jump over the dead body of the old Left.” And I’ll never forget how the progressive luminaries of the time came down on me. Like I had betrayed the side.
-
-After 50 years of identifying as a Lefty, I realized I couldn’t in good conscience wear that label anymore.
-
-And then something happened.
-
-Like a Basho poem read on the floor of a stock exchange. Or welders at Toyota laying down their torches and praying to the fire gods.
-
-No doubt about it, the image of the ballerina on the bull had its roots in Japan. Serenity in chaos.
-
-As a call-to-arms image it worked like a charm. But that’s not why Occupy Wall Street ignited. It ignited because people were furious.
-
-What was happening in the United States, in the spring of 2011, violated the sense of fairness that Americans have always believed in. They knew there was something very wrong at the heart of the financial system. The guys in those towers had gambled away the farm. And they got away with it, while others suffered.
-
-Recent graduates saw their future simply vanishing. They stared down endless debt and precariousness — a bottomless black hole.
-
-At the same time, in the Middle East, young people rose up and chased corrupt President Ben Ali out of Tunisia . . . Tahir Square kept pulsating until Egypt’s long-time dictator Hosni Mubarak crumbled . . . it was exhilarating . . . it felt like the beginning of something big . . . we said to ourselves: Why can’t we do something like this . . . in our brainstorming sessions we kept on asking: Why not an American Spring?
-
-We came up with an audacious idea: Let’s go to the iconic heart of global capitalism on Wall Street and occupy the damn place.
-
-We chose my mother’s birthday, September 17, to kick it all off, and started pumping out tactical briefings.
-
-We sent the first of 34 briefings out on July 13. It read:
-
-**#OCCUPYWALLSTREET: A Shift in Revolutionary Tactics**
-
-**Alright you 90,000 redeemers, rebels and radicals out there…**
-
-**On September 17, we want to see 20,000 people flood into lower Manhattan, set up tents, kitchens and peaceful barricades, and occupy Wall Street for a few months. Once there, we shall incessantly repeat one simple demand in a plurality of voices.**
-
-We started talking to activists on the ground in New York. David Graeber and the local activist community mustered. And on Sept 17 it happened: a peaceful battalion of a few thousand marched to the bull.
-
-In Zuccotti Park the mood was ecstatic. It was the summer of love all over again. Eros west of the Bowery. OWS HQ was a village, with its own newspaper, even. Local pizza shops sent in loads of free pies.
-
-From the wings came support over a ridiculously wide spectrum — from the Anonymous collective to Michael Moore to Elizabeth Warren to Barack Obama. Electric speakers, from the philosopher Slavoz Zizek to actress Susan Sarandon, kept occupiers’ spirits high.
-
-‍
-
-‍
-
-![](/images/articles/5fff4b5cdfefcace15f87b60_OccupyWallStreetPoster_600px.jpg)BALLERINA ON THE BULL POSTER‍
+![Image](/images/articles/occupywallstreetposter-600px.jpg)‍
 
 ‍
 
@@ -436,6 +328,7 @@ World Revolution . . . third time lucky.
 ‍
 
 ## REAWAKENING
+
 One evening in 2019, while reading a *New York Review of Books* article called “Two Roads for the New French Right,” I had an aha moment.
 
 The cultural critic Mark Lilla was surveying the European political landscape. And what he saw excited him. Something fresh was coming up between the old intellectual swamp gas of the Left and the poisonous xenophobic populism of the Far Right: a generation of intellectually daring young politicos who aren’t easily categorized.
@@ -492,4 +385,4 @@ What’s emerging this time is different. It’s not a movement of political par
 
 ‍
 
-![](/images/articles/6080951b5c773a0057f7a30d_new_left_the_third_force_450x256.jpg)
+![Image](/images/articles/new-left-the-third-force-450x256.jpg)

@@ -1,8 +1,9 @@
 ---
 title: "FREENET"
-publishedOn: 2023-01-16T00:00:00Z
-author: "- Third Force - Adbusters #164"
-featuredImage: "/images/articles/63c5da58da4f728e750f06f2_MLF-vintage-comic_1.gif"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/mlf-vintage-comic.gif"
+category: "Psycho"
 ---
 
 One day... we'll shake our heads and wonder why our lives are so full of cookies and influencers and data-capture and linkbait and bots. We'll wonder why we allowed surveillance capitalism to become the norm, and whether the damage to our political, cultural, and emotional lives can ever be undone.

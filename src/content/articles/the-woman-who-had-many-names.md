@@ -1,11 +1,12 @@
 ---
 title: "The Woman Who Had Many Names"
-publishedOn: 2019-08-08T00:00:00Z
-author: "- Muhammad Nasrullah Khan - Adbusters #145-i-feel-nothing"
-featuredImage: "/images/articles/5e41de219c15bc53fa49d98f_Aysha_Mou-web_1.jpg"
+publishedOn: 2024-11-05
+author: "Muhammad Nasrullah Khan"
+featuredImage: "/images/articles/aysha-mou-web.jpg"
 ---
 
-### **“Deleir Khan has bought a new mare and a Bengali woman.”**
+## **“Deleir Khan has bought a new mare and a Bengali woman.”**
+
 This news murmured through the square where villagers gathered to wag their tongues. People jostled and bustled, busier than on the holiest of holidays. Gossip was the only entertainment in my remote village. The favorite subjects were horses, dogs, and women. The latest juicy topic stirred their bored souls to life.
 
 On my way home from school, I heard them chortling. Men spoke at the public places, and women addressed passersby from the doorways.
@@ -52,7 +53,7 @@ I gathered my courage to break the silence. “Baba, are wives for sale like ani
 
 “Well, your uncle may need a woman to take care of his new mare. You know, animals bond with some people and can’t live without them. I think this might be the case with your uncle’s new horse.” I wondered whether father was not ready to accept her as his sister-in-law.
 
-![](/images/articles/5f18c50274d5db430fb8e8c1_horse-george-hiles-unsplash_1.jpg)He rose slowly, placed his hands on his hips and twisted side to side, and I heard his spine crunch like the pleasure of tired hands cracking knuckles. He walked to his bedroom, leaving me by the fireplace. I went to bed as well, but thoughts rushed through my head, driving sleep away. Uncle’s dog barked at midnight. Either the mare or the woman had upset the dog.
+![Image](/images/articles/horse-george-hiles-unsplash.jpg)He rose slowly, placed his hands on his hips and twisted side to side, and I heard his spine crunch like the pleasure of tired hands cracking knuckles. He walked to his bedroom, leaving me by the fireplace. I went to bed as well, but thoughts rushed through my head, driving sleep away. Uncle’s dog barked at midnight. Either the mare or the woman had upset the dog.
 
 In the morning, I lingered over my breakfast, and loitered in the doorway, trying to postpone my departure for school. Stories of my uncle would have spread like horses fleeing fire, and I dreaded confronting my schoolmates.
 
@@ -70,14 +71,15 @@ Days passed, and still I hadn’t met my new aunt. Life in the village fell back
 
 ‍
 
-### *** * *      * * *      * * *      * * ***
+## *** * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * ***
+
 ‍
 
 One sweltering summer morning, I saw my Bengali aunt leading uncle’s mare, sheep, and goats out of his compound. Her black hair shone in the sun and waved in the slight breeze. Her dark clothes swathed like rags around bird-thin limbs. She was barefoot as she led the mare by the reins, yet she walked with grace.
 
 Sheep were easy to lead. I knew them to be the most docile of creatures. But goats were another story. They reminded me of Old Man Ruboo, though not as ugly. The goats compliantly followed her. They trotted behind like faithful hounds instead of acting like the stubborn third cousins of mules.
 
-![](/images/articles/5f18c520bfc3543ef9e626bf_goat-maxime-agnelli-unsplash_1.jpg)There must be something special about this woman for her to have such an effect on the animals. I hurried to catch up.
+![Image](/images/articles/goat-maxime-agnelli-unsplash.jpg)There must be something special about this woman for her to have such an effect on the animals. I hurried to catch up.
 
 When I got close, she looked down at me and asked, “Who are you?” Her gentle smile and musical voice made my heart beat faster. I had never seen such a woman in the village. Her dark eyes were radiant pools. I wanted to hug and welcome her, but formality forbade it.
 
@@ -87,7 +89,8 @@ When I got close, she looked down at me and asked, “Who are you?” Her gentle
 
 ‍
 
-### *** * *      * * *      * * *      * * ***
+## *** * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * ***
+
 ‍
 
 The school year ended, and summer vacation begun. Early one morning, I saw my new aunt leading the sheep to pasture. I noticed the dog that barked so furiously the first night now followed in obedience.
@@ -120,7 +123,7 @@ She paused, staring at my uncle’s mongrel. Her eyes glistened. “I’ve had m
 
 She looked at me with a bleak face. “I’ve had more than twelve names.”
 
-![](/images/articles/5f18c542ba2e8323131b3501_sheepdog-echo-grid-unsplash_1.jpg)She got up to help the dog deal with a stubborn goat. I’d heard uncle grumble about what he called ‘That worthless mongrel. Don’t know why I even feed him.’ Yet now, after a few weeks with Aunt Laila, the worthless mongrel seemed to be a good sheepdog. The antics of the dog and goat made her laugh.
+![Image](/images/articles/sheepdog-echo-grid-unsplash.jpg)She got up to help the dog deal with a stubborn goat. I’d heard uncle grumble about what he called ‘That worthless mongrel. Don’t know why I even feed him.’ Yet now, after a few weeks with Aunt Laila, the worthless mongrel seemed to be a good sheepdog. The antics of the dog and goat made her laugh.
 
 She returned with a beautiful mushroom in her hand. “You know it grows in wild soil. I’m like a mushroom.” Her voice was a whisper, her gaze soft and neutral. “It has no roots, no one owns it, and anyone can easily pick it. “
 
@@ -158,7 +161,8 @@ The dog led the flock homeward. We followed.
 
 ‍
 
-### *** * *      * * *      * * *      * * ***
+## *** * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * ***
+
 ‍
 
 One day, as we sat with the flock, I remembered everything she had told me on previous days.
@@ -195,7 +199,7 @@ I went to bed eager for the morning.
 
 At dawn, I awakened to sheep bleating. Fearing that Aunt Laila had left me behind, I dashed out the door. I met her by the hill that formed a natural boundary between the pastures and the village.
 
-![](/images/articles/5f18c55c50f85931952a64eb_sheep-xavier-teo-unsplash_1.jpg)“Your uncle told me that your parents object to you coming to the pasture with me. Perhaps they worry our friendship is becoming too close.”
+![Image](/images/articles/sheep-xavier-teo-unsplash.jpg)“Your uncle told me that your parents object to you coming to the pasture with me. Perhaps they worry our friendship is becoming too close.”
 
 “I’m able to choose my own friends. Besides, you are family. What could be wrong?”
 
@@ -223,7 +227,8 @@ A song of a cuckoo at some distance brought me back. A faint glimmer of light fl
 
 ‍
 
-### *** * *      * * *      * * *      * * ***
+## *** * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * ***
+
 ‍
 
 A week later, I went to Uncle Deleir’s home for buttermilk. When I reached the front door, I heard voices coming from my uncle’s room. It sounded like my uncle was negotiating.
@@ -260,6 +265,6 @@ The mare neighed. Her sound was different. It shrilled like a scream, but it was
 
 “Die? When was she alive?” Bhola, the madman, cackled.
 
-![](/images/articles/5f18c57d06ff167bc25fc0c8_mushroom-web_1.jpg)‍
+![Image](/images/articles/mushroom-web.jpg)‍
 
 Muhammad Nasrullah Khan is a fiction writer from Pakistan known for weaving Asian culture into creative evocative settings and memorable characters.

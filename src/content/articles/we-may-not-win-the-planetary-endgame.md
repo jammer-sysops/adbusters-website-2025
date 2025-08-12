@@ -1,8 +1,9 @@
 ---
 title: "We May Not Win the Planetary Endgame"
-publishedOn: 2022-04-14T00:00:00Z
-author: "- Third Force - Adbusters #159"
-featuredImage: "/images/articles/62587a2af829401d8e7e8fb2_lora_mathes_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/lora-mathes.jpg"
+category: "Psycho"
 ---
 
 **April 17**

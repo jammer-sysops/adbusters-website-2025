@@ -1,11 +1,11 @@
 ---
 title: "Break the Trance"
-publishedOn: 2018-12-01T00:00:00Z
-author: "- KL - Adbusters #141"
-
+publishedOn: 2024-11-05
+author: "KL"
+featuredImage: "/images/articles/valentino.jpg"
 ---
 
-![](/images/articles/5f189a3be3cc9f7bfb9b3503_Valentino_1.jpg)Advertising is the biggest psychological experiment ever carried out on the human race. Hypes, jolts, infoviruses, infotoxins, fake news and emotional blackmail have worked their way into the very fabric of our lives generating anxiety, mood disorders and mental dislocation on an unprecedented scale. If we hope to stay sane, keep our minds clear and create any kind of a viable future for ourselves, we need to stop seeing ads as a mere irritation . . .
+![Image](/images/articles/valentino.jpg)Advertising is the biggest psychological experiment ever carried out on the human race. Hypes, jolts, infoviruses, infotoxins, fake news and emotional blackmail have worked their way into the very fabric of our lives generating anxiety, mood disorders and mental dislocation on an unprecedented scale. If we hope to stay sane, keep our minds clear and create any kind of a viable future for ourselves, we need to stop seeing ads as a mere irritation . . .
 
 *We must take advertising out of everyday life!* . . . realize that we’re living a hundred years deep into a monumental system error, one which explains why so much of our culture is mired in dysfunction and paralysis . . . We wake up to this simple fact:
 

@@ -1,11 +1,12 @@
 ---
 title: "I am Four"
-publishedOn: 2024-04-26T22:21:28Z
+publishedOn: 2024-11-05
 author: "— Marita Abraham"
-featuredImage: "/images/articles/662ff0ed98547707e48f4a4e_glitched industry pic v2.jpg"
+featuredImage: "/images/articles/glitched-industry-pic-v2.jpg"
 ---
 
-### I am four.
+## I am four.
+
 A man who is supposed to take care of me touches me in a way that I know is wrong, even when I don't have the vocabulary to explain it. 
 
 When my mother, white with rage, complains to my family, she is told off. 
@@ -13,6 +14,7 @@ When my mother, white with rage, complains to my family, she is told off.
 In Kerala there is a saying: whether the leaf encroaches on the thorn or the thorn encroaches on the leaf, it's the leaf that tears. In other words, it is not their job to protect the girl; it is the mothers' responsibility to protect her daughter.
 
 ## I am eleven. 
+
 I hear what's said about me: Too bossy. Talks too much. Doesn't have enough girlfriends. Doesn't help out in the kitchen. 
 
 At a family vacation, a man six times my age puts his disgusting mouth on mine without my consent. My aunts and uncles are in the room just next door. 
@@ -22,6 +24,7 @@ Many years later, recounting this story to my mother, I realize the violence I e
 Injustice is passed on generation to generation. If you're lucky, the violence gets diluted a little.
 
 ## I am eighteen. 
+
 Now I understand the game and how it is to be won. 
 
 Step 1: Run. 
@@ -33,11 +36,13 @@ I meet women like me, we move in groups. The sisterhood lights up the second I l
 I break the generational cycle of silence.
 
 ## I am one. 
+
 It's 1991. India is liberalized. For the first time since Independence, we open up to free international trade. Business is booming. The windfall profits trickle down to the educated middle class. Multi-billionaires mushroom. And my little family blooms because my father decided to take a risk and start a construction business in a country that needed only to build, build, build, build. 
 
 Money, in less than a generation, transforms how healthy, safe and educated we are. It protects us from violence, from injustice. It insulates us from unpredictable shocks like natural disasters, sweeping government policy changes and big medical emergencies. So, I imprinted another saying under my skin: Money is freedom. I will stand on my own two feet and never fall into the chasm of poverty my parents worked so hard to protect me from. Writer or Journalist? Journalist or Economist? Economist or Salesperson? Salesperson or Marketer? Every decision ends with the thing that makes the most. Accumulate, multiply, climb up up, up and away.
 
 ## I am twenty-nine. 
+
 Every one of those decisions was worth it. The air tastes like freedom. I choose what I wear, who I'm with, what I drink and when I get home. I see the world. I get to leave my country and exchange it for streets that are pristine and safe. No one touches me without my permission. Whatever life throws at me, my credit card can absorb. It feels like cutting through fabric into another dimension. 
 
 I have forgotten to look at price tags. When I go back home, my suitcase is packed only with gifts. In this very tiny, very wealthy country, if I keep my mouth shut, I pay barely any taxes, have spotless streets, trains always on time, all the food I've never tasted. On paper, it is everything a little girl from a little south Indian town should have wanted. But I have just replaced the strings of my community with those of a new master — the capitalist. 
@@ -55,6 +60,7 @@ I look over the chasm of uncertainty ahead. It is black all the way to the endle
 I decide enough is enough. I close my eyes, and run towards the unknown. Maybe all revolutions begin as little ones. Running has always been easy.
 
 ## I am thirty-one. 
+
 Here's a new country to try. New people. New language. New rules. 
 
 My skin and the way I speak English feels uncomfortable, like a pebble in my shoe. My body, and my apartment, smell like curry. When I'm spoken to, at a party where everyone knows English but speaks French, the question they have is, "what brings you all the way from India to France?" I don't have a good answer. 

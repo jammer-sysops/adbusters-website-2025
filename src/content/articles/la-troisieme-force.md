@@ -1,7 +1,8 @@
 ---
 title: "La Troisième Force"
-publishedOn: 2021-04-23T20:13:17Z
-author: "— extrait du prochain livre d'Adbusters, The Third Force – Field Guide To a New World Order. Traduit par Magali Langlois."
+publishedOn: 2024-11-05
+author: "<p>— extrait du prochain livre d’Adbusters, <em>The Third Force – Field Guide To a New World Order.</em></p><p>Traduit de <a href=\"https://www.adbusters.org/full-articles/the-third-force\">l’anglais</a> par Magali Langlois.</p>"
+featuredImage: "/images/articles/new-left-arrows-450x236.jpg"
 ---
 
 Chers lecteurs, commençons par quelque chose de personnel. 
@@ -62,7 +63,7 @@ La politique ressemblera à ceci:
 
 ‍
 
-![](/images/articles/602ef1697997d1436fd5083c_new_left_arrows_450x236.jpg)‍
+![Image](/images/articles/new-left-arrows-450x236.jpg)‍
 
 Nos gouvernements élus, les Nations Unies, la Banque mondiale, le Fonds monétaire international, etc. vont continuer à gouverner comme ils l’ont toujours fait. Ils vont construire les autoroutes, collecter les impôts, gérer les tribunaux, livrer le courrier. Mais, maintenant, ils vont devoir faire face à cette nouvelle voix silencieuse qui exige des transformations systémiques sur de multiples fronts.
 
@@ -85,6 +86,7 @@ Nous apprenons tout juste à exploiter le pouvoir du Net. Pas de manière superf
 Si nous jouons bien le jeu, en gardant la clarté d’esprit, tout en restant libres, agiles, en improvisant des riffs, en étant des systémiciens de premier ordre, alors nous pouvons devenir la force politique dominante du 21e siècle. 
 
 ## **L'Algorithme de la Révolution**
+
 Dana Meadows, la scientifique environnementale qui a coécrit *Les Limites à la croissance, *nous encourage à penser sous la surface. Dans son modèle de l'iceberg de la pensée systémique, les événements que nous voyons se dérouler, ceux qui font l'actualité, ne sont qu'une infime partie de la vie. 
 
 À un niveau plus bas : les tendances. Des modèles qui se répètent.
@@ -95,7 +97,7 @@ L’iceberg entier a la forme d’un navet. Plus on s’enfonce vers les racines
 
 ‍
 
-![](/images/articles/602ef1f4aaaec88046156073_cools_pyramid_450x578.jpg)‍
+![Image](/images/articles/cools-pyramid-450x578.jpg)‍
 
 Nous sommes en train de nous rendre compte que le monde fonctionne sur une poignée de préceptes largement incontestés.
 
@@ -105,7 +107,7 @@ Mais maintenant, pris dans une crise existentielle sans issue évidente, nous co
 
 ‍
 
-![](/images/articles/602ef23c18c2e382f3e2df86_cultural_meme_pool_450x639.jpg)‍
+![Image](/images/articles/cultural-meme-pool-450x639.jpg)‍
 
 Et ensuite, nous les déployons. 
 

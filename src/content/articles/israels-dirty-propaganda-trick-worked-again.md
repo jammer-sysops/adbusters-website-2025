@@ -1,8 +1,9 @@
 ---
 title: "Israel’s Dirty Propaganda Trick Worked — Again!"
-publishedOn: 2022-05-13T00:00:00Z
-author: "- Third Force - Adbusters #160"
-featuredImage: "/images/articles/627ea81779fd8e1834f205f9_palestine-will-be-free_600_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/palestine-will-be-free-600.jpg"
+category: "Psycho"
 ---
 
 Before the story was even published, Israel had already put its sanitizing spin on it.

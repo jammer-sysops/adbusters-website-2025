@@ -1,8 +1,9 @@
 ---
 title: "Think Big, Graeber's History of Humanity!"
-publishedOn: 2022-03-25T00:00:00Z
-author: "- – Kalle Lasn - Adbusters #159"
-featuredImage: "/images/articles/623e1e1fcef47fc370a8b5f3_david_graeber_600x360_1.jpg"
+publishedOn: 2024-11-05
+author: "– Kalle Lasn"
+featuredImage: "/images/articles/david-graeber-600x360.jpg"
+category: "Anarcho"
 ---
 
 David Graeber didn’t live to see the fruits of his decade-long labor: the anthropologist, anarchist and Occupy Wall Street kickstarter died suddenly last year. It fell to his co-author, the archaeologist David Wengrow, to finish their collaborative tour-de-force and get it out into a world right when the world needs it most.

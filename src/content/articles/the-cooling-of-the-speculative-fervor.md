@@ -1,8 +1,9 @@
 ---
 title: "- The Cooling of the Speculative Fervor -"
-publishedOn: 2021-10-15T00:00:00Z
-author: "- Third Force - Adbusters #157"
-featuredImage: "/images/articles/6169c1000936919f73c90cbd_cooling_of_speculative_fervor_600x600_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/cooling-of-speculative-fervor-600x600.jpg"
+category: "Econo"
 ---
 
 So you want to “get into the market” because that’s where the real money can be made, but you haven’t been tuning in lately to the investment game. Couple things to know:

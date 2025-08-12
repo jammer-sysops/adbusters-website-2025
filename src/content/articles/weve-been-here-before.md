@@ -1,8 +1,8 @@
 ---
 title: "We've Been Here Before"
-publishedOn: 2023-06-14T00:00:00Z
-author: "- Kalle Lasn - Adbusters #167"
-featuredImage: "/images/articles/648a2149c4f89c3d189a3d78_the next hitler_1.jpg"
+publishedOn: 2024-11-05
+author: "Kalle Lasn"
+featuredImage: "/images/articles/the-next-hitler.jpg"
 ---
 
 Years before Chamberlain caved in to the Nazis, we knew where Hitler was going, aware of what was at stake, felt what was coming, yet we kept putting up with his ever escalating swipes, indignities and arrogances. We just didn’t have the guts to take him on — until it was too late.

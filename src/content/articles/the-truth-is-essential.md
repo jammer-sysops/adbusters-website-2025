@@ -1,8 +1,9 @@
 ---
-title: "The truth is essential."
-publishedOn: 2022-07-11T00:00:00Z
-author: "- Kalle Lasn - Adbusters #161"
-featuredImage: "/images/articles/62cc99a27476ae175741537f_new_york_times_hoodie_600_1.gif"
+title: "\"The truth is essential.\""
+publishedOn: 2024-11-05
+author: "Kalle Lasn"
+featuredImage: "/images/articles/new-york-times-hoodie-600.gif"
+category: "Political"
 ---
 
 So the The New York Times tells us in their house ads. If you want the truth, the Times implies, we are your trusted source.

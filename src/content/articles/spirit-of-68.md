@@ -1,11 +1,12 @@
 ---
 title: "Spirit of '68"
-publishedOn: 2022-01-19T00:00:00Z
-author: "- The Third Force - Adbusters #158"
-
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/spirit-of-68-600x619.jpg"
+category: "Psycho"
 ---
 
-![](/images/articles/61e8966c4662411e162c1547_spirit_of_68_600x619_1.jpg)**In May 1968, the situationist-inspired Paris riots set off “a chain reaction of refusal” against consumer capitalism.**
+![Image](/images/articles/spirit-of-68-600x619.jpg)**In May 1968, the situationist-inspired Paris riots set off “a chain reaction of refusal” against consumer capitalism.**
 
 First students, then workers, professors, nurses, doctors, bus drivers and a piecemeal league of artists, anarchists, and Enragés took to the streets, erected barricades, fought with police, occupied offices, factories, dockyards, railway depots, theaters and university campuses, sang songs, issued manifestos, sprayed slogans like “Live Without Dead Time” and “Down with the Spectacular-Commodity Culture” all over Paris, shaking the established order to its roots.
 

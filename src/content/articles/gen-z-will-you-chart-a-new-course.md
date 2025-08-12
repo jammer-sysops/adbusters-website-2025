@@ -1,8 +1,9 @@
 ---
 title: "GEN Z — Will You Chart a New Course?"
-publishedOn: 2022-02-28T00:00:00Z
-author: "- Kalle Lasn - Adbusters #159"
-featuredImage: "/images/articles/621e684986cb59651d15cdd2_Gen-Z-newcourse-small-notext_1.jpg"
+publishedOn: 2024-11-05
+author: "Kalle Lasn"
+featuredImage: "/images/articles/gen-z-newcourse-small-notext.jpg"
+category: "Political"
 ---
 
 You are the outsider who smells the stink because you’re new to the room. And who calls “For shame!” at all our indefensible shenanigans — from factory farming to old-growth logging to jailing folks for substance abuse. And oh yeah: letting corporations get away with murder.

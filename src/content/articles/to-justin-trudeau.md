@@ -1,8 +1,9 @@
 ---
 title: "To: Justin Trudeau"
-publishedOn: 2018-08-15T00:00:00Z
-author: "- Cathal Gunning - Adbusters #139"
-featuredImage: "/images/articles/5b74998463ff8206480ff1a8_Stop-Kinder-Morgan-sm_1.png"
+publishedOn: 2024-11-05
+author: "Cathal Gunning"
+featuredImage: "/images/articles/stop-kinder-morgan-sm.png"
+category: "Political"
 ---
 
 (caption: In Burnaby, British Columbia, protestors pull together to stop Kinder Morgan tearing into indigenous territory. Photo by Roger Pimenta)
@@ -33,4 +34,4 @@ No, even if it’s over our dead bodies.
 
 ‍
 
-![](/images/articles/5b749b5916d8f28ff5c4e3c5_Surprise-sm_1.jpg)
+![Image](/images/articles/surprise-sm.jpg)

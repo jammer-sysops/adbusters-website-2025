@@ -1,8 +1,9 @@
 ---
 title: "Three Blind Mice"
-publishedOn: 2022-11-15T00:00:00Z
+publishedOn: 2024-11-05
 author: "Kalle Lasn"
-featuredImage: "/images/articles/6374234eacd57a2f468bc4cc_ben_douglas_philip_600_1.jpg"
+featuredImage: "/images/articles/ben-douglas-philip-600.jpg"
+category: "Econo"
 ---
 
 This year’s Nobel Prize in Economics went to three economists who certainly made an impact, just not in the way we might hope. Each of them played a huge part in perpetrating multiple financial meltdowns, crippling the world’s economy and pushing humanity to the brink of collapse. They and their neoclassical colleagues are the architects and cheerleaders of our failing world system, and I’d be happy if angry Econ 101 students who know full well they have no future started disrupting classes, throwing pies and nailing manifestos to their professors’ doors.

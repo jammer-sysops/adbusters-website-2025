@@ -1,13 +1,13 @@
 ---
 title: "ILSI, the International Life Sciences Institute, has your health in mind."
-publishedOn: 2020-01-10T00:00:00Z
-author: "- Trevor Clarke - Adbusters #147"
-
+publishedOn: 2024-11-05
+author: "Trevor Clarke"
+featuredImage: "/images/articles/beet-the-system-800x1050.jpg"
 ---
 
-![](/images/articles/5e17c54151f8f53f5c14e936_beet_the_system_800x1050_1.jpg)It describes itself as “a nonprofit, worldwide organization whose mission is to provide science that improves human health and well-being.” Since its foundation more than forty years ago (by a Coca-Cola executive), it has rosily convened “scientists from the public and private sectors to collaborate in a neutral forum on scientific topics of mutual interest.”
+![Image](/images/articles/beet-the-system-800x1050.jpg)It describes itself as “a nonprofit, worldwide organization whose mission is to provide science that improves human health and well-being.” Since its foundation more than forty years ago (by a Coca-Cola executive), it has rosily convened “scientists from the public and private sectors to collaborate in a neutral forum on scientific topics of mutual interest.”
 
-Based in Washington, D.C., it boasts seventeen branches worldwide, on every continent except Australia. Financially speaking, ILSI’s global operations rely in large part on the generosity of its constituent members. In 2017, three quarters (over sixteen million dollars) of its revenue were attributed to “member support.” Of special interest are the names that make up ILSI’s markedly charitable membership. This is because, insofar as those names might be expected to apply to persons, there are none. Instead, ILSI’s current list of North American members is made up of such grave monikers as DuPont Nutrition & Health, General Mills, Kellogg Company, PepsiCo — and the Coca-Cola Company.
+Based in Washington, D.C., it boasts seventeen branches worldwide, on every continent except Australia. Financially speaking, ILSI’s global operations rely in large part on the generosity of its constituent members. In 2017, three quarters (over sixteen million dollars) of its revenue were attributed to “member support.” Of special interest are the names that make up ILSI’s markedly charitable membership. This is because, insofar as those names might be expected to apply to persons, there are none. Instead, ILSI’s current list of North American members is made up of such grave monikers as DuPont Nutrition &amp; Health, General Mills, Kellogg Company, PepsiCo — and the Coca-Cola Company.
 
 It is easy, then, to suspect that ILSI may be up to something less than altruistic, despite its sunny rhetoric. But it seems to have anticipated that worry, stating reassuringly that it “does not lobby … or make policy recommendations.” That it sees the need to say so at all should give any half-alert person at least a half-second’s pause.
 
@@ -15,7 +15,7 @@ Nonetheless, ILSI seems to have insinuated itself into the regulatory apparatus 
 
 ‍
 
-![](/images/articles/5e17c59c7cb8726bc94b2eed_mask_ILSI_700x958_1.jpg)‍
+![Image](/images/articles/mask-ilsi-700x958.jpg)‍
 
 In both accounts, we see the regulators and the regulated collapse into one unaccountable mass. And this is to say nothing of ILSI’s myriad other unsavoury ventures, in the developed as much as the developing world, to bend public policy to benefit corporate interest. Indeed, it seems as if Big Food, ILSI, and their mutual higher-ups are complicit in a conspiracy of greed and misinformation, at the expense of the world’s eating public. However, as for conflicts of interest, ILSI reassures us that we need not worry. “All ILSI’s activities,” it insists, “are conducted in an open and transparent manner.”
 

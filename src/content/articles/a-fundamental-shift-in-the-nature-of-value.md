@@ -1,11 +1,11 @@
 ---
 title: "A Fundamental Shift in the Nature of Value"
-publishedOn: 2023-03-24T21:58:40Z
-author: "— Excerpted from Adbusters' forthcoming book. Third Force"
-featuredImage: "/images/articles/641e1caa198728702f2160b0_Global-financial-flows_600.gif"
+publishedOn: 2024-11-05
+author: "<p><strong id=\"\">— Excerpted from Adbusters’ forthcoming book.</strong></p><p id=\"\">Third Force</p>"
+featuredImage: "/images/articles/global-financial-flows-600.gif"
 ---
 
-![](/images/articles/6421e4fb89f915b99dad0ff4_shift-value-atm.gif)I’ve never quite understood finance. It’s a nut I just can’t crack. I don’t get why the stock market goes up when there’s bad news.
+![Image](/images/articles/shift-value-atm.gif)I’ve never quite understood finance. It’s a nut I just can’t crack. I don’t get why the stock market goes up when there’s bad news.
 
 Or why at a time of climate crisis the Dow Jones is breaking all records. I don’t know why 30 percent of new wealth is speculative — no physical objects bought or sold. Or exactly what work the three trillion dollars sloshing around the global economy every day is actually doing. Nobody has ever been able to explain this to me in a way that makes sense.
 

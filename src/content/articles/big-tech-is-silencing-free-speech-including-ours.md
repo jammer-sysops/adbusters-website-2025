@@ -1,11 +1,12 @@
 ---
-title: " Big Tech Is Silencing Free Speech . . . Including Ours"
-publishedOn: 2020-10-14T00:00:00Z
+title: "Big Tech Is Silencing Free Speech . . . Including Ours"
+publishedOn: 2024-11-05
 author: "The BlackSpot Collective"
-
+featuredImage: "/images/articles/mental-liberation-front-600x400.jpg"
+category: "Political"
 ---
 
-![](/images/articles/5f87761ed286345150b2e5c5_mental_liberation_front_600x400_1.jpg)Amid the hysteria of this post-truth moment, we at *Adbusters *have been made the target of a counter-campaign of misinformation and intimidation. Since we launched the “[White House Siege](https://www.adbusters.org/whitehousesiege-campaign)” late in July, the far right’s conspiracy theory–fuelled propaganda machine has attempted to [stoke outlandish fears](https://www.adbusters.org/article/far-right-media-are-after-us-heres-what-we-think-of-them), falsely portraying us as violence-inciting, looting, pillaging bogeymen. In consequence, both our inbox and social media have been flooded with bloodthirsty [expressions](https://www.adbusters.org/the-pulse/from-hate-mail-to-hashtags) of semi-literate hostility. We’ve been informed that we’ll be met by “armed militias.” We’ve been told to “get ready for war.” We’ve been threatened with being “taken away in body bags.” These threats, however, have all proved to be as empty as their authors’ skulls. Not one has amounted to anything more than keyboard-mediated bluster. 
+![Image](/images/articles/mental-liberation-front-600x400.jpg)Amid the hysteria of this post-truth moment, we at *Adbusters *have been made the target of a counter-campaign of misinformation and intimidation. Since we launched the “[White House Siege](https://www.adbusters.org/whitehousesiege-campaign)” late in July, the far right’s conspiracy theory–fuelled propaganda machine has attempted to [stoke outlandish fears](https://www.adbusters.org/article/far-right-media-are-after-us-heres-what-we-think-of-them), falsely portraying us as violence-inciting, looting, pillaging bogeymen. In consequence, both our inbox and social media have been flooded with bloodthirsty [expressions](https://www.adbusters.org/the-pulse/from-hate-mail-to-hashtags) of semi-literate hostility. We’ve been informed that we’ll be met by “armed militias.” We’ve been told to “get ready for war.” We’ve been threatened with being “taken away in body bags.” These threats, however, have all proved to be as empty as their authors’ skulls. Not one has amounted to anything more than keyboard-mediated bluster. 
 
 But then one month into our campaign, Facebook censored the hashtag #WhiteHouseSiege, citing violations of the company’s “community standards” (perhaps due to the rabid reaction outlined above). As a result, we were forced to do an about-face and run with an entirely different hashtag: #ReOccupy. Our efforts at [resuscitating democracy](https://www.adbusters.org/whitehousesiege-campaign) undoubtedly suffered for it. For its part, Facebook’s complaints department has yet to get back to us with any clarification whatsoever. We’ll continue to bang and bang and bang on their door until we get a full explanation. And as soon as we get one, we’ll share it with you. 
 

@@ -1,8 +1,9 @@
 ---
 title: "AI Profiles Bolsonaro"
-publishedOn: 2022-10-12T00:00:00Z
-author: "- Artificial Mind - Adbusters #163"
-featuredImage: "/images/articles/63472380dfbc4dbc2cf2e608_AI_vs_bolsonaro_1.jpg"
+publishedOn: 2024-11-05
+author: "Artificial Mind"
+featuredImage: "/images/articles/ai-vs-bolsonaro.jpg"
+category: "Political"
 ---
 
 **Brazil’s Game King Is About to Be Dethroned** 

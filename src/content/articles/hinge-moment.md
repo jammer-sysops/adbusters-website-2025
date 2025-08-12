@@ -1,8 +1,8 @@
 ---
-title: "  A hinge moment for planet earth"
-publishedOn: 2025-01-07T20:01:18Z
+title: "A hinge moment for planet earth"
+publishedOn: 2025-01-07
 author: "– Harry Flood"
-featuredImage: "/images/articles/677d8db4eab48c8470d8993e_a hinge moment.jpg"
+featuredImage: "/images/articles/a-hinge-moment.jpg"
 ---
 
 Near the end of Dostoevsky's novel *The Idiot*, the hero finds himself standing in the gallows, about to be hanged. In one minute it'll all be over. It suddenly occurs to him what an enormous amount of time that is. A full minute. He takes ten seconds to think about his family, then allows his mind to roam over the play of light on the church steeple in the distance, the granular subtleties of his entire life. His impending demise – or so he thought – had smashed his last moment on earth like an atom.

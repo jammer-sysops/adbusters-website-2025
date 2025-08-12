@@ -1,8 +1,9 @@
 ---
 title: "Wake Up!"
-publishedOn: 2021-11-19T00:00:00Z
+publishedOn: 2024-11-05
 author: "Third Force"
-featuredImage: "/images/articles/619817fcdabccfd6be3d3b32_wake_up_nyt_600x198_1.jpg"
+featuredImage: "/images/articles/wake-up-nyt-600x198.jpg"
+category: "Political"
 ---
 
 Once again, The New York Times has trotted out its familiar old slander about the populous countries of the developing world.

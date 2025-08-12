@@ -1,8 +1,9 @@
 ---
 title: "People of Russia, Wake Up!"
-publishedOn: 2022-07-13T00:00:00Z
-author: "- Third Force - Adbusters #161"
-featuredImage: "/images/articles/62cf412125a01d29dfef2bb8_Ukraine-Tyranny-red_600_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/ukraine-tyranny-red-600.jpg"
+category: "Political"
 ---
 
 You are a proud and deep-rooted people. So why are you acting like serfs? Why are you allowing yourselves to be played like pawns in an autocrat’s game?

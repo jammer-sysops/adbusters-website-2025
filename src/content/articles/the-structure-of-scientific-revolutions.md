@@ -1,11 +1,12 @@
 ---
 title: "The Structure of Scientific Revolutions"
-publishedOn: 2021-08-10T00:00:00Z
-author: "- The Third Force - Adbusters #156"
-
+publishedOn: 2024-11-05
+author: "The Third Force"
+featuredImage: "/images/articles/ruth-skinner-thought-control-in-economics-600x600.jpg"
+category: "Psycho"
 ---
 
-![](/images/articles/6111aea5bd80ac16b2f1de01_Ruth_SKinner_thought_control_in_economics_600x600_1.jpg)Thomas Kuhn, in his* The Structure of Scientific Revolutions*, tells us a different story . . . how paradigm shifts really happen.
+![Image](/images/articles/ruth-skinner-thought-control-in-economics-600x600.jpg)Thomas Kuhn, in his* The Structure of Scientific Revolutions*, tells us a different story . . . how paradigm shifts really happen.
 
 They are almost always nasty, messy, dirty affairs, very much like political revolutions. They unfold like vindictive putsches. The old guard protects its turf jealously. The dissenters are ignored, stonewalled, refused publication and tenure, ostracized and obstructed in every way.
 

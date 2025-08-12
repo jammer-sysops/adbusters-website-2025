@@ -1,8 +1,9 @@
 ---
 title: "Will We Ever Reach Financial Herd Immunity?"
-publishedOn: 2022-04-27T00:00:00Z
-author: "- Third Force - Adbusters #160"
-featuredImage: "/images/articles/6269af3fbd45e568caf0aa68_april13_speculative_money_600_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/april13-speculative-money-600.jpg"
+category: "Econo"
 ---
 
 Speculative money is spreading the virus of capitalism.

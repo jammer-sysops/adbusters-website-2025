@@ -1,8 +1,9 @@
 ---
-title: "The Do or Die Fight for a New Financial - Architecture - "
-publishedOn: 2021-10-07T00:00:00Z
-author: "- Third Force - Adbusters #157"
-featuredImage: "/images/articles/615f45da73b71a2f23e2ba5d_new_financial_architecture_600x344_1.jpg"
+title: "The Do or Die Fight for a New Financial - Architecture -"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/new-financial-architecture-600x344.jpg"
+category: "Econo"
 ---
 
 So this is what it has come to. We’ve finally reached the scary existential moment I’ve been dreading for the last 20 years.

@@ -1,8 +1,8 @@
 ---
 title: "Mad Cow AI"
-publishedOn: 2025-03-19T18:53:03Z
-author: "– Harry Flood"
-featuredImage: "/images/articles/67db1298d90fc060a9c500b3_mad cow ai (1).jpg"
+publishedOn: 2025-03-19
+author: "<p id=\"\">– Harry Flood</p>"
+featuredImage: "/images/articles/mad-cow-ai-1.jpg"
 ---
 
 Generative AI just keeps getting better and better, until it's indistinguishable from the thing it's mimicking - namely, us. And then it gets smarter than us, until we roll over and submit.

@@ -1,11 +1,12 @@
 ---
 title: "Keepers of Mindscape"
-publishedOn: 2020-12-16T00:00:00Z
-author: "- KL - Adbusters #152"
-
+publishedOn: 2024-11-05
+author: "KL"
+featuredImage: "/images/articles/keepers-of-mindscape-600x600.jpg"
+category: "Aesthetico"
 ---
 
-![](/images/articles/5fda86fe4a8b70a58f250e24_keepers_of_mindscape_600x600_1.jpg)Do we still have it? Can we invent new aesthetics, design sustainable products and rid our cities of waste . . . cultivate new sensibilities for our post-materialist age?
+![Image](/images/articles/keepers-of-mindscape-600x600.jpg)Do we still have it? Can we invent new aesthetics, design sustainable products and rid our cities of waste . . . cultivate new sensibilities for our post-materialist age?
 
 There are hints of this new aesthetic in Kenya Hara’s Designing Design when he talks about “a future without artifice,” “whispered value systems” and creating “vehicles of thought and feeling.” He says products are supposed to inspire “acceptance” not “appetite” . . . that the appropriate response to a product is “This will do,” not “This is what I want.”
 

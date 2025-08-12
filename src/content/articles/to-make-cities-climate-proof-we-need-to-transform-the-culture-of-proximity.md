@@ -1,8 +1,9 @@
 ---
 title: "To Make Cities Climate-Proof, We Need to “Transform the Culture of Proximity”"
-publishedOn: 2022-06-23T00:00:00Z
-author: "- Third Force - Adbusters #161"
-featuredImage: "/images/articles/62b4cf0dfeeafe435a1ab672_15-minute_city_600_1.jpg"
+publishedOn: 2024-11-05
+author: "Third Force"
+featuredImage: "/images/articles/15-minute-city-600.jpg"
+category: "Eco"
 ---
 
 You’ve heard of the 100-mile diet. But have you caught wind of the 15-minute city?

@@ -1,7 +1,8 @@
 ---
 title: "Welcome to the New Asceticism."
-publishedOn: 2024-01-03T21:57:01Z
+publishedOn: 2025-01-20
 author: "Harry Flood"
+featuredImage: "/images/articles/65975205548a1a849cb2a200-screen-20shot-202024-01-04-20at-204-47-59-20pm.png"
 ---
 
 When consumer culture collided with the digital environment, something new emerged. Something new but ancient: a plague. Only this one isn’t attacking bodies. It’s attacking minds. 
@@ -22,13 +23,13 @@ Meet Stanford psychiatrist Anna Lembke. She’s an addiction-research specialist
 
 And they’re not alone. Why should it be that depression, anxiety and suicide are rising fastest in the richest nations in the world?
 
-![](/images/articles/678ed1179c5a053ca4dcfd7c_65975205548a1a849cb2a200_Screen%20Shot%202024-01-04%20at%204.47.59%20PM.png)“He who helps himself to pleasure is dead while he is alive,” said St. Francis, but we don’t need religious explanations here. We don’t even have to reach for deep, existential meanings. It’s much simpler than that. It’s biochemistry 101. The easy bounty of high-reward substances has fucked with our reward pathways. 
+![Image](/images/articles/65975205548a1a849cb2a200-screen-20shot-202024-01-04-20at-204-47-59-20pm.png)“He who helps himself to pleasure is dead while he is alive,” said St. Francis, but we don’t need religious explanations here. We don’t even have to reach for deep, existential meanings. It’s much simpler than that. It’s biochemistry 101. The easy bounty of high-reward substances has fucked with our reward pathways. 
 
 This is the story of a molecule called dopamine — the neurotransmitter linked not just to pleasure but to our motivation to keep it coming. 
 
 On the savannah, we might have had to walk for days for a squirt of the stuff — maybe we’d find a fig tree with a few luscious morsels. Yum: payoff. Now we get the payoff without the hunt. Salt, fat, sugar ‘n spice — right in your face, on the buffet table of consumer culture. Everything but the crumb-scraper — and if you want that too, click now and an Amazon driver will drop it on your doorstep before the sun goes down. All dopamine, all the time. 
 
-Here’s what happens when you get too much of a good thing too quickly: a mechanism kicks in to try to restore balance. Dopamine is sloshing around. So our brains slash production, not just back to baseline levels but  to well below them. Which sets up a feedback loop: craving and gorging, repeat. “Which makes us all more depressed, more irritable,” Lembke said, “and less able to take joy from the things that used to give us joy — the things that have given people joy for generations.” *Even the smallest deprivations now hurt like hell. *
+Here’s what happens when you get too much of a good thing too quickly: a mechanism kicks in to try to restore balance. Dopamine is sloshing around. So our brains slash production, not just back to baseline levels but &nbsp;to well below them. Which sets up a feedback loop: craving and gorging, repeat. “Which makes us all more depressed, more irritable,” Lembke said, “and less able to take joy from the things that used to give us joy — the things that have given people joy for generations.” *Even the smallest deprivations now hurt like hell. *
 
 The mismatch between the world we were designed for and the pigpen we built for ourselves means every one of us fights private battles every day. And Lembke believes this will be our new normal for the foreseeable future — hundreds and hundreds of years. Unless we hatch a new plan in a big hurry — some new way to live. 
 
@@ -106,11 +107,11 @@ Through the pandemic, a new vibe emerged around employment. People all around th
 
 Suddenly your donkey-work job just doesn’t seem worth the monumental sacrifice of your time. So people opted out. 
 
-But here’s what’s sometimes misunderstood: all those people who were and still are “lying flat” and “quietly quitting” aren’t lazy. These are protest movements. They’re a vote against dysfunctional systems and carceral labor practices. Few people object to working hard on their own terms at something they find meaningful. In fact, giving an honest day’s labor doing something you and other people value is one  of life’s greatest sources of satisfaction.
+But here’s what’s sometimes misunderstood: all those people who were and still are “lying flat” and “quietly quitting” aren’t lazy. These are protest movements. They’re a vote against dysfunctional systems and carceral labor practices. Few people object to working hard on their own terms at something they find meaningful. In fact, giving an honest day’s labor doing something you and other people value is one &nbsp;of life’s greatest sources of satisfaction.
 
 What sucks is being denied that opportunity — by a capitalist shell-game that nudges too many folks to do shit jobs under inhumane conditions. That is what’s massively demotivating. Every bit as demotivating as the other extreme — getting something for nothing. (That dopamine firehose.) Being challenged rocks. Being exploited doesn’t. The difference is agency. And agency is the very spine of the new asceticism. 
 
-![](/images/articles/678ed1179c5a053ca4dcfd79_659752413b6a7ed29e384fda_Screen%20Shot%202024-01-04%20at%204.48.07%20PM.png)The vibe coming up behind “opting out” will be “opting in.” Leaning in to projects that pluck the strings of your own values, not somebody else’s agenda. “It isn’t work when you enjoy it,” said a friend who seems to be perpetually fixing something or building something or cultivating something — often pretty strenuously and in conditions that look (to me) pretty uncomfortable. The trick comes in resisting the siren tug of the immediate indulgence, whose payoff is so often a devil’s deal. 
+![Image](/images/articles/659752413b6a7ed29e384fda-screen-20shot-202024-01-04-20at-204-48-07-20pm.png)The vibe coming up behind “opting out” will be “opting in.” Leaning in to projects that pluck the strings of your own values, not somebody else’s agenda. “It isn’t work when you enjoy it,” said a friend who seems to be perpetually fixing something or building something or cultivating something — often pretty strenuously and in conditions that look (to me) pretty uncomfortable. The trick comes in resisting the siren tug of the immediate indulgence, whose payoff is so often a devil’s deal. 
 
 [POLITICO] 
 
@@ -174,4 +175,4 @@ We take a little pain in order to stay above the grass, as a species, for just a
 
 Until one day we realize we’ve been using the wrong language around all this. What we called “sucking it up” is really just “pulling together.”
 
-![](/images/articles/678ed1179c5a053ca4dcfd76_65975255103db563b85efed1_Screen%20Shot%202024-01-04%20at%204.48.18%20PM.png)‍
+![Image](/images/articles/65975255103db563b85efed1-screen-20shot-202024-01-04-20at-204-48-18-20pm.png)‍
