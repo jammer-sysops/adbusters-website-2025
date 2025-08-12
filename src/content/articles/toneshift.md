@@ -89,7 +89,7 @@ And so, the grand reset begins.
 
 ‍
 
-**Mo —&gt; Pomo —&gt; Nomo**
+**Mo —> Pomo —> Nomo**
 
 Modernism laid down the rules — “form follows function” — that programmed a whole century. It built planned cities, tone-deaf buildings, urban social housing that proved so soul-crushing it finally had to be leveled. Monster homes plopped on the seashore, boxes upon boxes, right to the property line, the curve of the shore against the diminished straight-line imagination of developers.
 
@@ -129,7 +129,7 @@ Now after finishing the book, I believe we must pass over much of the thinking t
 
 Maybe the vibe of the 21st century will reveal itself when we take the leap from
 
-*I Think Therefore I Am —&gt; I Connect Therefore I Am*
+*I Think Therefore I Am —> I Connect Therefore I Am*
 
 *
 

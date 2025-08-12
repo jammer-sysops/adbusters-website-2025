@@ -9,7 +9,7 @@ In the beginning was the Word — the Bible, the Quran . . . then Martin Luther 
 
 each new technology a wave rolling in upon the last — the very definition of sea change — each provoking a transformation in human communication and consciousness. Look down — today the most revolutionary tool ever invented rests in the palm of your hand — hallelujah! — and we’re in the very earliest stages of learning how to use it.
 
-![Image](/images/articles/ellipsis.jpg)The smartphone is the platform for a new kind of organizing principle. Never before has it been possible to get a million people around the world together in a matter of hours. And within a year? Ten million, easily, coordinating through sites like abillionpeople.org . . . &nbsp;poking our noses into every policy debate, monitoring every election, having a decisive impact . . . &nbsp;
+![Image](/images/articles/ellipsis.jpg)The smartphone is the platform for a new kind of organizing principle. Never before has it been possible to get a million people around the world together in a matter of hours. And within a year? Ten million, easily, coordinating through sites like abillionpeople.org . . .  poking our noses into every policy debate, monitoring every election, having a decisive impact . . .  
 
 most importantly, punishing the wicked. When a corporation misbehaves, we will launch massive boycotts to force the bad actors to their knees . . . and we can go even further. . . demanding a worldwide Robin Hood tax, banning flash trading and derivatives, and outlawing tax havens.
 

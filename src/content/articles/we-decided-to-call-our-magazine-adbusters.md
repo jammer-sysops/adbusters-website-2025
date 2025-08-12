@@ -26,7 +26,7 @@ We started dropping in poems we’d fallen in love with. Not randomly, the way m
 
 We ran cartoons that made us laugh. Not all over the magazine like in the *New Yorker*, but carefully, where they’d resonate with other flotsam in the flow.
 
-And when the deadline looms we start looking for ways to meld pic&amp;text together . . . getting spreads to flow like sentences . . . trying to jell the whole issue into one long comic book flow.
+And when the deadline looms we start looking for ways to meld pic&text together . . . getting spreads to flow like sentences . . . trying to jell the whole issue into one long comic book flow.
 
 After Covid, our magazine grew even splutchier . . . a disruptive, anarchist, DIY attitude asserted itself . . . we started handwriting and doodling all over the spreads . . . leaving post-it notes and coffee spills. We took our hand off the mouse . . . said goodbye to computer-generated boxes, rectangles and circles . . . we abandoned that horrible, sanitized, soul-destroying modernist look altogether.
 

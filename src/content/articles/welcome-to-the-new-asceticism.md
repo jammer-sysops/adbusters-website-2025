@@ -29,7 +29,7 @@ This is the story of a molecule called dopamine — the neurotransmitter linked 
 
 On the savannah, we might have had to walk for days for a squirt of the stuff — maybe we’d find a fig tree with a few luscious morsels. Yum: payoff. Now we get the payoff without the hunt. Salt, fat, sugar ‘n spice — right in your face, on the buffet table of consumer culture. Everything but the crumb-scraper — and if you want that too, click now and an Amazon driver will drop it on your doorstep before the sun goes down. All dopamine, all the time. 
 
-Here’s what happens when you get too much of a good thing too quickly: a mechanism kicks in to try to restore balance. Dopamine is sloshing around. So our brains slash production, not just back to baseline levels but &nbsp;to well below them. Which sets up a feedback loop: craving and gorging, repeat. “Which makes us all more depressed, more irritable,” Lembke said, “and less able to take joy from the things that used to give us joy — the things that have given people joy for generations.” *Even the smallest deprivations now hurt like hell. *
+Here’s what happens when you get too much of a good thing too quickly: a mechanism kicks in to try to restore balance. Dopamine is sloshing around. So our brains slash production, not just back to baseline levels but  to well below them. Which sets up a feedback loop: craving and gorging, repeat. “Which makes us all more depressed, more irritable,” Lembke said, “and less able to take joy from the things that used to give us joy — the things that have given people joy for generations.” *Even the smallest deprivations now hurt like hell. *
 
 The mismatch between the world we were designed for and the pigpen we built for ourselves means every one of us fights private battles every day. And Lembke believes this will be our new normal for the foreseeable future — hundreds and hundreds of years. Unless we hatch a new plan in a big hurry — some new way to live. 
 
@@ -107,7 +107,7 @@ Through the pandemic, a new vibe emerged around employment. People all around th
 
 Suddenly your donkey-work job just doesn’t seem worth the monumental sacrifice of your time. So people opted out. 
 
-But here’s what’s sometimes misunderstood: all those people who were and still are “lying flat” and “quietly quitting” aren’t lazy. These are protest movements. They’re a vote against dysfunctional systems and carceral labor practices. Few people object to working hard on their own terms at something they find meaningful. In fact, giving an honest day’s labor doing something you and other people value is one &nbsp;of life’s greatest sources of satisfaction.
+But here’s what’s sometimes misunderstood: all those people who were and still are “lying flat” and “quietly quitting” aren’t lazy. These are protest movements. They’re a vote against dysfunctional systems and carceral labor practices. Few people object to working hard on their own terms at something they find meaningful. In fact, giving an honest day’s labor doing something you and other people value is one  of life’s greatest sources of satisfaction.
 
 What sucks is being denied that opportunity — by a capitalist shell-game that nudges too many folks to do shit jobs under inhumane conditions. That is what’s massively demotivating. Every bit as demotivating as the other extreme — getting something for nothing. (That dopamine firehose.) Being challenged rocks. Being exploited doesn’t. The difference is agency. And agency is the very spine of the new asceticism. 
 

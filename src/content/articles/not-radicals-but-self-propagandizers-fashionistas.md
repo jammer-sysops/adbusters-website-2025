@@ -70,4 +70,4 @@ If such change does occur, it won’t be nice and we certainly won’t be able t
 
 ‍
 
-— &nbsp;Robert Bohm has been a political activist since his discharge from the army in 1968. He is currently working on a book about the plight of the U.S. left. His most recent book of poems is *What the Bird Tattoo Hides.*
+—  Robert Bohm has been a political activist since his discharge from the army in 1968. He is currently working on a book about the plight of the U.S. left. His most recent book of poems is *What the Bird Tattoo Hides.*

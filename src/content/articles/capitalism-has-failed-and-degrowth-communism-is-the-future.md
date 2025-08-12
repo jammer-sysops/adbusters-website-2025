@@ -41,7 +41,7 @@ KS: He didn’t integrate these ideas into Capital — the best known of his wor
 
 **AB: Some have described degrowth as a kind of “middleway” between capitalism and communism.**
 
-KS: Yes, that kind of discussion about degrowth has been there since the ‘70s... you know, limits to growth, the Club of Rome and so on. And in France there was a rich discussion along these lines, with people like Serge Latouche. Latouche presented degrowth as “a middle path” – not socialism, not capitalism. A third way. I’m much younger than Latouche. What I’m trying to do is overcome the antagonism between Marxism and degrowth – or more generally, I’m trying to overcome the antagonism between Green and Red – between the environmental movement and socialism.							
+KS: Yes, that kind of discussion about degrowth has been there since the ‘70s... you know, limits to growth, the Club of Rome and so on. And in France there was a rich discussion along these lines, with people like Serge Latouche. Latouche presented degrowth as “a middle path” – not socialism, not capitalism. A third way. I’m much younger than Latouche. What I’m trying to do is overcome the antagonism between Marxism and degrowth – or more generally, I’m trying to overcome the antagonism between Green and Red – between the environmental movement and socialism. 
 
 There’s a broad feeling that working-class people just want to consume more, that they just care about money and wages and so on. And then Marxists criticize the greens as a bourgeois group with the money to consume organic products and so on. This debate is no longer useful. Because it’s obvious that both workers and nature are suffering from capitalism. So it’s important to build a new alliance between green and red. And my idea of degrowth communism is an attempt to do that. We need a new dialogue, a new way of thinking about post-capitalism.
 
@@ -57,7 +57,7 @@ KS: Abundance in capitalism looks like a big house, big car, big investment in r
 
 When Marx talked about “abundance” in his later years, he meant something totally different. Something closer to what Jason is talking about. Or Kristin Ross’s idea of “communal luxury.” Or as I say, “public luxury.”
 
-So what are these kinds of abundance? They are not consumptionist. For example, we could have abundance of knowledge, through free public education. That’s not monopolizable: knowledge isn’t monopolizable. We could share. And become richer.	
+So what are these kinds of abundance? They are not consumptionist. For example, we could have abundance of knowledge, through free public education. That’s not monopolizable: knowledge isn’t monopolizable. We could share. And become richer. 
 
 Fast free Internet should be available to everyone, everywhere on Earth. That’s the condition for a truly democratic politics. Public transportation should be free and widely available. Other things: Medical care. A decentralized network of renewable energy. More wind and solar power (sunlight is free!). These are the kinds of abundance people need. Abundance of mobility, abundance of education, abundance of health care. These are basic pillars of a good life. So you make them free and everything flows from there. We should treat these things as commons. A society based on the commons is basically communism – that’s the root of the word.
 

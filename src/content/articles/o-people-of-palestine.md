@@ -5,7 +5,7 @@ author: "-"
 featuredImage: "/images/articles/marwan-1.jpg"
 ---
 
-Marwan Barghouti:&nbsp;Palestine's Mandela Political Prisoner of Israel‍
+Marwan Barghouti: Palestine's Mandela Political Prisoner of Israel‍
 
 You, a people "in love with life," as Darwish put it, have shown you are not afraid to die defending your homes and family and honor.
 

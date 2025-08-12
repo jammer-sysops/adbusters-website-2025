@@ -9,7 +9,7 @@ category: "Eco"
 ![Image](/images/articles/148-article-page43-600x800.jpg)Look up on a cloudless night and you might see the light from a star thousands of trillions of miles away, or pick out the craters left by asteroid strikes on the moon’s face. Look down and your sight stops at topsoil, tarmac, toe. I have rarely felt as far from the human realm as when only ten yards below it, caught in the shining jaws of a limestone bedding plane first formed on the floor of an ancient sea.
 
 ![Image](/images/articles/148-article-page44-600x700.jpg)The underland keeps its secrets well. Only in the last twenty years have ecologists succeeded in tracing the fungal networks that lace woodland soil, joining individual trees into intercommunicating forests
-— as fungi have been doing for hundreds of millions of years. &gt;&gt;
+— as fungi have been doing for hundreds of millions of years. >>
 
 ![Image](/images/articles/148-article-page46-600x800.jpg)We are presently living through the Anthropocene, an epoch of immense and often frightening change at a planetary scale, in which ‘crisis’ exists not as an ever-deferred future apocalypse but rather as an ongoing occurrence experienced most severely by the most vulnerable. Time is profoundly out of joint — and so is place. Things that should have stayed buried are rising up unbidden. When confronted by such surfacings it can be hard to look away, seized by the obscenity of the intrusion.
 

@@ -23,7 +23,7 @@ Across the globe, led by this breakaway group, the children of Occupy Wall Stree
 
 People go bananas when Mercury is in “retrograde” because the planet appears to be moving backwards in the sky, West to East, defying physics, rattling the chains of the gods. But it’s actually just an illusion. It just means a faster-moving planet caught up with and passed a slower-moving one. Mercury is *right there*, saying “Scuze me, bub” as she slips past. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 
+                                                             * 
 
 In the same way, the 21st century may dial up what appears to be a retrograde vibe, but is in fact a natural forward progression. That renegade group of millennials is showing the way. 
 
@@ -31,7 +31,7 @@ Calling themselves “neo-Luddites,” they have parked their phones, broken the
 
 In Wichita, Kansas, a Gen Z kid – one of those neo- Luddites — wanders into the public library and finds, in the Classics aisle, the story of Diogenes. An ancient Greek philosopher who lived in a barrel and slept with dogs, he considered himself the last free man in the Mediterranean. He had nothing and, therefore, had everything. One day an acquaintance — a philosopher in fancy dress named Aristuppance — spotted Diogenes sitting on the ground eating a meager bowl of lentils. “You know, your life doesn’t have to be like this,” Aristuppance said. “If you’d just learn to be obedient to the king you would not have to live on crap like lentils.” To which Diogenes replied: “If you had learned to live on lentils you would not have to be obedient to the king.” 
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+                                                             *
 
 There is a kind of simplicity that lies on the other side of complexity. It is simplicity by design, rather than default. It’s born of the understanding that, a lot of times, complexity is just smoke in your eyes. It exists to befuddle and confound you, so that you buy something, or swallow some dogma, or stay in your lane, or follow the rules. So that you tamp down any wild instincts that may ruffle the feathers of the titans of industry, or interrupt the swing thoughts of the leisure class as they head out on the back nine. 
 
@@ -59,4 +59,4 @@ The yang part is fighting for a dignified existence for every human. It’s scra
 
 So maybe the vibe of the 21st century is contained in a paradox: 
 
-We’ll need to be hard-hearted enough to fight. And soft-hearted enough to know what’s worth fighting for. &nbsp;
+We’ll need to be hard-hearted enough to fight. And soft-hearted enough to know what’s worth fighting for.  

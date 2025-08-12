@@ -1,0 +1,81 @@
+---
+import { Image } from 'astro:assets';
+import removeMd from 'remove-markdown';
+
+interface Props {
+  articles: any[];
+}
+
+const { articles } = Astro.props;
+
+// Helper function to get excerpt
+const getExcerpt = (content: string, maxLength: number = 200) => {
+  const plainText = removeMd(content, {
+    stripListLeaders: true,
+    listUnicodeChar: '',
+    gfm: true,
+    useImgAltText: false
+  })
+    .replace(/\s+/g, ' ')
+    .trim();
+    
+  if (plainText.length <= maxLength) return plainText;
+  return plainText.substring(0, maxLength).trim() + '...';
+};
+
+// Helper function to format date
+const formatDate = (date: Date) => {
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric'
+  });
+};
+---
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+  {articles.map((article) => (
+    <article class="group cursor-pointer">
+      <a href={`/articles/${article.slug}`} class="block">
+        <div class="space-y-4">
+          {article.data.featuredImage && (
+            <div class="aspect-video overflow-hidden rounded-lg bg-gray-100">
+              <Image 
+                src={article.data.featuredImage} 
+                alt={article.data.title}
+                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                width={400}
+                height={225}
+                format="webp"
+                quality={85}
+                loading="lazy"
+              />
+            </div>
+          )}
+          
+          <div class="space-y-2">
+            <h3 class="text-lg font-semibold text-gray-900 group-hover:text-gray-600 transition-colors line-clamp-2">
+              {article.data.title}
+            </h3>
+            
+            {article.data.publishedOn && (
+              <time datetime={article.data.publishedOn.toISOString()} class="text-sm text-gray-500">
+                {formatDate(article.data.publishedOn)}
+              </time>
+            )}
+
+            <p class="text-gray-600 line-clamp-3">
+              {getExcerpt(article.body)}
+            </p>
+          </div>
+        </div>
+      </a>
+    </article>
+  ))}
+</div>
+
+{articles.length === 0 && (
+  <div class="text-center py-12">
+    <p class="text-gray-500">No articles found.</p>
+  </div>
+)}

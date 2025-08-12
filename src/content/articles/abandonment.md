@@ -16,7 +16,7 @@ in the warblings of the brook,
 the whisperings of the trees,
 
 ![Image](/images/articles/simon-wilkes-691856-unsplash-rough-edges.jpg)the sprays of the seas;
-every beat of a butterfly’s wing, &amp;
+every beat of a butterfly’s wing, &
 every tweet of a bird in the spring,
 
 ![Image](/images/articles/jan-meeus-618850-unsplash-rough-edges.jpg)is me.”
@@ -33,5 +33,5 @@ when you resigned me to life in heaven.”
 
 ‍
 
-PHOTO CREDITS: &nbsp;Brook and Trees by Simon Wilkes;
+PHOTO CREDITS:  Brook and Trees by Simon Wilkes;
 Spring robin redbreast by Jan Meeus; both via Unsplash.com

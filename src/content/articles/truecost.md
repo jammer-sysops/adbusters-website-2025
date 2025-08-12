@@ -74,7 +74,7 @@ What is the psychic cost of advertising, that daily broadside of pro-consumption
 
 For conventional economists, True Cost is a gut punch. A True-Cost Marketplace would slow growth, reduce the flow of world trade and curb consumption. It would force economists to rethink just about every axiom they’ve taken for granted since the dawn of the industrial age. 
 
-The efficiency of size would be challenged. The hidden cost of Walmart coming to town, revealed. The lie of never-ending growth on a finite planet, exposed. &nbsp;
+The efficiency of size would be challenged. The hidden cost of Walmart coming to town, revealed. The lie of never-ending growth on a finite planet, exposed.  
 
 “Progress” itself would be redefined.
 
@@ -84,7 +84,7 @@ True Cost could turn out to be one of the most traumatic and painful economic / 
 
 But also one of the most transformative.
 
-In a True-Cost world, there’d be no need for pleading and hectoring, no need to wallow in conflicting consumer emotions. No one would be badgering you to eat less meat. No one would make you feel guilty about owning a car, or for going on that holiday to the Bahamas. All you’re being asked to do is become a consumer in a new kind of marketplace. &nbsp;
+In a True-Cost world, there’d be no need for pleading and hectoring, no need to wallow in conflicting consumer emotions. No one would be badgering you to eat less meat. No one would make you feel guilty about owning a car, or for going on that holiday to the Bahamas. All you’re being asked to do is become a consumer in a new kind of marketplace.  
 
 Instead of “lowest price wins, and don’t ask too many questions,” Adam Smith’s invisible hand would start working its magic in surprising new ways. We’d become part of a worldwide *process* in which every one of the trillions of transactions made every day are working *for* rather than against us.
 

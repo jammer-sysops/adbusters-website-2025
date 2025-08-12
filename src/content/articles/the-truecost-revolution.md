@@ -46,7 +46,7 @@ That’s where we are now.
 
 ![Image](/images/articles/keep-forgetting-to-tile-277x311.jpg)‍
 
-In our brainstorming sessions at Adbusters, one idea kept popping up: If you burrow deep into the innards of the capitalist algorithm, you find a major flaw. It’s that the vast majority of humankind’s carbon emissions are unpriced. Out of the trillions of transactions made every day in our global marketplace, only a tiny fraction reflect their true cost. From the tires on our cars to the phones in our hands, right down to the napkins that McDonald’s hands out with their Big Mac &amp; fries . . . *every purchase we make is essentially a mistake*. And each one drives us a little closer to global system collapse.
+In our brainstorming sessions at Adbusters, one idea kept popping up: If you burrow deep into the innards of the capitalist algorithm, you find a major flaw. It’s that the vast majority of humankind’s carbon emissions are unpriced. Out of the trillions of transactions made every day in our global marketplace, only a tiny fraction reflect their true cost. From the tires on our cars to the phones in our hands, right down to the napkins that McDonald’s hands out with their Big Mac & fries . . . *every purchase we make is essentially a mistake*. And each one drives us a little closer to global system collapse.
 
 With every bogus transaction, another drop of meltwater slides off an iceberg, another puff of CO2 rises to the sky, another bubble of methane wafts up from the tundra. If we keep repeating that mistake, trillions of times a day, week after week, month after month, year after year, what do you think will happen?
 

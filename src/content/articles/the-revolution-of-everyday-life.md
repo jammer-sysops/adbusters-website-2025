@@ -18,19 +18,19 @@ And now you feel the stakes suddenly spike. You feel the cost of repeating anoth
 
 And so when the alarm clock rings tomorrow and you shuffle out into the world, you balk. Instead of grabbing your coffee from the usual Starbucks, you pull back . . . You take a leisurely walk around your neighborhood and check out the local indie scene. And if you find a shop that feels righteous, you decide. This is the place . . . this is where I’ll make my stand. This will be the first act of the revolution of my everyday life. I’m going to make this coffee shop my headquarters. My regular hangout. I’ll get to know the owner, call the baristas by their first names. Meet my friends, brainstorm and figure things out here.
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+                                                                       *
 
 Whoa. Feels good.
 
 You decide to keep the experiment going, and level up. You pledge to shop differently, eat differently, spend your money in strategic new ways. You tackle the perverse instinct to “bargain hunt,” that race-to-the-bottom for the cheapest stuff all the time. (The American consumer battle cry: crape diem!) What’s the point in saving a few pennies if you trash the planet (and the tender shoots of your own soul) in innumerable, invisible little ways every day?
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+                                                                       *
 
 The most powerful (and satisfying) impact you can have on the world (and on yourself) is in the way you handle your money affairs over a lifetime . . .
 
 So now every time you need something you do a gut check. The supermarket is a reflex: so quick and cheap and convenient. But that’s the capitalist algorithm sucking you in. A kind of brainwashing happens when you walk the aisles there. The whole place is designed to hook you on processed foods, destroy your health and make you fat and listless. Plus you miss out on all the good stuff in life . . . your intimate connections with the place and the people around you . . . the succulence of locally grown cherries, peaches and blackberries. Even your peace of mind. So you vow to heave your buying habits in a more local direction from now on.
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+                                                                       *
 
 Is your money sitting in a big bank like Wells Fargo or Bank of America or Chase? Why not move it to a co-op or credit union?Credit unions aren’t perfect but they’re much, much better than the multinational banks.
 
@@ -38,7 +38,7 @@ I did that 30 years ago. I got fed up with the Royal Bank of Canada treating me 
 
 There’s a lot of pressure not to do this. The commercial banks often offer a better rate on term deposits and interest rates. But caving to that temptation means you’re undervaluing everything but the bottom line.Really: is life about always getting the best deal — saving 0.25% on your savings account — or is it about getting the tenor of living right and feeling like a decent human once in a while as you walk into your bank?
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+                                                                       *
 
 I’ve been reading Wolfram Eilenberger’s book Time of the Magicians, which covers the era when my favorite philosophers — Wittgenstein,Benjamin, Heidegger — came to prominence, a dark time of political and economic upheaval, exactly a century ago, with similarities to ours.(The aftermath of a devastating pandemic, economic instability, and the soul-searching of war.) The world seemed “fallen,” and amid the despair people were asking: “How should I live?” But this put them, as the magicians noted, in a perfect nothing-to-lose position of starting over — of breaking free of the bourgeois mindset and getting back to the simple world before your eyes if you could actually see it. Back ‘to the things themselves.
 
@@ -52,7 +52,7 @@ You can opt out of a lot of that if you try.
 
 You can stop buying unnecessary stuff and always pay off your plastic cards every month. You can cash in your stocks and shares (if you have any) and get out of the global casino for good. You can simply throw your opulent lifestyle over the side.
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+                                                                       *
 
 When my friend (and former Adbusters editor) James MacKinnon hatched the 100-mile diet with his partner Alisa Smith, it was an experiment built on a number: 1,500. That’s the average distance food travels to get to your plate. That’s a lot of fossil fuel just so you can enjoy strawberries in February.
 

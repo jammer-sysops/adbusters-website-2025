@@ -71,7 +71,7 @@ Days passed, and still I hadn’t met my new aunt. Life in the village fell back
 
 ‍
 
-## *** * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * ***
+## *** * *      * * *      * * *      * * ***
 
 ‍
 
@@ -89,7 +89,7 @@ When I got close, she looked down at me and asked, “Who are you?” Her gentle
 
 ‍
 
-## *** * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * ***
+## *** * *      * * *      * * *      * * ***
 
 ‍
 
@@ -161,7 +161,7 @@ The dog led the flock homeward. We followed.
 
 ‍
 
-## *** * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * ***
+## *** * *      * * *      * * *      * * ***
 
 ‍
 
@@ -227,7 +227,7 @@ A song of a cuckoo at some distance brought me back. A faint glimmer of light fl
 
 ‍
 
-## *** * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * *&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;* * ***
+## *** * *      * * *      * * *      * * ***
 
 ‍
 

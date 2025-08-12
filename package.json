@@ -16,6 +16,7 @@
     "astro": "^5.10.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "remove-markdown": "^0.6.2",
     "tailwindcss": "^4.1.11"
   },
   "devDependencies": {

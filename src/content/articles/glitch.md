@@ -24,7 +24,7 @@ The digital era offered a quick and easy access to information, but it was also 
 
 ![Image](/images/articles/glitch-art-2.jpg)‍
 
-**Excerpted from *Postdigital Aesthetics — An Art of Imperfection, Disturbances, And Disintegration*, &nbsp;by Andrzej Marzec**
+**Excerpted from *Postdigital Aesthetics — An Art of Imperfection, Disturbances, And Disintegration*,  by Andrzej Marzec**
 
 This text was translated from Polish, originally published in:
 TEKSTUALIA. PALIMPSESTY LITERACKIE ARTYSTYCZNE NAUKOWE

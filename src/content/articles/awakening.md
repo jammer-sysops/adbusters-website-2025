@@ -103,7 +103,7 @@ But the boat made a stop in Yokohama. There, unfolding all around were the myste
 
 I got a job with a consulting company, and soon after starting my own marketing firm, grandiosely called International Computer Research (ICR), in Tokyo’s Roppongi district. I made tons of money. That’s no brag; in the booming Sixties anybody could.
 
-I hit the clubs most nights with my ad-agency pals. Behind the scenes, I dabbled in Judo &amp; Zen. Savored Kawabata’s *The Sound of The Mountain*, Yukio Mishima’s *Forbidden Colors*, Osamu Dazai’s *No Longer Human*.
+I hit the clubs most nights with my ad-agency pals. Behind the scenes, I dabbled in Judo & Zen. Savored Kawabata’s *The Sound of The Mountain*, Yukio Mishima’s *Forbidden Colors*, Osamu Dazai’s *No Longer Human*.
 
 Then one day… Basho.
 
@@ -123,7 +123,7 @@ The legendary calligrapher Sesshu would spend many days preparing himself — an
 
 One afternoon I caught Yasujiro Ozu’s Ikiru and walked out of the theatre stunned. His masterpieces were *Tokyo Story* and *Equinox Flower*. His subject was family life, and the camera was always placed low down in the sitting position. On the surface not much happens. In *Tokyo Story* there’s a scene of an old couple, who have come from the country, sitting on a park bench in the sunlight. They don’t speak. Nothing happens. The scene lingers for what feels like forever. It is incredibly profound.
 
-In the bars, night after night, I met disillusioned American GIs on R &amp; R leave from the Vietnam War. They told me stories of the hell that was being loosed over there. Many of them went AWOL, hiding in their girlfriends’ apartments until the military police tracked them down and dragged them back to their units.
+In the bars, night after night, I met disillusioned American GIs on R & R leave from the Vietnam War. They told me stories of the hell that was being loosed over there. Many of them went AWOL, hiding in their girlfriends’ apartments until the military police tracked them down and dragged them back to their units.
 
 Then I got wind of another uprising. It had started in Paris’ Latin Quarter and quickly spread around the world.
 

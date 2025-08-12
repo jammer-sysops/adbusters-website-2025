@@ -220,7 +220,7 @@ Here’s the other thing about free-flowing information: it works. In the long r
 
 ‍
 
-When people feel empowered, they behave differently. The psychological power balance between top &amp; bottom of society is shattered.
+When people feel empowered, they behave differently. The psychological power balance between top & bottom of society is shattered.
 
 ‍
 

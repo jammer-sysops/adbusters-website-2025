@@ -16,6 +16,6 @@ Big Tech then got us engaged in all kinds of repetitive hand movements, like swi
 
 Big Tech’s great design secret is irregularly timed rewards. Each time you swipe, tap, press down or glance at your Facebook page, you have no idea what’s going to happen. It’s the same psychology that makes slot machines in Las Vegas so compulsive. You keep pulling the lever until the next burst of exhilaration comes.
 
-Now most of us &nbsp;are addicted to our smartphones . . . we carry around our dopamine pump and live our lives like pre-programmed rats in a Skinner box.
+Now most of us  are addicted to our smartphones . . . we carry around our dopamine pump and live our lives like pre-programmed rats in a Skinner box.
 
 This is doing great damage to our souls.

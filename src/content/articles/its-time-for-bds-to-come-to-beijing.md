@@ -18,7 +18,7 @@ Increasingly, these atrocities are being recognized for what they are: attempts 
 
 The CCP is not unaided in its subjugation of noncomforming citizens. Some of the world’s largest corporations profit from slave labor exported from Xinjiang. Apple, BMW, Samsung, Sony, and Volkswagen represent just a handful of the 80-plus companies whose supply chains rely on factories wherein tens of thousands of Uyghurs removed from their homes are subjected to indoctrination, surveilled incessantly, and forced to work in conditions resembling slavery.
 
-Xinjiang is also the source of some 20%, or one fifth, of the world’s cotton. In an eerie echo of American slavery, at least half of a million ethnic-minority people are currently being coerced into picking cotton there by hand. According to a coalition of human-rights groups, “[v]irtually the entire apparel industry is tainted by forced Uyghur and Turkic Muslim labour.” This includes the likes of Adidas, Calvin Klein, Gap, H&amp;M, Tommy Hilfiger, Patagonia, and — you guessed it — Nike.
+Xinjiang is also the source of some 20%, or one fifth, of the world’s cotton. In an eerie echo of American slavery, at least half of a million ethnic-minority people are currently being coerced into picking cotton there by hand. According to a coalition of human-rights groups, “[v]irtually the entire apparel industry is tainted by forced Uyghur and Turkic Muslim labour.” This includes the likes of Adidas, Calvin Klein, Gap, H&M, Tommy Hilfiger, Patagonia, and — you guessed it — Nike.
 
 ‍
 
@@ -28,7 +28,7 @@ Xinjiang is also the source of some 20%, or one fifth, of the world’s cotton. 
 
 Here is the Australian Strategic Policy Institute’s list of all 82 slave-driving companies:
 
-Abercrombie &amp; Fitch. Acer. Adidas. Alstom. Amazon. Apple. ASUS. BAIC Motor. Bestway. BMW. Bombardier. Bosch. BYD. Calvin Klein. Candy. Carter’s. Cerruti 1881. Changan Automobile. Cisco. CRRC. Dell. Electrolux. Fila. Founder Group. GAC Group. Gap. Geely Auto. General Motors. Google. Goertek. H&amp;M. Haier. Hart Schaffner Marx. Hisense. Hitachi. HP. HTC. Huawei. iFlyTek. Jack &amp; Jones. Jaguar. Japan Display Inc. L.L.Bean. Lacoste. Land Rover. Lenovo. LG. Li-Ning. Marks &amp; Spencer. Mayor. Meizu. Mercedes-Benz. MG. Microsoft. Mitsubishi. Mitsumi. Nike. Nintendo. Nokia. Oculus. Oppo. Panasonic. Polo Ralph Lauren. Puma. SAIC Motor. Samsung. SGMW. Sharp. Siemens. Skechers. Sony. TDK. Tommy Hilfiger. Toshiba. Tsinghua Tongfang. Uniqlo. Victoria’s Secret. Vivo. Volkswagen. Xiaomi. Zara. Zegna. ZTE.
+Abercrombie & Fitch. Acer. Adidas. Alstom. Amazon. Apple. ASUS. BAIC Motor. Bestway. BMW. Bombardier. Bosch. BYD. Calvin Klein. Candy. Carter’s. Cerruti 1881. Changan Automobile. Cisco. CRRC. Dell. Electrolux. Fila. Founder Group. GAC Group. Gap. Geely Auto. General Motors. Google. Goertek. H&M. Haier. Hart Schaffner Marx. Hisense. Hitachi. HP. HTC. Huawei. iFlyTek. Jack & Jones. Jaguar. Japan Display Inc. L.L.Bean. Lacoste. Land Rover. Lenovo. LG. Li-Ning. Marks & Spencer. Mayor. Meizu. Mercedes-Benz. MG. Microsoft. Mitsubishi. Mitsumi. Nike. Nintendo. Nokia. Oculus. Oppo. Panasonic. Polo Ralph Lauren. Puma. SAIC Motor. Samsung. SGMW. Sharp. Siemens. Skechers. Sony. TDK. Tommy Hilfiger. Toshiba. Tsinghua Tongfang. Uniqlo. Victoria’s Secret. Vivo. Volkswagen. Xiaomi. Zara. Zegna. ZTE.
 
 ‍
 

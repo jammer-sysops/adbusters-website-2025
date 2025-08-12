@@ -11,7 +11,7 @@ The rich pay no taxes. Despite proof of a gigantic rogue offshore finance indust
 
 Market conditions are eerily similar to just before the crash of 1929. We’re inching toward some invisible tipping point where a runaway automated selloff trips all the circuit breakers on Wall Street. That, or it gets too hot to go outside in August.
 
-Millennials &amp; Gen Z are feeling lost. They immerse themselves in cyberspace and do the best they can, though deep down they know that unless something fundamentally changes, they will continue to live precarious lives and have very little to look forward to.
+Millennials & Gen Z are feeling lost. They immerse themselves in cyberspace and do the best they can, though deep down they know that unless something fundamentally changes, they will continue to live precarious lives and have very little to look forward to.
 
 But something is stirring. Those banked fires of previous stifled revolutions never went out. And now they have found a new fuel. #MeToo and #BLM shimmer as existence proofs: *Systemic change is possible!*
 

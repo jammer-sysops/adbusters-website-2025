@@ -10,7 +10,7 @@ Riddles wrapped in enigmas wrapped in mysteries. What the hell happened before t
 
 You'll keep asking questions like that ... again and again and again.
 
-![Image](/images/articles/you-have-to-keep-at-it-1.jpg)In my late teens I thought I'd found some answers in Wittgenstein . . . and then in Sartre &amp; Heidegger . . . and later in Shinto's mystical embrace of nature . . . and in the films of Ozu and the nothingness of Zen. The artist Agnes Martin once hit me hard with: "I am staying unsettled and trying not to talk for three years. I want to do it very much."
+![Image](/images/articles/you-have-to-keep-at-it-1.jpg)In my late teens I thought I'd found some answers in Wittgenstein . . . and then in Sartre & Heidegger . . . and later in Shinto's mystical embrace of nature . . . and in the films of Ozu and the nothingness of Zen. The artist Agnes Martin once hit me hard with: "I am staying unsettled and trying not to talk for three years. I want to do it very much."
 
 Many decades later, strolling through a graveyard in Australia, I came across John Molloy, a Lieutenant Colonel in Her Majesty's army, who fought under Wellington at Rolica, Salamanca and the Pyrenees, and died on 8th of October 1867 aged 87 years. His epitaph read:
 

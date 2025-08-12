@@ -1,5 +1,5 @@
 ---
-title: "Australia’s Abiding  Legacy of Intolerance"
+title: "Australia’s Abiding Legacy of Intolerance"
 publishedOn: 2024-11-05
 author: "Trevor Clarke"
 featuredImage: "/images/articles/loves-coal.jpg"
