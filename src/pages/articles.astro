@@ -1,25 +1,34 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import ArticleGrid from '../components/ArticleGrid';
 import Header from '../components/Header';
+import { Image } from 'astro:assets';
 
 // Fetch all articles from content collection
 const articles = await getCollection('articles');
 
 // Sort articles by published date (newest first)
-// Convert dates to strings for React component serialization
 const sortedArticles = articles.sort((a, b) => {
   const dateA = new Date(a.data.publishedOn || 0);
   const dateB = new Date(b.data.publishedOn || 0);
   return dateB.getTime() - dateA.getTime();
-}).map(article => ({
-  ...article,
-  data: {
-    ...article.data,
-    publishedOn: article.data.publishedOn ? article.data.publishedOn.toISOString() : undefined
-  }
-}));
+});
+
+// Helper function to get excerpt
+const getExcerpt = (content: string, maxLength: number = 200) => {
+  const plainText = content.replace(/[#*`]/g, '').replace(/\n+/g, ' ').trim();
+  if (plainText.length <= maxLength) return plainText;
+  return plainText.substring(0, maxLength).trim() + '...';
+};
+
+// Helper function to format date
+const formatDate = (date: Date) => {
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric'
+  });
+};
 ---
 
 <Layout>
@@ -33,7 +42,46 @@ const sortedArticles = articles.sort((a, b) => {
         client:load 
       />
       
-      <ArticleGrid articles={sortedArticles} showExcerpts={true} client:load />
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {sortedArticles.map((article) => (
+          <article class="group cursor-pointer">
+            <a href={`/articles/${article.slug}`} class="block">
+              <div class="space-y-4">
+                {article.data.featuredImage && (
+                  <div class="aspect-video overflow-hidden rounded-lg bg-gray-100">
+                    <Image 
+                      src={article.data.featuredImage} 
+                      alt={article.data.title}
+                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      width={400}
+                      height={225}
+                      format="webp"
+                      quality={85}
+                      loading="lazy"
+                    />
+                  </div>
+                )}
+                
+                <div class="space-y-2">
+                  <h3 class="text-lg font-semibold text-gray-900 group-hover:text-gray-600 transition-colors line-clamp-2">
+                    {article.data.title}
+                  </h3>
+                  
+                  {article.data.publishedOn && (
+                    <time datetime={article.data.publishedOn.toISOString()} class="text-sm text-gray-500">
+                      {formatDate(article.data.publishedOn)}
+                    </time>
+                  )}
+
+                  <p class="text-gray-600 line-clamp-3">
+                    {getExcerpt(article.body)}
+                  </p>
+                </div>
+              </div>
+            </a>
+          </article>
+        ))}
+      </div>
       
       {articles.length === 0 && (
         <div class="text-center py-12">

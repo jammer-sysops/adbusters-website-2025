@@ -1,7 +1,7 @@
 ---
 import '../styles/global.css';
 import Navbar from '../components/Navbar';
-import Footer from '../components/Footer';
+import Footer from '../components/Footer.astro';
 ---
 
 <!doctype html>
@@ -13,9 +13,9 @@ import Footer from '../components/Footer';
 		<title>adbusters</title>
 	</head>
 	<body>
-		<Navbar client:load />
+		<Navbar client:idle />
 		<slot />
-		<Footer client:load />
+		<Footer />
 	</body>
 </html>
 
