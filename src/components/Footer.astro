@@ -13,7 +13,7 @@ interface SocialLink {
 const subscriptionLinks: FooterLink[] = [
   { text: 'Subscribe to our magazine', href: 'https://subscribe.adbusters.org/pages/subscriptions' },
   { text: 'Get our next issue for $5', href: 'https://subscribe.adbusters.org/products/ab-168-preorder' },
-  { text: 'Become a Friend of the foundation', href: 'https://subscribe.adbusters.org/products/friend-of-the-foundation-package' },
+  { text: 'Become a Friend of the Foundation', href: 'https://subscribe.adbusters.org/products/friend-of-the-foundation-package' },
   { text: 'Become a lifetimer', href: 'https://subscribe.adbusters.org/products/lifetime-subscription-and-get-a-t-shirt' },
   { text: 'Donate to our cause', href: 'https://subscribe.adbusters.org/pages/donate' },
 ];
@@ -37,12 +37,12 @@ const socialLinks: SocialLink[] = [
 ];
 ---
 
-<footer class="footer-bg bg-cover bg-center bg-repeat relative font-serif" style="background-image: url('https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/64655d3802822b69dd67bd5f_bg_warm2_paper_texture_2023_1080x702.jpg'); border-top: 1px solid #e4ebf3;">
+<footer class="footer-bg bg-cover bg-center bg-repeat relative font-serif" style="border-top: 1px solid #e4ebf3;">
   <div class="container mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <!-- Main Footer Content -->
-    <div class="py-12 grid grid-cols-1 lg:grid-cols-6 gap-8">
+    <div class="py-12 flex flex-col lg:flex-row items-center justify-between gap-8">
       <!-- Brand Section -->
-      <div class="lg:col-span-2">
+      <div class="text-center lg:text-left lg:w-1/2">
         <a href="/" class="inline-block mb-4">
           <img
             src="https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/62ba182620d42c4adbcb90cf_ADBUSTERS_nobg_black_240x72.png"
@@ -50,7 +50,7 @@ const socialLinks: SocialLink[] = [
             class="h-12 w-auto"
           />
         </a>
-        <p class="text-sm leading-relaxed mb-4">
+        <p class="text-lg leading-relaxed mb-4 mr-5">
           <strong>Adbusters</strong> receives <strong>zero funding</strong> from advertising, corporate sponsorship or foundation grants. We are entirely reader-supported. When you{' '}
           <a href="https://subscribe.adbusters.org/" class="font-bold underline">
             subscribe
@@ -68,41 +68,42 @@ const socialLinks: SocialLink[] = [
         </div>
       </div>
 
-      <!-- Subscription Links -->
-      <div class="lg:col-span-2">
-        <div class="space-y-3 max-w-xs">
-          {subscriptionLinks.map((link) => (
-            <a
-              href={link.href}
-              class="block text-sm font-bold hover:underline transition-colors"
-            >
-              {link.text}
-            </a>
-          ))}
-        </div>
-      </div>
-
-      <!-- About Links -->
-      <div class="lg:col-span-1">
-        <div class="space-y-3">
-          {aboutLinks.map((link) => (
-            <a
-              href={link.href}
-              class="block text-sm font-bold hover:underline transition-colors"
-            >
-              {link.text}
-            </a>
-          ))}
+      <!-- Links Section - Two Columns -->
+      <div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <!-- Subscription Links Column -->
+          <div class="space-y-3">
+            {subscriptionLinks.map((link) => (
+              <a
+                href={link.href}
+                class="block text-sm font-bold hover:underline transition-colors"
+              >
+                {link.text}
+              </a>
+            ))}
+          </div>
+          
+          <!-- About Links Column -->
+          <div class="space-y-3">
+            {aboutLinks.map((link) => (
+              <a
+                href={link.href}
+                class="block text-sm font-bold hover:underline transition-colors"
+              >
+                {link.text}
+              </a>
+            ))}
+          </div>
         </div>
       </div>
 
       <!-- Social Links -->
-      <div class="lg:col-span-1">
-        <div class="grid grid-cols-2 gap-2 max-w-[80px]">
+      <div>
+        <div class="flex flex-col gap-3">
           {socialLinks.map((social) => (
             <a
               href={social.href}
-              class="w-6 h-6 flex items-center justify-center hover:opacity-70 transition-opacity"
+              class="w-6 h-6 flex items-center justify-start hover:opacity-70 transition-opacity"
               title={social.platform}
             >
               <img
