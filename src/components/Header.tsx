@@ -2,12 +2,16 @@ interface HeaderProps {
   title?: string;
   subtitle?: string;
   showNavigation?: boolean;
+  navigationText?: string;
+  navigationHref?: string;
 }
 
 export default function Header({ 
   title = "Adbusters", 
   subtitle = "Journal of the mental environment",
-  showNavigation = true 
+  showNavigation = true,
+  navigationText = "Browse Articles",
+  navigationHref = "/articles"
 }: HeaderProps) {
   return (
     <header className="text-center mb-16">
@@ -17,10 +21,10 @@ export default function Header({
       {showNavigation && (
         <nav className="mt-8">
           <a 
-            href="/articles" 
+            href={navigationHref} 
             className="text-blue-600 hover:text-blue-800 font-medium transition-colors"
           >
-            Browse Articles
+            {navigationText}
           </a>
         </nav>
       )}

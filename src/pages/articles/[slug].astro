@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import Header from '../../components/Header';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -28,6 +29,14 @@ function formatDate(dateString: string) {
 ---
 
 <Layout>
+  <Header 
+    title="Articles" 
+    subtitle="Journal of the mental environment" 
+    navigationText="Browse Spoof Ads" 
+    navigationHref="/spoof-ads" 
+    client:load 
+  />
+  
   <article class="min-h-screen bg-white">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <header class="mb-12">

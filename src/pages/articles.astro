@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 import ArticleGrid from '../components/ArticleGrid';
+import Header from '../components/Header';
 
 // Fetch all articles from content collection
 const articles = await getCollection('articles');
@@ -24,7 +25,13 @@ const sortedArticles = articles.sort((a, b) => {
 <Layout>
   <main class="min-h-screen bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <h1 class="text-4xl font-bold text-gray-900 mb-12">Articles</h1>
+      <Header 
+        title="Articles" 
+        subtitle="Journal of the mental environment" 
+        navigationText="Browse Spoof Ads" 
+        navigationHref="/spoof-ads" 
+        client:load 
+      />
       
       <ArticleGrid articles={sortedArticles} showExcerpts={true} client:load />
       

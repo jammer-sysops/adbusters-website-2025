@@ -10,6 +10,19 @@ const articles = defineCollection({
   }),
 });
 
+const spoofAds = defineCollection({
+  type: 'content',
+  schema: ({ image }) => z.object({
+    name: z.string(),
+    createdOn: z.coerce.date().optional(),
+    spoofImage: image(),
+    spoofCategory: z.string().optional(),
+    caption: z.string().optional(),
+    authorCredit: z.string().optional(),
+  }),
+});
+
 export const collections = {
   articles,
+  'spoof-ads': spoofAds,
 };

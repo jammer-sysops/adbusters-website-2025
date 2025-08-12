@@ -26,7 +26,11 @@ const sortedArticles = articles.sort((a, b) => {
 <Layout>
 	<main class="min-h-screen bg-white">
 		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-			<Header client:load />
+			<Header 
+				navigationText="Browse Spoof Ads" 
+				navigationHref="/spoof-ads" 
+				client:load 
+			/>
 			
 			<Section title="Latest Articles" viewAllLink="/articles" viewAllText="View all articles →" client:load>
 				<ArticleGrid articles={sortedArticles} />
