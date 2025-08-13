@@ -1,6 +1,6 @@
 ---
 title: "Post-COVID engaging differences"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-28T22:17:57Z
 author: "Harry Ford"
 featuredImage: "/images/articles/isolation-lockdown-690x444.jpg"
 category: "Psycho"

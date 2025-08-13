@@ -1,6 +1,6 @@
 ---
 title: "GEN Z — Will You Chart a New Course?"
-publishedOn: 2024-11-05
+publishedOn: 2022-02-28T23:25:44Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/gen-z-newcourse-small-notext.jpg"
 category: "Political"

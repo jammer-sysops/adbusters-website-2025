@@ -1,6 +1,6 @@
 ---
 title: "Industrial Farming Is a War with Nature"
-publishedOn: 2024-11-05
+publishedOn: 2021-07-14T18:45:15Z
 author: "The Third Force"
 featuredImage: "/images/articles/agriculture-permaculture-600x882.jpg"
 category: "Eco"

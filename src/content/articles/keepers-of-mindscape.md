@@ -1,6 +1,6 @@
 ---
 title: "Keepers of Mindscape"
-publishedOn: 2024-11-05
+publishedOn: 2020-12-16T22:16:19Z
 author: "KL"
 featuredImage: "/images/articles/keepers-of-mindscape-600x600.jpg"
 category: "Aesthetico"

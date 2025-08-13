@@ -1,6 +1,6 @@
 ---
 title: "I’m About to Give You the Codes. Are You Ready?"
-publishedOn: 2024-11-05
+publishedOn: 2021-02-05T19:26:06Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/adbsuters-issue-153-the-third-force-600x600.jpg"
 category: "Political"

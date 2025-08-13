@@ -1,6 +1,6 @@
 ---
 title: "People of Russia, Wake Up!"
-publishedOn: 2024-11-05
+publishedOn: 2022-07-13T21:51:53Z
 author: "Third Force"
 featuredImage: "/images/articles/ukraine-tyranny-red-600.jpg"
 category: "Political"

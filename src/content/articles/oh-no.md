@@ -1,6 +1,6 @@
 ---
 title: "Oh no!!"
-publishedOn: 2024-11-05
+publishedOn: 2020-10-09T21:13:39Z
 author: "BlackSpot Collective"
 featuredImage: "/images/articles/girl-mask-the-virus-is-capitalism-495x600.jpg"
 category: "Psycho"

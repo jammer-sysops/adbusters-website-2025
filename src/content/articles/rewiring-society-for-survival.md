@@ -1,6 +1,6 @@
 ---
 title: "Rewiring Society for Survival"
-publishedOn: 2024-11-05
+publishedOn: 2024-07-09T19:06:54Z
 author: "— Harry Flood"
 ---
 

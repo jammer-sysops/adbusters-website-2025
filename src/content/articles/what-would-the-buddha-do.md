@@ -1,6 +1,6 @@
 ---
 title: "What Would The Buddha Do?"
-publishedOn: 2024-11-05
+publishedOn: 2022-06-10T21:45:14Z
 author: "<p><em>David Loy is Besl Professor of ethics/religion and society at Xavier University. His books include</em> The Great Awakening: A Buddhist Social Theory <em>and he is qualified as a Zen teacher in the Sanbo Kyodan tradition. (From Adbusters 66)</em></p>"
 featuredImage: "/images/articles/what-would-buddha-do-600px.jpg"
 ---

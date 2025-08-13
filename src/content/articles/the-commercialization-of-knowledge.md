@@ -1,6 +1,6 @@
 ---
 title: "The commercialization of knowledge"
-publishedOn: 2024-11-05
+publishedOn: 2018-10-10T19:35:30Z
 author: "Micah White"
 featuredImage: "/images/articles/toxicculturefinal-small.jpg"
 category: "Techno"

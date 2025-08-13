@@ -1,6 +1,6 @@
 ---
 title: "Big Tech Is Silencing Free Speech . . . Including Ours"
-publishedOn: 2024-11-05
+publishedOn: 2020-10-14T22:05:55Z
 author: "The BlackSpot Collective"
 featuredImage: "/images/articles/mental-liberation-front-600x400.jpg"
 category: "Political"

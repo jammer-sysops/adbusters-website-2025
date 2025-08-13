@@ -1,6 +1,6 @@
 ---
 title: "Incomprehensible world"
-publishedOn: 2024-11-05
+publishedOn: 2020-10-13T21:47:57Z
 author: "Hannah Arendt"
 featuredImage: "/images/articles/open-mouth-insanity-400x597.png"
 category: "Political"

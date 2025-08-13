@@ -1,6 +1,6 @@
 ---
 title: "We know so little"
-publishedOn: 2024-11-05
+publishedOn: 2020-04-14T20:43:24Z
 author: "— from Ness, by Robert Macfarlane and Stanley Donwood"
 featuredImage: "/images/articles/148-article-page43-600x800.jpg"
 category: "Eco"

@@ -1,6 +1,6 @@
 ---
 title: "Opting Out: Antiwork and the Great Resignation"
-publishedOn: 2024-11-05
+publishedOn: 2022-03-07T20:29:02Z
 author: "The Third Force"
 featuredImage: "/images/articles/didnt-go-to-work-600x413.gif"
 category: "Econo"

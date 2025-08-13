@@ -1,6 +1,6 @@
 ---
 title: "Damage to Your Soul?"
-publishedOn: 2024-11-05
+publishedOn: 2022-01-25T23:46:02Z
 author: "The Third Force"
 featuredImage: "/images/articles/social-media-damage-600x600.jpg"
 category: "Psycho"

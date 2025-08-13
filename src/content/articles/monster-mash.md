@@ -1,6 +1,6 @@
 ---
 title: "Monster Mash"
-publishedOn: 2024-11-05
+publishedOn: 2020-05-22T19:36:25Z
 author: "BlackSpot Collective"
 category: "Political"
 ---

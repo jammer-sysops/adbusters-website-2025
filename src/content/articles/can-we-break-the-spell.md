@@ -1,6 +1,6 @@
 ---
 title: "Can we break the spell?"
-publishedOn: 2024-11-05
+publishedOn: 2020-04-14T21:16:38Z
 author: "various"
 featuredImage: "/images/articles/5e6961373df8b03c4bc06745-psycho-zuck-900x600.jpeg"
 category: "Psycho"

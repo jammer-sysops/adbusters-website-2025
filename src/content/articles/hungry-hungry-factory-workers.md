@@ -1,6 +1,6 @@
 ---
 title: "Hungry Hungry Factory Workers"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-11T23:59:20Z
 author: "Jeannie Tyrrell"
 featuredImage: "/images/articles/hungry-factory-workers-600x995.jpg"
 category: "Psycho"

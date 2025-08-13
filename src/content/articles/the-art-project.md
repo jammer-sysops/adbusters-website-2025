@@ -1,6 +1,6 @@
 ---
 title: "The Art Project"
-publishedOn: 2024-11-05
+publishedOn: 2021-10-25T20:21:51Z
 author: "Third Force"
 featuredImage: "/images/articles/atm-art-project-450x571.jpg"
 category: "Anarcho"

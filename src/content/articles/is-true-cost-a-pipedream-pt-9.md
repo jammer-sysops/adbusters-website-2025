@@ -1,6 +1,6 @@
 ---
 title: "Is True Cost a Pipedream? (PT. 9)"
-publishedOn: 2024-11-05
+publishedOn: 2021-12-01T20:28:00Z
 author: "The Third Force"
 featuredImage: "/images/articles/truecost-parts-9-600x150.jpg"
 category: "Eco"

@@ -1,6 +1,6 @@
 ---
 title: "What Happens When AI Completely Decodes and Synthesizes Reality?"
-publishedOn: 2024-11-05
+publishedOn: 2023-07-13T18:21:33Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/butterfly.jpg"
 ---

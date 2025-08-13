@@ -1,6 +1,6 @@
 ---
 title: "I was deeply inspired."
-publishedOn: 2024-11-05
+publishedOn: 2020-06-24T19:43:22Z
 author: "Lindsey"
 category: "Aesthetico"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "In the Age of Planetary Civil War"
-publishedOn: 2024-11-05
+publishedOn: 2021-07-08T17:49:03Z
 author: "Daniel Harlow"
 featuredImage: "/images/articles/did-this-for-the-money-600x758.jpg"
 category: "Political"

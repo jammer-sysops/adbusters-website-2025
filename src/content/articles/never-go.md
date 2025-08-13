@@ -1,6 +1,6 @@
 ---
 title: "Never go"
-publishedOn: 2024-11-05
+publishedOn: 2019-11-14T00:40:58Z
 author: "the Design Anarchy book"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Erasing Time"
-publishedOn: 2024-11-05
+publishedOn: 2023-06-14T22:59:52Z
 author: "<p id=\"\"><em>Erasing Palestine: Free Speech and Palestinian Freedom</em> by Rebecca Ruth Gould</p><p></p>"
 ---
 

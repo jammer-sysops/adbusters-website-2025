@@ -1,6 +1,6 @@
 ---
 title: "Will we end our love affair with the automobile?"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-07T16:44:06Z
 author: "The BlackSpot Collective"
 category: "Eco"
 ---

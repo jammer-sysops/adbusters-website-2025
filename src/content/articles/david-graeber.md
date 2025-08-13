@@ -1,6 +1,6 @@
 ---
 title: "David Graeber"
-publishedOn: 2024-11-05
+publishedOn: 2020-09-09T19:40:43Z
 author: "Trevor Clark"
 featuredImage: "/images/articles/david-graeber-photos-720x434.jpg"
 category: "Anarcho"

@@ -1,6 +1,6 @@
 ---
 title: "Israel’s Dirty Propaganda Trick Worked — Again!"
-publishedOn: 2024-11-05
+publishedOn: 2022-05-13T18:49:08Z
 author: "Third Force"
 featuredImage: "/images/articles/palestine-will-be-free-600.jpg"
 category: "Psycho"

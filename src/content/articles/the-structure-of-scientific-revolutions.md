@@ -1,6 +1,6 @@
 ---
 title: "The Structure of Scientific Revolutions"
-publishedOn: 2024-11-05
+publishedOn: 2021-08-09T22:10:45Z
 author: "The Third Force"
 featuredImage: "/images/articles/ruth-skinner-thought-control-in-economics-600x600.jpg"
 category: "Psycho"

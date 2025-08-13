@@ -1,6 +1,6 @@
 ---
 title: "The New Face of Surveillance"
-publishedOn: 2024-11-05
+publishedOn: 2020-04-27T17:29:32Z
 author: "Various"
 category: "Anarcho"
 ---

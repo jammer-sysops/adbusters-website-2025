@@ -1,6 +1,6 @@
 ---
 title: "Robosexual"
-publishedOn: 2024-11-05
+publishedOn: 2019-06-18T21:47:05Z
 author: "John Bucher"
 featuredImage: "/images/articles/mlm-book-cover.jpg"
 category: "Psycho"

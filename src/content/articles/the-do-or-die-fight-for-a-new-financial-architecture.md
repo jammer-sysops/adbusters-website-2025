@@ -1,6 +1,6 @@
 ---
 title: "The Do or Die Fight for a New Financial - Architecture -"
-publishedOn: 2024-11-05
+publishedOn: 2021-10-07T18:16:33Z
 author: "Third Force"
 featuredImage: "/images/articles/new-financial-architecture-600x344.jpg"
 category: "Econo"

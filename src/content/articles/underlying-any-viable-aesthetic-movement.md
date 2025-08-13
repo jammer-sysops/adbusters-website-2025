@@ -1,6 +1,6 @@
 ---
 title: "Underlying any viable aesthetic movement"
-publishedOn: 2024-11-05
+publishedOn: 2020-12-01T22:42:31Z
 author: "—Sarah Nardi"
 featuredImage: "/images/articles/ideally-this-image-would-be-straight-600x506.jpg"
 category: "Aesthetico"

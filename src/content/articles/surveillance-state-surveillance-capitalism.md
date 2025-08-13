@@ -1,6 +1,6 @@
 ---
 title: "Surveillance State / Surveillance Capitalism"
-publishedOn: 2024-11-05
+publishedOn: 2020-05-11T18:52:58Z
 author: "https://www.adbusters.org/articles-coded/surveillance-state-surveillance-capitalism"
 category: "Psycho"
 ---

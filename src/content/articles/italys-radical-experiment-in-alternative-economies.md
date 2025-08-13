@@ -1,6 +1,6 @@
 ---
 title: "Italy’s Radical Experiment in Alternative Economies"
-publishedOn: 2024-11-05
+publishedOn: 2019-05-29T22:13:56Z
 author: "contribute editor"
 featuredImage: "/images/articles/adbusters-126-perma-1170x635.jpg"
 category: "Eco"

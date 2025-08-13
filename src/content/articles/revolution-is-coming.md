@@ -1,6 +1,6 @@
 ---
 title: "Revolution is Coming."
-publishedOn: 2024-11-05
+publishedOn: 2021-11-05T21:36:47Z
 author: "Third Force"
 featuredImage: "/images/articles/revolution-is-coming-martha-burzynski-600x412.jpg"
 category: "Anarcho"

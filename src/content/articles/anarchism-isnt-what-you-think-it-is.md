@@ -1,6 +1,6 @@
 ---
 title: "Anarchism isn't what you think it is."
-publishedOn: 2024-11-05
+publishedOn: 2021-03-11T00:58:19Z
 author: "The Third Force"
 featuredImage: "/images/articles/anarchism-street-protest-720x519.gif"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "3 Minutes to Midnight"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-22T20:43:04Z
 author: "Jodi Dean"
 featuredImage: "/images/articles/minutes-midnight.png"
 ---

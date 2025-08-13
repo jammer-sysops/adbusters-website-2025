@@ -1,6 +1,6 @@
 ---
 title: "The Woman Who Had Many Names"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-10T22:51:09Z
 author: "Muhammad Nasrullah Khan"
 featuredImage: "/images/articles/aysha-mou-web.jpg"
 ---

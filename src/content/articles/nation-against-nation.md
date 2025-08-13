@@ -1,6 +1,6 @@
 ---
 title: "Nation against Nation"
-publishedOn: 2024-11-05
+publishedOn: 2020-05-21T20:55:11Z
 author: "Trevor Clarke"
 category: "Political"
 ---

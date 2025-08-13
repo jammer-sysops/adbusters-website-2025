@@ -1,6 +1,6 @@
 ---
 title: "The New \"Truth\""
-publishedOn: 2024-11-05
+publishedOn: 2021-08-04T22:38:02Z
 author: "Third Force"
 featuredImage: "/images/articles/math-formula-theory-600x600.jpg"
 category: "Psycho"

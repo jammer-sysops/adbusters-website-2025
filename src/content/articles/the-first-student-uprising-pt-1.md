@@ -1,6 +1,6 @@
 ---
 title: "The First Student Uprising (PT. 1)"
-publishedOn: 2024-11-05
+publishedOn: 2021-09-07T22:29:02Z
 author: "<p>Third Force</p>"
 featuredImage: "/images/articles/students-uprising-pt1-600x400.jpg"
 ---

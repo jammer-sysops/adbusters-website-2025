@@ -1,6 +1,6 @@
 ---
 title: "True-Cost Driving (PT. 4)"
-publishedOn: 2024-11-05
+publishedOn: 2021-12-01T20:22:57Z
 author: "The Third Force"
 featuredImage: "/images/articles/truecost-parts-4-600x150.jpg"
 category: "Eco"

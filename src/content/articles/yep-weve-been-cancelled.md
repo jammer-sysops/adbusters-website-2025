@@ -1,6 +1,6 @@
 ---
 title: "Yep, We’ve Been Cancelled"
-publishedOn: 2024-11-05
+publishedOn: 2021-07-12T20:21:23Z
 author: "Adbusters"
 featuredImage: "/images/articles/adbusters-cancelled-issue-155-corpo.jpg"
 category: "Corpo"

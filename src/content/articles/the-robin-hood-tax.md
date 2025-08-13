@@ -1,6 +1,6 @@
 ---
 title: "The Robin Hood - Tax -"
-publishedOn: 2024-11-05
+publishedOn: 2021-10-19T18:08:26Z
 author: "Third Force"
 featuredImage: "/images/articles/robin-hood-taxes-600x465.jpg"
 category: "Econo"

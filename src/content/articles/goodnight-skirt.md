@@ -1,6 +1,6 @@
 ---
 title: "Goodnight Skirt"
-publishedOn: 2024-11-05
+publishedOn: 2019-06-26T20:49:32Z
 author: "Raoul Fernandes"
 featuredImage: "/images/articles/birdcage-bw.jpg"
 category: "Psycho"

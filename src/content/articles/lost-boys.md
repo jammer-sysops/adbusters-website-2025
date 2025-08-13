@@ -1,6 +1,6 @@
 ---
 title: "Lost Boys"
-publishedOn: 2024-11-05
+publishedOn: 2023-03-01T23:36:06Z
 author: "Harry Flood"
 featuredImage: "/images/articles/celine-crossed-600.gif"
 category: "Psycho"

@@ -1,6 +1,6 @@
 ---
 title: "The Loneliness"
-publishedOn: 2024-11-05
+publishedOn: 2022-07-22T22:44:36Z
 author: "Third Force"
 featuredImage: "/images/articles/forgetting-to-live-scrap-600.gif"
 category: "Psycho"

@@ -1,6 +1,6 @@
 ---
 title: "Zen and Punk: A Path to Authentic Revolution"
-publishedOn: 2025-02-13
+publishedOn: 2025-02-13T18:48:35Z
 featuredImage: "/images/articles/punk-zen.jpg"
 ---
 

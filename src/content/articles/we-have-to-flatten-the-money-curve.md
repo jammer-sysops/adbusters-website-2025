@@ -1,6 +1,6 @@
 ---
 title: "We Have to Flatten the Money Curve"
-publishedOn: 2024-11-05
+publishedOn: 2021-11-09T20:09:42Z
 author: "<p>— from the upcoming Adbusters book</p>"
 ---
 

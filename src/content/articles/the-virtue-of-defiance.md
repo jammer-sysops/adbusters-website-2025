@@ -1,6 +1,6 @@
 ---
 title: "The Virtue of Defiance"
-publishedOn: 2025-05-15
+publishedOn: 2025-05-15T21:11:23Z
 featuredImage: "/images/articles/4th-refusal-image.jpg"
 ---
 

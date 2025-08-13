@@ -1,6 +1,6 @@
 ---
 title: "To: Justin Trudeau"
-publishedOn: 2024-11-05
+publishedOn: 2018-08-15T21:34:01Z
 author: "Cathal Gunning"
 featuredImage: "/images/articles/stop-kinder-morgan-sm.png"
 category: "Political"

@@ -1,6 +1,6 @@
 ---
 title: "La Troisième Force"
-publishedOn: 2024-11-05
+publishedOn: 2021-04-23T20:13:17Z
 author: "<p>— extrait du prochain livre d’Adbusters, <em>The Third Force – Field Guide To a New World Order.</em></p><p>Traduit de <a href=\"https://www.adbusters.org/full-articles/the-third-force\">l’anglais</a> par Magali Langlois.</p>"
 featuredImage: "/images/articles/new-left-arrows-450x236.jpg"
 ---

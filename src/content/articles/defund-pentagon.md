@@ -1,6 +1,6 @@
 ---
 title: "Defund Pentagon"
-publishedOn: 2024-11-05
+publishedOn: 2022-01-25T20:41:01Z
 author: "The Third Force"
 featuredImage: "/images/articles/pentagon-bases-worldwide-600x386.jpg"
 category: "Political"

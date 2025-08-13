@@ -1,6 +1,6 @@
 ---
 title: "I’m W.E.I.R.D."
-publishedOn: 2024-11-05
+publishedOn: 2021-03-30T16:55:37Z
 author: "— Harry Flood"
 featuredImage: "/images/articles/im-weird-girl-600x742.gif"
 category: "Political"

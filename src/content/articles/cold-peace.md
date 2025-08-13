@@ -1,6 +1,6 @@
 ---
 title: "Cold Peace"
-publishedOn: 2024-11-05
+publishedOn: 2022-01-25T22:26:02Z
 author: "The Third Force"
 featuredImage: "/images/articles/cold-peace-israel-600x395.jpg"
 category: "Political"

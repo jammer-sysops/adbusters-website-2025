@@ -1,6 +1,6 @@
 ---
 title: "Economics - The Queen of the Sciences"
-publishedOn: 2024-11-05
+publishedOn: 2021-08-18T23:26:48Z
 author: "Third Force"
 category: "Econo"
 ---

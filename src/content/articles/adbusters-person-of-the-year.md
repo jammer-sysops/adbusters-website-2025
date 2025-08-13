@@ -1,6 +1,6 @@
 ---
 title: "Adbusters Person of the year"
-publishedOn: 2024-11-05
+publishedOn: 2023-01-26T00:28:17Z
 author: "Third Force - from Issue 165"
 featuredImage: "/images/articles/person-of-the-year-2.gif"
 category: "Political"

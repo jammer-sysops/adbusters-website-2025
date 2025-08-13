@@ -1,6 +1,6 @@
 ---
 title: "Historical Horrors"
-publishedOn: 2023-05-04
+publishedOn: 2023-05-04T22:22:30Z
 author: "<p>- Trevor Clarke</p>"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "\"The truth is essential.\""
-publishedOn: 2024-11-05
+publishedOn: 2022-07-11T21:11:18Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/new-york-times-hoodie-600.gif"
 category: "Political"

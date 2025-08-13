@@ -1,6 +1,6 @@
 ---
 title: "Fuck you, General Secretary Xi..."
-publishedOn: 2024-11-05
+publishedOn: 2020-01-31T21:38:30Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/chinese-parade.jpg"
 category: "Political"

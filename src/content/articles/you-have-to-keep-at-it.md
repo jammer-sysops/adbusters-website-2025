@@ -1,6 +1,6 @@
 ---
 title: "YOU HAVE TO KEEP AT IT, AGAIN AND AGAIN, THROUGHOUT YOUR LIFE"
-publishedOn: 2025-02-27
+publishedOn: 2025-02-27T00:09:36Z
 featuredImage: "/images/articles/67bfb142fdcf1f6b011ebef6-hand-releasing-bird-1.jpg"
 ---
 

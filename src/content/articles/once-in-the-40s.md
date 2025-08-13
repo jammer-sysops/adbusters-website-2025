@@ -1,6 +1,6 @@
 ---
 title: "Once in the 40s"
-publishedOn: 2024-11-05
+publishedOn: 2019-07-31T18:00:44Z
 author: "William Stafford"
 featuredImage: "/images/articles/annie-spratt-web.jpg"
 category: "Aesthetico"

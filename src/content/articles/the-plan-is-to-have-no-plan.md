@@ -1,6 +1,6 @@
 ---
 title: "The Plan is to Have No Plan"
-publishedOn: 2024-11-05
+publishedOn: 2020-09-02T22:46:03Z
 author: "Jay Rosen"
 featuredImage: "/images/articles/trump-stranger-graffiti-590x435.jpg"
 category: "Psycho"

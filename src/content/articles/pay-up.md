@@ -1,6 +1,6 @@
 ---
 title: "Pay Up"
-publishedOn: 2024-11-05
+publishedOn: 2023-08-18T17:47:41Z
 author: "—The Third Force"
 featuredImage: "/images/articles/pay-up.png"
 ---

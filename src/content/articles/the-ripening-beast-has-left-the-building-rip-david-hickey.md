@@ -1,6 +1,6 @@
 ---
 title: "The “Ripening Beast” Has Left the Building: RIP David Hickey"
-publishedOn: 2024-11-05
+publishedOn: 2022-03-28T20:45:16Z
 author: "Harry Flood"
 featuredImage: "/images/articles/dave-hickey.jpg"
 category: "Anarcho"

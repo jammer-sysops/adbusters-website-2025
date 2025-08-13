@@ -1,6 +1,6 @@
 ---
 title: "Mad Cow AI"
-publishedOn: 2025-03-19
+publishedOn: 2025-03-19T18:53:03Z
 author: "<p id=\"\">– Harry Flood</p>"
 featuredImage: "/images/articles/mad-cow-ai-1.jpg"
 ---

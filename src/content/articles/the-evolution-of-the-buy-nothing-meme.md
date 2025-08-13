@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of the Buy Nothing Meme"
-publishedOn: 2024-11-05
+publishedOn: 2021-11-01T18:19:08Z
 author: "Third Force"
 featuredImage: "/images/articles/buy-nothing-day-600x692.jpg"
 category: "Corpo"

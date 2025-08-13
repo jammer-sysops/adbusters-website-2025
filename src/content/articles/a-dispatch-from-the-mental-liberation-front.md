@@ -1,6 +1,6 @@
 ---
 title: "A Dispatch from the Mental Liberation Front"
-publishedOn: 2024-11-05
+publishedOn: 2023-04-04T21:21:06Z
 author: "In solidarity, Paul Keeling, father, Vancouver, B.C."
 featuredImage: "/images/articles/smash-phone-v2.gif"
 category: "Psycho"

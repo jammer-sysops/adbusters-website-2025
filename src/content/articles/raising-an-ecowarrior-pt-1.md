@@ -1,6 +1,6 @@
 ---
 title: "Raising an Ecowarrior pt.1"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-10T22:41:18Z
 author: "Erik Assadourian"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Slavery, Plunder, Colonialism"
-publishedOn: 2024-11-05
+publishedOn: 2020-11-18T22:37:33Z
 author: "Various"
 featuredImage: "/images/articles/slavery-600x414.jpg"
 category: "Political"

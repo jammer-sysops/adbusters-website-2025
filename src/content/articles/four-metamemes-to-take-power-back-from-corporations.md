@@ -1,6 +1,6 @@
 ---
 title: "Four Metamemes to Take Power Back from Corporations"
-publishedOn: 2024-11-05
+publishedOn: 2021-06-17T20:02:34Z
 author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force: A Field Guide to a New World Order</em></p>"
 featuredImage: "/images/articles/meme-wars-450x540.jpg"
 ---

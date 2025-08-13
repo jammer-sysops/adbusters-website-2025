@@ -1,6 +1,6 @@
 ---
 title: "The War on Words"
-publishedOn: 2024-11-05
+publishedOn: 2020-04-14T21:08:58Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/5e616e613792815588455a1e-words-blackboard-900x687.jpeg"
 category: "Aesthetico"

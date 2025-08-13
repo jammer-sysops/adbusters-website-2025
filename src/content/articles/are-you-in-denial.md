@@ -1,6 +1,6 @@
 ---
 title: "Are You in Denial?"
-publishedOn: 2024-11-05
+publishedOn: 2022-05-18T20:35:07Z
 author: "<p>- <strong>Kalle Lasn</strong></p>"
 featuredImage: "/images/articles/vr-meta-denial-600.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Your Quantified Self"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-22T20:36:18Z
 author: "Jesse Donaldson"
 featuredImage: "/images/articles/title-yourquantified-copy.png"
 ---

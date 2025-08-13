@@ -1,6 +1,6 @@
 ---
 title: "True-Cost Plastic (PT. 3)"
-publishedOn: 2024-11-05
+publishedOn: 2021-12-01T20:21:48Z
 author: "The Third Force"
 featuredImage: "/images/articles/truecost-parts-3-600x150.jpg"
 category: "Eco"

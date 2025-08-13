@@ -1,6 +1,6 @@
 ---
 title: "Unstraight lines"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-10T23:00:56Z
 author: "Adbusters"
 ---
 

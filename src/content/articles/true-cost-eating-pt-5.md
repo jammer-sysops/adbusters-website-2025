@@ -1,6 +1,6 @@
 ---
 title: "True-Cost Eating (PT. 5)"
-publishedOn: 2024-11-05
+publishedOn: 2021-12-01T20:23:53Z
 author: "The Third Force"
 featuredImage: "/images/articles/truecost-parts-5-600x150.jpg"
 category: "Eco"

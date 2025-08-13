@@ -1,6 +1,6 @@
 ---
 title: "Hermetically Sealed Information Bubbles"
-publishedOn: 2024-11-05
+publishedOn: 2022-09-15T21:53:16Z
 author: "<p><strong>Staff</strong></p>"
 featuredImage: "/images/articles/perfect-pink-bubble-600.gif"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Now is the Time of Monsters"
-publishedOn: 2025-04-10
+publishedOn: 2025-04-10T18:22:31Z
 author: "— Kalle Lasn"
 featuredImage: "/images/articles/trump-and-putin-sittin-in-a-tree.jpg"
 ---

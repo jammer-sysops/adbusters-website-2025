@@ -1,6 +1,6 @@
 ---
 title: "Submission by Blair Emsick"
-publishedOn: 2024-11-05
+publishedOn: 2020-06-08T17:25:40Z
 author: "Blair Emsick"
 category: "Aesthetico"
 ---

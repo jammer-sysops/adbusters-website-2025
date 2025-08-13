@@ -1,6 +1,6 @@
 ---
 title: "Meme Warfare"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-10T22:46:41Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/hit-me.jpg"
 ---

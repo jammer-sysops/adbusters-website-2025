@@ -1,6 +1,6 @@
 ---
 title: "Nat Turner's Rebellion: Echoes of Resistance from Virginia to Gaza"
-publishedOn: 2024-11-05
+publishedOn: 2024-04-17T18:25:48Z
 author: "— Trevor Clarke"
 featuredImage: "/images/articles/nat-turner-v2.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "AI Profiles Xi Jinping"
-publishedOn: 2024-11-05
+publishedOn: 2022-10-17T20:42:13Z
 author: "Artificial Mind"
 featuredImage: "/images/articles/ai-vs-xijinping.jpg"
 category: "Political"

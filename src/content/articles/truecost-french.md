@@ -1,6 +1,6 @@
 ---
 title: "#TrueCost - French"
-publishedOn: 2024-11-05
+publishedOn: 2021-08-06T22:25:16Z
 author: "<p>- tiré de <strong>La troisième force, guide pratique pour un Nouvel ordre mondial, Adbusters</strong></p><p>traduit par : <strong>Marc Jachym</strong></p><p></p>"
 featuredImage: "/images/articles/earth-bw-exhausted-600x396.jpg"
 ---

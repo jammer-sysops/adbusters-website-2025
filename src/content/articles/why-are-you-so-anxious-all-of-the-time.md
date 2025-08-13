@@ -1,6 +1,6 @@
 ---
 title: "Why are you so anxious all the time?"
-publishedOn: 2024-11-05
+publishedOn: 2022-01-25T23:16:37Z
 author: "The Third Force"
 featuredImage: "/images/articles/skinner-box-socials.jpg"
 category: "Psycho"

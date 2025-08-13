@@ -1,6 +1,6 @@
 ---
 title: "\"Violence and Activism: Five Variations\""
-publishedOn: 2024-11-05
+publishedOn: 2020-02-06T21:39:19Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/violence-profiles-pic01-800x444.jpg"
 category: "Anarcho"

@@ -1,6 +1,6 @@
 ---
 title: "This is powerful"
-publishedOn: 2024-11-05
+publishedOn: 2020-06-30T19:10:22Z
 author: "Ursula K. Le Guin"
 category: "Anarcho"
 ---

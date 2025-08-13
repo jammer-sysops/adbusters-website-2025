@@ -1,6 +1,6 @@
 ---
 title: "Is Econ Just Politics in Disguise?"
-publishedOn: 2024-11-05
+publishedOn: 2021-08-23T20:48:26Z
 author: "<p>Third Force</p>"
 ---
 

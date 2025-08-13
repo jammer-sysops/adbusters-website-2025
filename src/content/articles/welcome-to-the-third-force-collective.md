@@ -1,6 +1,6 @@
 ---
 title: "Welcome To The Third Force Collective"
-publishedOn: 2024-11-05
+publishedOn: 2021-08-10T20:50:57Z
 featuredImage: "/images/articles/new-left-arrows-450x236.jpg"
 ---
 

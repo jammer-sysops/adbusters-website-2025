@@ -1,6 +1,6 @@
 ---
 title: "We decided to call our magazine Adbusters."
-publishedOn: 2024-11-05
+publishedOn: 2020-12-22T23:53:47Z
 author: "KL"
 featuredImage: "/images/articles/adbusters-magazine-cover-our-best-cover-600x600.jpg"
 category: "Aesthetico"

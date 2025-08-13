@@ -1,6 +1,6 @@
 ---
 title: "AI Profiles Joe Biden"
-publishedOn: 2024-11-05
+publishedOn: 2022-10-11T21:02:56Z
 author: "Artificial Mind"
 featuredImage: "/images/articles/ai-vs-joe-biden.jpg"
 category: "Political"

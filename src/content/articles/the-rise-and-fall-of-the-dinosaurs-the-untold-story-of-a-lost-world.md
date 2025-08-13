@@ -1,6 +1,6 @@
 ---
 title: "The Rise and Fall of the Dinosaurs: The Untold Story of a Lost World"
-publishedOn: 2024-11-05
+publishedOn: 2019-07-15T18:41:46Z
 author: "Steve Brusatte"
 featuredImage: "/images/articles/dinosaur-statue.jpg"
 category: "Eco"

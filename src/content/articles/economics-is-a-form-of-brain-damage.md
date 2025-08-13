@@ -1,6 +1,6 @@
 ---
 title: "\"Economics is a Form of Brain Damage.\""
-publishedOn: 2024-11-05
+publishedOn: 2022-08-10T21:15:32Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/hazel-henderson-rip-600.jpg"
 category: "Econo"

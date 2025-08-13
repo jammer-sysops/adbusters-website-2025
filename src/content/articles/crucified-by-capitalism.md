@@ -1,6 +1,6 @@
 ---
 title: "Crucified by Capitalism"
-publishedOn: 2024-11-05
+publishedOn: 2020-12-28T21:16:05Z
 author: "BlackSpot Collective"
 featuredImage: "/images/articles/crucified-by-capitalism-450x591.jpg"
 category: "Anarcho"

@@ -1,6 +1,6 @@
 ---
 title: "- The Cooling of the Speculative Fervor -"
-publishedOn: 2024-11-05
+publishedOn: 2021-10-15T17:47:50Z
 author: "Third Force"
 featuredImage: "/images/articles/cooling-of-speculative-fervor-600x600.jpg"
 category: "Econo"

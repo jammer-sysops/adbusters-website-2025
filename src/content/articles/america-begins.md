@@ -1,6 +1,6 @@
 ---
 title: "America Begins"
-publishedOn: 2024-11-05
+publishedOn: 2021-04-05T19:56:27Z
 author: "The Third Force"
 featuredImage: "/images/articles/colonialism-slavery-540x436.gif"
 category: "Political"

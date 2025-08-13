@@ -1,6 +1,6 @@
 ---
 title: "Touch Grass: A Gardener’s Pandemic-era Political Awakening"
-publishedOn: 2024-11-05
+publishedOn: 2023-01-10T22:49:21Z
 author: "<p id=\"\">Trevor Clarke - <a href=\"https://subscribe.adbusters.org/\">Adbusters 164</a></p>"
 featuredImage: "/images/articles/jonathan-kemper-unsplash-600.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Zones of Hope"
-publishedOn: 2024-11-05
+publishedOn: 2022-04-29T20:40:40Z
 author: "<p>- <strong>Trevor Clarke</strong></p>"
 featuredImage: "/images/articles/immo-klink-600.jpg"
 ---

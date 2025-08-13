@@ -1,6 +1,6 @@
 ---
 title: "fair play and cancel culture, men and women"
-publishedOn: 2024-11-05
+publishedOn: 2020-10-21T22:08:44Z
 author: "John Bucher"
 featuredImage: "/images/articles/fair-play-and-cancel-culture-600x400.jpg"
 category: "Aesthetico"

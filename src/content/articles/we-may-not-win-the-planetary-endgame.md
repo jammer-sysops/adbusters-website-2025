@@ -1,6 +1,6 @@
 ---
 title: "We May Not Win the Planetary Endgame"
-publishedOn: 2024-11-05
+publishedOn: 2022-04-14T19:32:52Z
 author: "Third Force"
 featuredImage: "/images/articles/lora-mathes.jpg"
 category: "Psycho"

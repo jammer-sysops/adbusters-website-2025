@@ -1,6 +1,6 @@
 ---
 title: "To Make Cities Climate-Proof, We Need to “Transform the Culture of Proximity”"
-publishedOn: 2024-11-05
+publishedOn: 2022-06-23T20:32:23Z
 author: "Third Force"
 featuredImage: "/images/articles/15-minute-city-600.jpg"
 category: "Eco"

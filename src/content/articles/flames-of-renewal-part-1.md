@@ -1,6 +1,6 @@
 ---
 title: "Flames of Renewal - Part 1"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-03T21:57:36Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/flames-of-renewal-pt1-1280x720-01.jpg"
 category: "Political"

@@ -1,6 +1,6 @@
 ---
 title: "The Catalytic Moment of Truth"
-publishedOn: 2024-11-05
+publishedOn: 2022-03-22T20:16:37Z
 author: "Third Force"
 featuredImage: "/images/articles/organized-crime-600x472.jpg"
 category: "Corpo"

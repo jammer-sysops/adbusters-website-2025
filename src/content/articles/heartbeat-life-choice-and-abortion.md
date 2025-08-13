@@ -1,6 +1,6 @@
 ---
 title: "Heartbeat: Life, Choice, and Abortion."
-publishedOn: 2024-11-05
+publishedOn: 2020-02-10T22:37:41Z
 author: "Arthur Blair"
 featuredImage: "/images/articles/let-it-all-out.jpg"
 ---

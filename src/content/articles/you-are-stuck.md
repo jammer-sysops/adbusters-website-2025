@@ -1,6 +1,6 @@
 ---
 title: "You are stuck."
-publishedOn: 2024-11-05
+publishedOn: 2020-10-01T22:24:09Z
 author: "Afra van den Hoogen, Mila Vuckovic and Nick Verkroost"
 featuredImage: "/images/articles/afra-nick-mila-you-are-stuck-poster-600x900.jpg"
 category: "Aesthetico"

@@ -1,6 +1,6 @@
 ---
 title: "O People of Palestine"
-publishedOn: 2025-04-22
+publishedOn: 2025-04-22T22:10:52Z
 author: "-"
 featuredImage: "/images/articles/marwan-1.jpg"
 ---

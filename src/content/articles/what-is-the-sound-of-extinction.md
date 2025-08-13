@@ -1,6 +1,6 @@
 ---
 title: "What is the sound of extinction?"
-publishedOn: 2024-11-05
+publishedOn: 2019-11-14T00:21:20Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/gong-text.jpg"
 ---

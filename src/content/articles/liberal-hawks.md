@@ -1,6 +1,6 @@
 ---
 title: "Liberal Hawks"
-publishedOn: 2024-11-05
+publishedOn: 2020-12-09T21:33:16Z
 author: "Ben Landis"
 featuredImage: "/images/articles/liberal-hawks-article-boys-staring-dead-body-600x600.jpg"
 category: "Aesthetico"

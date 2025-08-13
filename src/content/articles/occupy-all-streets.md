@@ -1,6 +1,6 @@
 ---
 title: "Occupy All Streets"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-22T22:35:45Z
 author: "Jerome Irwin"
 featuredImage: "/images/articles/road.jpg"
 ---

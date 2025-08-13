@@ -1,6 +1,6 @@
 ---
 title: "Will Humanity Survive?"
-publishedOn: 2024-11-05
+publishedOn: 2023-03-08T20:15:52Z
 author: "- William Davies"
 featuredImage: "/images/articles/next-big-thing-165-homepage.gif"
 category: "Anarcho"

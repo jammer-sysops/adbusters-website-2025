@@ -1,6 +1,6 @@
 ---
 title: "Pissing into the ocean."
-publishedOn: 2024-11-05
+publishedOn: 2020-08-28T21:52:59Z
 author: "The BlackSpot Collective"
 featuredImage: "/images/articles/insta-ravingindian-460x690.jpg"
 category: "Anarcho"

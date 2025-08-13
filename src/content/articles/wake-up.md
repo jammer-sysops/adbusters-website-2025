@@ -1,6 +1,6 @@
 ---
 title: "Wake Up!"
-publishedOn: 2024-11-05
+publishedOn: 2021-11-19T20:28:39Z
 author: "Third Force"
 featuredImage: "/images/articles/wake-up-nyt-600x198.jpg"
 category: "Political"

@@ -1,6 +1,6 @@
 ---
 title: "Dear World Leaders,"
-publishedOn: 2024-11-05
+publishedOn: 2020-08-14T19:34:55Z
 author: "The BlackSpot Collective"
 featuredImage: "/images/articles/people-world-voice-590x380.jpg"
 category: "Political"

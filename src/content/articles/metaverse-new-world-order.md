@@ -1,6 +1,6 @@
 ---
 title: "Metaverse - New World Order"
-publishedOn: 2024-11-05
+publishedOn: 2022-10-05T20:34:58Z
 author: "Artificial Mind"
 featuredImage: "/images/articles/goddess-of-the-metaverse.jpg"
 category: "Psycho"

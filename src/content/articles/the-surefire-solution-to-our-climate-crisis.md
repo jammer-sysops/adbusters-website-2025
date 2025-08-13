@@ -1,6 +1,6 @@
 ---
 title: "The Surefire Solution to Our Climate Crisis."
-publishedOn: 2024-11-05
+publishedOn: 2021-12-01T19:08:06Z
 author: "The Third Force"
 featuredImage: "/images/articles/sea-levels-rise-intro-600x386.jpg"
 category: "Eco"

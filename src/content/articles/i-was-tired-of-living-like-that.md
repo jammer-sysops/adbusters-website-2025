@@ -1,6 +1,6 @@
 ---
 title: "I Was Tired of Living Like That"
-publishedOn: 2024-11-05
+publishedOn: 2023-06-07T18:21:33Z
 author: "From Adbusters #167"
 featuredImage: "/images/articles/167-i-was-tired-of-living-like-that-1-4-cropped.jpg"
 ---

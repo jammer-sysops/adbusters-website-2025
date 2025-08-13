@@ -1,6 +1,6 @@
 ---
 title: "Can We Meet the Moment?"
-publishedOn: 2024-11-05
+publishedOn: 2023-04-21T18:44:25Z
 author: "KL"
 featuredImage: "/images/articles/kenya-hara-510.gif"
 category: "Anarcho"

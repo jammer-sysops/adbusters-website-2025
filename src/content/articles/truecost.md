@@ -1,6 +1,6 @@
 ---
 title: "#TrueCost"
-publishedOn: 2024-11-05
+publishedOn: 2021-05-12T21:15:56Z
 author: "<p>— from <em>The Third Force – Field Guide To A New World Order</em></p>"
 featuredImage: "/images/articles/earth-bw-exhausted-600x396.jpg"
 ---

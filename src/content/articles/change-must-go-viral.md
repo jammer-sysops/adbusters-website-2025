@@ -1,6 +1,6 @@
 ---
 title: "Change Must Go Viral"
-publishedOn: 2024-11-05
+publishedOn: 2020-04-14T21:43:27Z
 author: "Trevor Clarke"
 category: "Political"
 ---

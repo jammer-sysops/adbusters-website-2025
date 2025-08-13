@@ -1,6 +1,6 @@
 ---
 title: "Alys Tomlinson"
-publishedOn: 2024-11-05
+publishedOn: 2019-11-13T21:44:19Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/horsey.jpg"
 ---

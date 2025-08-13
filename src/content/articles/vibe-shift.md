@@ -1,6 +1,6 @@
 ---
 title: "Vibe Shift"
-publishedOn: 2024-11-05
+publishedOn: 2023-08-08T18:41:08Z
 author: "—Harry Flood"
 featuredImage: "/images/articles/vibe-shift.jpg"
 ---

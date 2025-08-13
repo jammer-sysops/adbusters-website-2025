@@ -1,6 +1,6 @@
 ---
 title: "A Pestilential Breath"
-publishedOn: 2024-11-05
+publishedOn: 2022-11-08T22:34:37Z
 author: "<p id=\"\">- Trevor Clarke - <a href=\"https://subscribe.adbusters.org/products/ab-161-nope-hope\">Adbusters #161</a></p>"
 featuredImage: "/images/articles/plagues-virus-pandemic-600.gif"
 ---

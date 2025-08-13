@@ -1,6 +1,6 @@
 ---
 title: "Co-opted by Capitalism"
-publishedOn: 2024-11-05
+publishedOn: 2020-09-21T18:51:07Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/planet-of-the-humans-title-600x400.jpg"
 category: "Eco"

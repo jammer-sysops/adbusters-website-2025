@@ -1,6 +1,6 @@
 ---
 title: "The Savior Meme"
-publishedOn: 2024-11-05
+publishedOn: 2023-12-07T19:39:34Z
 featuredImage: "/images/articles/manifesto-upc-code.jpg"
 ---
 

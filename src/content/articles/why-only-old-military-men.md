@@ -1,6 +1,6 @@
 ---
 title: "Why Only Old Military Men?"
-publishedOn: 2024-11-05
+publishedOn: 2020-11-17T23:34:23Z
 author: "BlackSpot Collective"
 featuredImage: "/images/articles/why-only-old-military-men-450x268.gif"
 category: "Political"

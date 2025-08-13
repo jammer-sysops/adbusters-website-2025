@@ -1,6 +1,6 @@
 ---
 title: "Young Adult Dystopia"
-publishedOn: 2024-11-05
+publishedOn: 2018-10-25T22:37:10Z
 author: "Cathal Gunning"
 featuredImage: "/images/articles/young-adult-dystopia-web.jpg"
 category: "Psycho"

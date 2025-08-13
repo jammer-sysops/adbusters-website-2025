@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Plastic World."
-publishedOn: 2024-11-05
+publishedOn: 2020-09-04T20:33:21Z
 author: "The BlackSpot Collective"
 featuredImage: "/images/articles/plastic-girl-400x591.jpg"
 category: "Eco"

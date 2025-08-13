@@ -1,6 +1,6 @@
 ---
 title: "Spontaneous Eruptions of Spectacular Dissent"
-publishedOn: 2024-11-05
+publishedOn: 2021-10-22T21:35:24Z
 author: "Third Force"
 featuredImage: "/images/articles/spontaneous-eruptions-450x571.jpg"
 category: "Econo"

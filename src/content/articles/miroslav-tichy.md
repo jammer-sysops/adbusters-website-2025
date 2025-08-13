@@ -1,6 +1,6 @@
 ---
 title: "Miroslav Tichý"
-publishedOn: 2024-11-05
+publishedOn: 2019-11-14T00:06:59Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/perv-1.jpg"
 ---

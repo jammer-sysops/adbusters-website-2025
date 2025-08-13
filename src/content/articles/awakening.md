@@ -1,6 +1,6 @@
 ---
 title: "My Political Awakening"
-publishedOn: 2024-11-05
+publishedOn: 2021-04-23T16:57:53Z
 author: "<p>— Kalle Lasn (from our forthcoming book, <em>The Third Force: Field Guide To a New World Order</em>)</p><p>Also featured in Adbusters issue 153.</p>"
 featuredImage: "/images/articles/ludwig-wittgenstein-600x450.gif"
 ---

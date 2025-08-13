@@ -1,6 +1,6 @@
 ---
 title: "Let's Play"
-publishedOn: 2024-11-05
+publishedOn: 2020-08-04T22:15:03Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/record-player-ballet-690x444.jpg"
 category: "Aesthetico"

@@ -1,6 +1,6 @@
 ---
 title: "Institutionalized: The Films of Frederick Wiseman"
-publishedOn: 2024-11-05
+publishedOn: 2021-04-12T17:56:16Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/frederick-wiseman-450x605.gif"
 category: "Aesthetico"

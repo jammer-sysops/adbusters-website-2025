@@ -1,6 +1,6 @@
 ---
 title: "The Emancipation of the Future"
-publishedOn: 2024-11-05
+publishedOn: 2018-08-27T19:11:31Z
 author: "Dayna Mahannah"
 featuredImage: "/images/articles/perma-culture-web.jpg"
 category: "Eco"

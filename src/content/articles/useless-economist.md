@@ -1,6 +1,6 @@
 ---
 title: "Useless Economist"
-publishedOn: 2024-11-05
+publishedOn: 2021-08-17T21:24:00Z
 author: "Third Force"
 featuredImage: "/images/articles/manfred-max-neef-450x626.jpg"
 category: "Econo"

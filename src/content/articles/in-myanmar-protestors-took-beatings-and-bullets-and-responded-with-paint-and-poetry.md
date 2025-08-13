@@ -1,6 +1,6 @@
 ---
 title: "In Myanmar, Protestors Took Beatings and Bullets — and Responded with Paint and Poetry"
-publishedOn: 2024-11-05
+publishedOn: 2021-03-03T21:37:17Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/protest-art-published-by-art-for-freedom-600x600.jpg"
 category: "Political"

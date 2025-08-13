@@ -1,6 +1,6 @@
 ---
 title: "Rewild your Child"
-publishedOn: 2024-11-05
+publishedOn: 2023-04-13T20:12:33Z
 author: "— Paul Keeling"
 featuredImage: "/images/articles/girl-licking-frog-600.gif"
 category: "Psycho"

@@ -1,6 +1,6 @@
 ---
 title: "The monsters we helped create"
-publishedOn: 2024-11-05
+publishedOn: 2020-05-28T20:16:40Z
 author: "Hadley Coull and Chris Ogden"
 category: "Psycho"
 ---

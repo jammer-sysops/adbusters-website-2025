@@ -1,6 +1,6 @@
 ---
 title: "The Unofficial History of America"
-publishedOn: 2024-11-05
+publishedOn: 2021-06-09T18:24:42Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/history-of-america.jpg"
 ---

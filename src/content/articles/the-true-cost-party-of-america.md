@@ -1,6 +1,6 @@
 ---
 title: "The True Cost Party of America"
-publishedOn: 2024-11-05
+publishedOn: 2021-05-05T22:11:11Z
 author: "The Third Party"
 featuredImage: "/images/articles/truecost-third-party-450x537.jpg"
 category: "Political"

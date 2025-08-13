@@ -78,7 +78,7 @@ const Navbar = () => {
             <div className="flex-none flex justify-center items-center md:flex-auto">
               <a href="/" className="flex items-center no-underline">
                 <img
-                  src="https://cdn.prod.website-files.com/5ab163de19104964ce8a64b9/654188a0558a5db58bb21bf7_Adbusters_turtle_logo.png"
+                  src="/images/adbusters-turtle-logo.png"
                   alt="Adbusters logo"
                   className="w-8 md:w-12 h-auto transform -rotate-[5deg] mix-blend-darken"
                 />

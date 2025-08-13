@@ -1,6 +1,6 @@
 ---
 title: "Looking Back in Anger"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-13T21:01:41Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/person-watching-city-grunge-750x435.jpg"
 category: "Eco"

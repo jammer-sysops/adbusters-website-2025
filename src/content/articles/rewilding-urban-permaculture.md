@@ -1,6 +1,6 @@
 ---
 title: "Rewilding Urban Permaculture"
-publishedOn: 2024-11-05
+publishedOn: 2022-06-16T18:48:59Z
 author: "Third Force"
 featuredImage: "/images/articles/stop-mowing-your-lawn-600.jpg"
 category: "Eco"

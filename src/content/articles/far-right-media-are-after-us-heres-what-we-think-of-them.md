@@ -1,6 +1,6 @@
 ---
 title: "Far-right media are after us. Here’s what we think of them."
-publishedOn: 2024-11-05
+publishedOn: 2020-09-11T22:45:11Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/adbusters-turtle-logo.png"
 category: "Political"

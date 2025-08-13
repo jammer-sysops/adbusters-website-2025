@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the New Asceticism."
-publishedOn: 2025-01-20
+publishedOn: 2024-01-03T21:57:01Z
 author: "Harry Flood"
 featuredImage: "/images/articles/65975205548a1a849cb2a200-screen-20shot-202024-01-04-20at-204-47-59-20pm.png"
 ---

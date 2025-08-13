@@ -1,6 +1,6 @@
 ---
 title: "Rise of the Corporate Charter Revocation Movement"
-publishedOn: 2024-11-05
+publishedOn: 2021-06-28T20:04:05Z
 author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force: A Field Guide to a New World Order</em></p>"
 featuredImage: "/images/articles/corporate-independance-tw-600x338.jpg"
 ---

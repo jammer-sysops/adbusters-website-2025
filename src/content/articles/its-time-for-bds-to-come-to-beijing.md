@@ -1,6 +1,6 @@
 ---
 title: "It's time for BDS to come to Beijing"
-publishedOn: 2024-11-05
+publishedOn: 2021-05-31T19:32:13Z
 author: "The Third Force"
 featuredImage: "/images/articles/boycott-china-600x472.jpg"
 category: "Political"

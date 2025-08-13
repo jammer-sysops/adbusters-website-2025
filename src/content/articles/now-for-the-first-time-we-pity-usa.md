@@ -1,6 +1,6 @@
 ---
 title: "Now, for the first time, we pity USA"
-publishedOn: 2024-11-05
+publishedOn: 2020-05-21T20:48:26Z
 author: "Fintan O'Toole"
 category: "Political"
 ---

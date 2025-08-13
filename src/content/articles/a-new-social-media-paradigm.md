@@ -1,6 +1,6 @@
 ---
 title: "A New Social Media Paradigm"
-publishedOn: 2024-11-05
+publishedOn: 2022-05-03T21:26:29Z
 author: "Johann Hari, in Vox Conversations"
 featuredImage: "/images/articles/jeff-deng-600.jpg"
 category: "Political"

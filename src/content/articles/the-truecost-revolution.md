@@ -1,6 +1,6 @@
 ---
 title: "The #TrueCost Revolution"
-publishedOn: 2024-11-05
+publishedOn: 2021-04-19T22:32:36Z
 featuredImage: "/images/articles/adbusters-issue-1-backcover-480x628.jpg"
 ---
 

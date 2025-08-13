@@ -1,6 +1,6 @@
 ---
 title: "Which Democrats Endorse Israel's Apartheid in Palestine?"
-publishedOn: 2024-11-05
+publishedOn: 2021-05-17T21:10:14Z
 author: "The Third Force"
 featuredImage: "/images/articles/schumer-pelosi-blinken-biden-900x360.jpg"
 category: "Political"

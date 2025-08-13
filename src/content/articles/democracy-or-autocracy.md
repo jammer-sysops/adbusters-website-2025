@@ -1,6 +1,6 @@
 ---
 title: "Democracy or Autocracy?"
-publishedOn: 2024-11-05
+publishedOn: 2023-06-22T19:52:44Z
 author: "— excerpted from The Authoritarian Century by Chris Ogden"
 ---
 

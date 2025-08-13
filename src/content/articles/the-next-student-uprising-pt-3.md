@@ -1,6 +1,6 @@
 ---
 title: "The Next Student Uprising (PT. 3)"
-publishedOn: 2024-11-05
+publishedOn: 2021-09-22T22:19:01Z
 author: "<p>Third Force</p>"
 featuredImage: "/images/articles/students-next-pt3-600x400.jpg"
 ---

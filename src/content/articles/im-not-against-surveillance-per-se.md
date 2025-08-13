@@ -1,6 +1,6 @@
 ---
 title: "I'm not against surveillance per se."
-publishedOn: 2024-11-05
+publishedOn: 2020-08-24T21:37:17Z
 author: "Yuval Harari"
 featuredImage: "/images/articles/street-surveillance-590x380.jpg"
 category: "Psycho"

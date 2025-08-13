@@ -1,6 +1,6 @@
 ---
 title: "What is Hypernormalization?"
-publishedOn: 2024-11-05
+publishedOn: 2020-06-09T18:29:44Z
 author: "Adam Curtis"
 category: "Political"
 ---

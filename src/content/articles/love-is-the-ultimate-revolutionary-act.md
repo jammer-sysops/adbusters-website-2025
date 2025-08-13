@@ -1,6 +1,6 @@
 ---
 title: "Love is the ultimate revolutionary act"
-publishedOn: 2024-11-05
+publishedOn: 2024-03-11T18:41:38Z
 author: "Daniel Younger"
 featuredImage: "/images/articles/love-article.jpg"
 ---

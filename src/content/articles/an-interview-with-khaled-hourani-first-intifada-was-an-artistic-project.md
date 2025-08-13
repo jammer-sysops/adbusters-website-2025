@@ -1,6 +1,6 @@
 ---
 title: "An Interview with Khaled Hourani: First Intifada Was an Artistic Project (by Lela Vujanić)"
-publishedOn: 2024-11-05
+publishedOn: 2023-05-05T17:40:27Z
 author: "<p id=\"\">An interview by <strong>Lela Vujanić</strong></p>"
 featuredImage: "/images/articles/khaled-hourani-palestinian-flag.png"
 ---

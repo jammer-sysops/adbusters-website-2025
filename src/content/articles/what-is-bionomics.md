@@ -1,6 +1,6 @@
 ---
 title: "What is bionomics?"
-publishedOn: 2024-11-05
+publishedOn: 2021-09-03T18:36:12Z
 author: "Third Force"
 featuredImage: "/images/articles/bionomics-600x514.jpg"
 category: "Econo"

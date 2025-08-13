@@ -1,6 +1,6 @@
 ---
 title: "Three Blind Mice"
-publishedOn: 2024-11-05
+publishedOn: 2022-11-15T23:40:16Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/ben-douglas-philip-600.jpg"
 category: "Econo"

@@ -1,6 +1,6 @@
 ---
 title: "#MakeSecrecyTaboo"
-publishedOn: 2024-11-05
+publishedOn: 2021-03-19T18:52:25Z
 featuredImage: "/images/articles/article-19-universal-declaration-of-human-rights-600x776.jpg"
 ---
 

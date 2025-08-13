@@ -1,6 +1,6 @@
 ---
 title: "A Word to Help Us Survive the Next Ten Years"
-publishedOn: 2024-11-05
+publishedOn: 2022-04-19T21:28:22Z
 author: "Chiara Milford"
 featuredImage: "/images/articles/taking-a-stand-in-baton-rouge-600.jpg"
 category: "Psycho"

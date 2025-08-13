@@ -1,6 +1,6 @@
 ---
 title: "Surviving the Plague"
-publishedOn: 2024-11-05
+publishedOn: 2020-04-14T21:31:32Z
 author: "Erin Maglaque"
 category: "Political"
 ---

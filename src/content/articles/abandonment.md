@@ -1,6 +1,6 @@
 ---
 title: "Abandonment"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-22T22:24:59Z
 author: "Aljedaxi Rēcha’daf"
 featuredImage: "/images/articles/abandoned-web.png"
 ---

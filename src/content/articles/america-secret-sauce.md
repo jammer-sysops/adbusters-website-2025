@@ -1,6 +1,6 @@
 ---
 title: "America's Secret Sauce"
-publishedOn: 2024-11-05
+publishedOn: 2023-03-28T19:35:27Z
 author: "- KL"
 featuredImage: "/images/articles/tarot-occupy-600.gif"
 category: "Political"

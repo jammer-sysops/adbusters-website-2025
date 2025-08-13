@@ -1,6 +1,6 @@
 ---
 title: "Millennial Mess"
-publishedOn: 2024-11-05
+publishedOn: 2018-08-27T19:03:02Z
 author: "Indu Iyer"
 featuredImage: "/images/articles/lonely-alienated-men-insta.jpg"
 category: "Psycho"

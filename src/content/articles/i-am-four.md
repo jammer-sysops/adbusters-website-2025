@@ -1,6 +1,6 @@
 ---
 title: "I am Four"
-publishedOn: 2024-11-05
+publishedOn: 2024-04-26T22:21:28Z
 author: "— Marita Abraham"
 featuredImage: "/images/articles/glitched-industry-pic-v2.jpg"
 ---

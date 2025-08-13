@@ -1,6 +1,6 @@
 ---
 title: "Strategic Insight"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-10T21:40:57Z
 author: "Blackspot Collective"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Second Student Revolt (PT. 2)"
-publishedOn: 2024-11-05
+publishedOn: 2021-09-17T21:19:40Z
 author: "<p>Third Force</p>"
 featuredImage: "/images/articles/students-revolt-pt2-600x400.jpg"
 ---

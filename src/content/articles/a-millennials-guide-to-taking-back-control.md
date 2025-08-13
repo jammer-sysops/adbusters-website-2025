@@ -1,6 +1,6 @@
 ---
 title: "A Millennial’s Guide to Taking Back Control"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-22T22:56:50Z
 author: "Doug Haddow"
 featuredImage: "/images/articles/shopping-cart.png"
 ---

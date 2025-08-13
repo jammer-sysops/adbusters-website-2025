@@ -1,6 +1,6 @@
 ---
 title: "Kensho Moment, a Quantum Transformation"
-publishedOn: 2024-11-05
+publishedOn: 2022-07-07T18:40:27Z
 author: "<p><strong>Bruce Grierson</strong></p>"
 featuredImage: "/images/articles/green-cup-of-tea.jpg"
 ---

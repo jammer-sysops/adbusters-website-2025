@@ -1,6 +1,6 @@
 ---
 title: "A hinge moment for planet earth"
-publishedOn: 2025-01-07
+publishedOn: 2025-01-07T20:01:18Z
 author: "– Harry Flood"
 featuredImage: "/images/articles/a-hinge-moment.jpg"
 ---

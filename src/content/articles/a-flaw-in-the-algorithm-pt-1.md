@@ -1,6 +1,6 @@
 ---
 title: "A Flaw in the Algorithm (PT. 1)"
-publishedOn: 2024-11-05
+publishedOn: 2021-12-01T20:18:54Z
 author: "The Third Force"
 featuredImage: "/images/articles/truecost-parts-1-600x150.jpg"
 category: "Eco"

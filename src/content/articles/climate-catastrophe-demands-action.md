@@ -1,6 +1,6 @@
 ---
 title: "Climate Catastrophe Demands Action"
-publishedOn: 2024-11-05
+publishedOn: 2022-07-18T20:30:27Z
 author: "Third Force"
 featuredImage: "/images/articles/deflate-the-rich-600.jpg"
 category: "Eco"

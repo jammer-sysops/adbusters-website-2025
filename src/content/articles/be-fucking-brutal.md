@@ -1,6 +1,6 @@
 ---
 title: "Be Fucking Brutal"
-publishedOn: 2024-11-05
+publishedOn: 2019-03-26T18:45:53Z
 author: "Dayna Mahannah"
 featuredImage: "/images/articles/nan-goldin-2.jpg"
 category: "Psycho"

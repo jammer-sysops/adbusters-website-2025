@@ -1,6 +1,6 @@
 ---
 title: "A Fundamental Shift in the Nature of Value"
-publishedOn: 2024-11-05
+publishedOn: 2023-03-24T21:58:40Z
 author: "<p><strong id=\"\">— Excerpted from Adbusters’ forthcoming book.</strong></p><p id=\"\">Third Force</p>"
 featuredImage: "/images/articles/global-financial-flows-600.gif"
 ---

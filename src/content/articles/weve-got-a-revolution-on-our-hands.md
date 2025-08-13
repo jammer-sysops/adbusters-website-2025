@@ -1,6 +1,6 @@
 ---
 title: "We've Got a Revolution on Our Hands"
-publishedOn: 2024-11-05
+publishedOn: 2021-07-19T22:01:56Z
 author: "Harry Flood"
 category: "Anarcho"
 ---

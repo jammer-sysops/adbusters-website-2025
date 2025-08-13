@@ -1,6 +1,6 @@
 ---
 title: "Humanity’s Moment of Truth (PT. 10)"
-publishedOn: 2024-11-05
+publishedOn: 2021-12-01T20:28:58Z
 author: "The Third Force"
 featuredImage: "/images/articles/truecost-parts-10-600x150.jpg"
 category: "Eco"

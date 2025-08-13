@@ -1,6 +1,6 @@
 ---
 title: "Hope in the Time of COVID-19"
-publishedOn: 2024-11-05
+publishedOn: 2020-04-14T21:25:10Z
 author: "Thomas Homer-Dixon"
 featuredImage: "/images/articles/5e750c356d8075d8a1b4be22-planet-virus-900x900.jpeg"
 category: "Eco"

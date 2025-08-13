@@ -1,6 +1,6 @@
 ---
 title: "Outfox the algorithms! One man’s attempt to live one day absolutely free"
-publishedOn: 2024-11-05
+publishedOn: 2024-08-13T22:37:19Z
 author: "— Bruce Grierson"
 featuredImage: "/images/articles/outfox-the-algorithms.jpg"
 ---

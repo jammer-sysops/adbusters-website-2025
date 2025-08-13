@@ -1,6 +1,6 @@
 ---
 title: "Metameme Insurrection"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-22T20:24:11Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/parts-1.png"
 ---

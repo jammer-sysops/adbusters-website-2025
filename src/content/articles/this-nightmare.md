@@ -1,6 +1,6 @@
 ---
 title: "This Nightmare"
-publishedOn: 2024-11-05
+publishedOn: 2021-11-24T20:22:04Z
 author: "Third Force"
 featuredImage: "/images/articles/this-nightmare-600x300.jpg"
 category: "Corpo"

@@ -1,6 +1,6 @@
 ---
 title: "FREENET"
-publishedOn: 2024-11-05
+publishedOn: 2023-01-17T00:02:31Z
 author: "Third Force"
 featuredImage: "/images/articles/mlf-vintage-comic.gif"
 category: "Psycho"

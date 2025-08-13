@@ -1,6 +1,6 @@
 ---
 title: "Thus Spake Greta thung-Berg"
-publishedOn: 2024-11-05
+publishedOn: 2020-05-29T18:11:16Z
 author: "Jakob Hanschu"
 category: "Political"
 ---

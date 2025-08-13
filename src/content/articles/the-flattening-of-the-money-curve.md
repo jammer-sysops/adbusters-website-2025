@@ -1,6 +1,6 @@
 ---
 title: "The Flattening of the Money Curve"
-publishedOn: 2024-11-05
+publishedOn: 2021-10-29T18:45:29Z
 author: "Third Force"
 featuredImage: "/images/articles/the-great-global-potbang-450x595.jpg"
 category: "Econo"

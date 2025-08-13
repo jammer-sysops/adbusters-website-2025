@@ -1,6 +1,6 @@
 ---
 title: "Are you Woke?"
-publishedOn: 2024-11-05
+publishedOn: 2023-05-17T19:31:07Z
 author: "<p>from <a href=\"https://subscribe.adbusters.org/products/ab-166-pop-goes-the-old-world-order\">Adbusters #166</a></p>"
 featuredImage: "/images/articles/do-you-have-any-600.gif"
 ---

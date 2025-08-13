@@ -1,6 +1,6 @@
 ---
 title: "At my Quaker Meeting,"
-publishedOn: 2024-11-05
+publishedOn: 2020-11-06T18:03:17Z
 author: "Christine E. Black"
 featuredImage: "/images/articles/listening-to-the-silence-quaker-meeting-600x400.jpg"
 category: "Aesthetico"

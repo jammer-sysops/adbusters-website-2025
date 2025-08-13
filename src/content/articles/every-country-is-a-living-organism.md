@@ -1,6 +1,6 @@
 ---
 title: "Every Country is a Living Organism"
-publishedOn: 2024-11-05
+publishedOn: 2022-05-27T21:48:00Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/biopolitics-blank.jpg"
 category: "Political"

@@ -1,6 +1,6 @@
 ---
 title: "Spirit of '68"
-publishedOn: 2024-11-05
+publishedOn: 2022-01-19T20:41:35Z
 author: "The Third Force"
 featuredImage: "/images/articles/spirit-of-68-600x619.jpg"
 category: "Psycho"

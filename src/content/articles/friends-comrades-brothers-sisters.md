@@ -1,6 +1,6 @@
 ---
 title: "Friends, comrades, brothers, sisters"
-publishedOn: 2024-11-05
+publishedOn: 2019-11-05T00:45:49Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/5dc090f3b316f448c67c67d5-the-floor-is-lava-k.jpeg"
 ---

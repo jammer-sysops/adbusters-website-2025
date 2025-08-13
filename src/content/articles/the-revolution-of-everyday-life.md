@@ -1,6 +1,6 @@
 ---
 title: "The Revolution of Everyday Life"
-publishedOn: 2025-02-20
+publishedOn: 2023-05-29T18:21:27Z
 featuredImage: "/images/articles/042-043.jpg"
 ---
 

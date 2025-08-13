@@ -1,6 +1,6 @@
 ---
 title: "Monkey Shines"
-publishedOn: 2024-11-05
+publishedOn: 2019-11-13T00:52:13Z
 author: "Ben Gibson"
 featuredImage: "/images/articles/monkeyshines-web.jpg"
 ---

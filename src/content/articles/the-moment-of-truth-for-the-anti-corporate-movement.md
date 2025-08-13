@@ -1,6 +1,6 @@
 ---
 title: "#KILLACORP"
-publishedOn: 2024-11-05
+publishedOn: 2021-07-05T18:24:35Z
 author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force: Field Guide to a New World Order</em></p>"
 featuredImage: "/images/articles/killacorp-exxon-spoofad-600x400.jpg"
 ---

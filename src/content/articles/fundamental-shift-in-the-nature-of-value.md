@@ -1,6 +1,6 @@
 ---
 title: "A fundamental shift in the nature of value"
-publishedOn: 2024-11-05
+publishedOn: 2019-09-18T19:00:55Z
 author: "Max Haiven"
 ---
 

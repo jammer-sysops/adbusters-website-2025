@@ -1,6 +1,6 @@
 ---
 title: "Shock of the new"
-publishedOn: 2024-11-05
+publishedOn: 2019-11-13T00:57:42Z
 author: "Natalia Illyin"
 featuredImage: "/images/articles/kandinsky-web.jpg"
 ---

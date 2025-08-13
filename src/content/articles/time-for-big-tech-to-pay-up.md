@@ -1,6 +1,6 @@
 ---
 title: "Time For Big Tech to Pay Up"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-21T20:03:09Z
 author: "Tim Wu"
 featuredImage: "/images/articles/time-for-big-tech-to-pay-up-690x690.jpg"
 category: "Political"

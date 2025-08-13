@@ -1,6 +1,6 @@
 ---
 title: "AI Profiles Modi"
-publishedOn: 2024-11-05
+publishedOn: 2022-10-14T21:20:24Z
 author: "Artificial Mind"
 featuredImage: "/images/articles/ai-vs-modi.jpg"
 category: "Political"

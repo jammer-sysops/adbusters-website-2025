@@ -1,6 +1,6 @@
 ---
 title: "True-Cost Shipping (PT. 6)"
-publishedOn: 2024-11-05
+publishedOn: 2021-12-01T20:25:01Z
 author: "The Third Force"
 featuredImage: "/images/articles/truecost-parts-6-600x150.jpg"
 category: "Eco"

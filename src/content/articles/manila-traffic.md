@@ -1,6 +1,6 @@
 ---
 title: "Manila traffic"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-22T20:31:02Z
 author: "Rica Talay"
 featuredImage: "/images/articles/traffic.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Crisis of Confidence"
-publishedOn: 2024-11-05
+publishedOn: 2020-05-22T19:41:17Z
 author: "Justin Doyle"
 category: "Psycho"
 ---

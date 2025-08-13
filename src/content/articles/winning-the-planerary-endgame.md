@@ -1,6 +1,6 @@
 ---
 title: "Winning the Planerary Endgame"
-publishedOn: 2024-11-05
+publishedOn: 2022-12-15T18:22:13Z
 author: "Third Force"
 featuredImage: "/images/articles/burning-bull-600.gif"
 category: "Anarcho"

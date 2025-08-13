@@ -1,6 +1,6 @@
 ---
 title: "GEN Z — Will You Stop Eating Animals?"
-publishedOn: 2024-11-05
+publishedOn: 2022-02-28T23:26:22Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/gen-z-animals.png"
 category: "Political"

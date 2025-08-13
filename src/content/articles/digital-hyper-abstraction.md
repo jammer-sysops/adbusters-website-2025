@@ -1,6 +1,6 @@
 ---
 title: "Digital Hyper Abstraction"
-publishedOn: 2024-11-05
+publishedOn: 2020-09-16T20:38:28Z
 author: "The BlackSpot Collective"
 featuredImage: "/images/articles/abstract-digital-money-600x400.jpg"
 category: "Political"

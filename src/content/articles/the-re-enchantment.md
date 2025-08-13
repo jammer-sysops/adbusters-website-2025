@@ -1,6 +1,6 @@
 ---
 title: "The Re-Enchantment"
-publishedOn: 2024-11-05
+publishedOn: 2020-05-11T19:31:46Z
 author: "Trevor Clarke"
 category: "Political"
 ---

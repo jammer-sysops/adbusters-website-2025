@@ -1,6 +1,6 @@
 ---
 title: "Commander in Chief"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-09T22:40:50Z
 author: "John Bucher"
 featuredImage: "/images/articles/lookit-this-fucking-ponce.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Flames of Renewal - Part 3"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-03T22:07:35Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/cold-war-1000x563.jpg"
 category: "Political"

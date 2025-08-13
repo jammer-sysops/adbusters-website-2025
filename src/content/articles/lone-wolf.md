@@ -1,6 +1,6 @@
 ---
 title: "Lone Wolf"
-publishedOn: 2024-11-05
+publishedOn: 2022-11-07T21:35:28Z
 author: "KL"
 featuredImage: "/images/articles/is-world-revolution-possible-600.jpg"
 category: "Anarcho"

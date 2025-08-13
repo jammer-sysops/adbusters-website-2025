@@ -1,6 +1,6 @@
 ---
 title: "Think Big, Graeber's History of Humanity!"
-publishedOn: 2024-11-05
+publishedOn: 2022-03-25T19:29:16Z
 author: "– Kalle Lasn"
 featuredImage: "/images/articles/david-graeber-600x360.jpg"
 category: "Anarcho"

@@ -1,6 +1,6 @@
 ---
 title: "The Curse of the BlackSpot"
-publishedOn: 2024-11-05
+publishedOn: 2021-09-30T18:09:36Z
 author: "— The Third Force"
 featuredImage: "/images/articles/the-blackspot-298x265.png"
 category: "Anarcho"

@@ -1,6 +1,6 @@
 ---
 title: "The Total Elimination - of Tax Havens -"
-publishedOn: 2024-11-05
+publishedOn: 2021-10-12T19:16:14Z
 author: "Third Force"
 featuredImage: "/images/articles/elimination-of-tax-havens-600x455.jpg"
 category: "Political"

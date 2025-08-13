@@ -1,6 +1,6 @@
 ---
 title: "After learning my flight had been detained..."
-publishedOn: 2024-11-05
+publishedOn: 2020-06-17T19:05:56Z
 author: "Naomi Shihab Nye"
 category: "Psycho"
 ---

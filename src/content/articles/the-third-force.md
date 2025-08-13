@@ -1,6 +1,6 @@
 ---
 title: "Birth of the Third Force"
-publishedOn: 2024-11-05
+publishedOn: 2021-03-02T19:16:43Z
 author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force – Field Guide To a New World Order.</em></p>"
 featuredImage: "/images/articles/new-left-arrows-450x236.jpg"
 ---

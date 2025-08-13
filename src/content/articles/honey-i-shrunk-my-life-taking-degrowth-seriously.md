@@ -1,6 +1,6 @@
 ---
 title: "Honey, I shrunk my life - Taking “degrowth” seriously"
-publishedOn: 2024-11-05
+publishedOn: 2024-03-06T18:56:21Z
 author: "<p id=\"\">—Harry Flood</p>"
 featuredImage: "/images/articles/degrowth-1.jpg"
 ---

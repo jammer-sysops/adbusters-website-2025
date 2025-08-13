@@ -1,6 +1,6 @@
 ---
 title: "Long Justice"
-publishedOn: 2024-11-05
+publishedOn: 2023-06-26T19:26:51Z
 author: "Trevor Clarke"
 ---
 

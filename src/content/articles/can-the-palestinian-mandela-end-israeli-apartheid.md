@@ -1,6 +1,6 @@
 ---
 title: "Can the Palestinian Mandela End Israeli Apartheid?"
-publishedOn: 2024-11-05
+publishedOn: 2021-05-26T17:30:41Z
 author: "The Third Force"
 featuredImage: "/images/articles/the-palestinian-mandela-600x780.gif"
 category: "Political"

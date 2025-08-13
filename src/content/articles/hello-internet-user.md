@@ -1,6 +1,6 @@
 ---
 title: "Hello, internet user"
-publishedOn: 2024-11-05
+publishedOn: 2020-06-26T17:26:23Z
 author: "Dan Hackett"
 category: "Psycho"
 ---

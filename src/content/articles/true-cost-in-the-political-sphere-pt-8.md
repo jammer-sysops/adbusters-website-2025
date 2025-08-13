@@ -1,6 +1,6 @@
 ---
 title: "True Cost in the Political Sphere (PT. 8)"
-publishedOn: 2024-11-05
+publishedOn: 2021-12-01T20:26:51Z
 author: "The Third Force"
 featuredImage: "/images/articles/truecost-parts-8-600x150.jpg"
 category: "Eco"

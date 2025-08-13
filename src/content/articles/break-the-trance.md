@@ -1,6 +1,6 @@
 ---
 title: "Break the Trance"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-22T20:01:11Z
 author: "KL"
 featuredImage: "/images/articles/valentino.jpg"
 ---

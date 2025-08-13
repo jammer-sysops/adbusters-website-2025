@@ -1,6 +1,6 @@
 ---
 title: "Will Peace and Process Cost Us the Earth?"
-publishedOn: 2024-11-05
+publishedOn: 2022-03-14T23:18:51Z
 author: "<p>Text by<strong> Trevor Clarke</strong></p>"
 featuredImage: "/images/articles/overconsumption-equals-extinction-600x457.jpg"
 ---

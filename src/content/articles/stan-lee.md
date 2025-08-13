@@ -1,6 +1,6 @@
 ---
 title: "STAN LEE"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-10T23:13:36Z
 author: "James Callaghan"
 ---
 

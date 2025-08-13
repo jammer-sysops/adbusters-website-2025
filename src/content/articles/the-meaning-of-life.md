@@ -1,6 +1,6 @@
 ---
 title: "The Meaning of Life"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-12T23:14:04Z
 author: "Mark Greif"
 featuredImage: "/images/articles/coffee-on-the-table-500.jpg"
 category: "Aesthetico"

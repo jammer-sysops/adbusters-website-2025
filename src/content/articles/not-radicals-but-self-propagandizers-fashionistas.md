@@ -1,6 +1,6 @@
 ---
 title: "Not Radicals, But Self-Propagandizers & Fashionistas"
-publishedOn: 2024-11-05
+publishedOn: 2018-08-15T00:06:07Z
 author: "Robert Bohm"
 featuredImage: "/images/articles/inside-your-head-full-face.jpg"
 category: "Anarcho"

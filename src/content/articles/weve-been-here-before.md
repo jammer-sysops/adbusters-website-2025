@@ -1,6 +1,6 @@
 ---
 title: "We've Been Here Before"
-publishedOn: 2024-11-05
+publishedOn: 2023-06-14T20:21:39Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/the-next-hitler.jpg"
 ---

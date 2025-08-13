@@ -1,6 +1,6 @@
 ---
 title: "Herman Daly, father of ecological economics"
-publishedOn: 2024-11-05
+publishedOn: 2022-11-15T23:34:33Z
 author: "<p><strong>- Bruce Grierson</strong></p>"
 featuredImage: "/images/articles/herman-daly-brushes-600.gif"
 ---

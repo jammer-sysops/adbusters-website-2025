@@ -1,6 +1,6 @@
 ---
 title: "Shame"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-10T22:15:14Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/headline-shame.jpg"
 ---

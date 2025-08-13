@@ -1,6 +1,6 @@
 ---
 title: "There's a Peculiar Strangeness to Being Canadian in America"
-publishedOn: 2024-11-05
+publishedOn: 2023-03-31T17:23:40Z
 author: "<p><strong>Trevor Clarke</strong></p>"
 ---
 

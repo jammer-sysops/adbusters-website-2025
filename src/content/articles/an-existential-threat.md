@@ -1,6 +1,6 @@
 ---
 title: "An Existential Threat"
-publishedOn: 2024-11-05
+publishedOn: 2023-06-19T19:28:04Z
 author: "Adbusters #167"
 featuredImage: "/images/articles/an-existential-threat.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "The tyranny of the straight line"
-publishedOn: 2024-11-05
+publishedOn: 2022-07-05T20:44:58Z
 author: "Chiara Milford"
 featuredImage: "/images/articles/bored-in-the-city-600.jpg"
 category: "Web Exclusive"

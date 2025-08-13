@@ -1,6 +1,6 @@
 ---
 title: "ILSI, the International Life Sciences Institute, has your health in mind."
-publishedOn: 2024-11-05
+publishedOn: 2020-01-10T00:31:10Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/beet-the-system-800x1050.jpg"
 ---

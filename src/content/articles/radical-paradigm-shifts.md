@@ -1,6 +1,6 @@
 ---
 title: "Radical Paradigm Shifts"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-22T20:09:16Z
 author: "Asad Zaman"
 featuredImage: "/images/articles/barnbrook-ps.jpg"
 ---

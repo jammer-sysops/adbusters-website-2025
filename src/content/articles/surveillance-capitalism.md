@@ -1,6 +1,6 @@
 ---
 title: "Surveillance Capitalism"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-09T23:10:36Z
 author: "John Bucher"
 featuredImage: "/images/articles/clock.jpg"
 ---

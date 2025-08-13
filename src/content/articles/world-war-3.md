@@ -1,6 +1,6 @@
 ---
 title: "World War 3"
-publishedOn: 2024-11-05
+publishedOn: 2023-08-17T21:07:02Z
 author: "— The Third Force"
 featuredImage: "/images/articles/world-war-3-image.jpg"
 ---

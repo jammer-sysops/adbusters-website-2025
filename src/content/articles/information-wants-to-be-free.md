@@ -1,6 +1,6 @@
 ---
 title: "Information Wants to be Free"
-publishedOn: 2024-11-05
+publishedOn: 2020-05-11T18:55:09Z
 author: "John Garn"
 category: "Political"
 ---

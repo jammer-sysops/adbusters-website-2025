@@ -1,6 +1,6 @@
 ---
 title: "On the Brink of Revelation"
-publishedOn: 2024-11-05
+publishedOn: 2023-05-24T18:45:43Z
 author: "Rob Wipond"
 featuredImage: "/images/articles/on-the-brick-of-relevation.gif"
 ---

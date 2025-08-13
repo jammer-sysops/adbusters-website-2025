@@ -1,6 +1,6 @@
 ---
 title: "The Revolution Algorithm"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-10T22:16:36Z
 author: "Kalle Lasn"
 featuredImage: "/images/articles/steven-vogel-dystopia.jpg"
 ---

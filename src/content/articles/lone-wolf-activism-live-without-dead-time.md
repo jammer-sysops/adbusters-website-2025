@@ -1,6 +1,6 @@
 ---
 title: "Lone Wolf Activism — Live Without Dead Time"
-publishedOn: 2024-11-05
+publishedOn: 2024-05-29T20:44:18Z
 author: "— KL"
 featuredImage: "/images/articles/long-wolf-activisim.jpg"
 ---

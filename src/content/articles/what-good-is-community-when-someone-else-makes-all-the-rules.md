@@ -1,6 +1,6 @@
 ---
 title: "What Good Is ‘Community’ When Someone Else Makes All the Rules?"
-publishedOn: 2024-11-05
+publishedOn: 2018-09-21T22:40:53Z
 author: "Carina Chocano"
 featuredImage: "/images/articles/zuck-terminator-vision.jpg"
 category: "Psycho"

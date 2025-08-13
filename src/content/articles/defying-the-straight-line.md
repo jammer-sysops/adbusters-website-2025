@@ -1,6 +1,6 @@
 ---
 title: "Defying the Straight Line"
-publishedOn: 2024-11-05
+publishedOn: 2024-06-24T17:58:37Z
 author: "– Harry Flood"
 featuredImage: "/images/articles/defy-the-straight-line.jpg"
 ---

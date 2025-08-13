@@ -1,6 +1,6 @@
 ---
 title: "Paradigm Shift"
-publishedOn: 2024-11-05
+publishedOn: 2020-06-10T17:55:31Z
 author: "John Cassidy"
 category: "Political"
 ---

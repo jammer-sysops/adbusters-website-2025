@@ -1,6 +1,6 @@
 ---
 title: "Glitch"
-publishedOn: 2024-11-05
+publishedOn: 2020-07-09T23:01:32Z
 author: "Andrzej Marzec"
 featuredImage: "/images/articles/glitch-full-title.jpg"
 ---

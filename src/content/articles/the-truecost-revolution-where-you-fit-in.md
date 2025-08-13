@@ -1,6 +1,6 @@
 ---
 title: "The #TrueCost Revolution - Where You Fit In"
-publishedOn: 2024-11-05
+publishedOn: 2021-05-03T22:40:51Z
 author: "<p>— from Adbusters’ forthcoming book, <em>The Third Force: A Field Guide to a New World Order</em></p>"
 featuredImage: "/images/articles/where-you-fit-in-truecost-600x528.jpg"
 ---

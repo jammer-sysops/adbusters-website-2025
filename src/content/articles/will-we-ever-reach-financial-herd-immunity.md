@@ -1,6 +1,6 @@
 ---
 title: "Will We Ever Reach Financial Herd Immunity?"
-publishedOn: 2024-11-05
+publishedOn: 2022-04-27T20:46:50Z
 author: "Third Force"
 featuredImage: "/images/articles/april13-speculative-money-600.jpg"
 category: "Econo"

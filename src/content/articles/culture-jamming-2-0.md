@@ -1,6 +1,6 @@
 ---
 title: "Culture Jamming 2.0"
-publishedOn: 2024-11-05
+publishedOn: 2022-08-15T20:20:31Z
 author: "<p id=\"\">Bruce Grierson </p>"
 featuredImage: "/images/articles/tang-ping-lay-flat-600.jpg"
 ---

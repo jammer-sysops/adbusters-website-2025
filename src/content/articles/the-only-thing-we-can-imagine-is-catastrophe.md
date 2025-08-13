@@ -1,6 +1,6 @@
 ---
 title: "The only thing we can imagine is catastrophe"
-publishedOn: 2024-11-05
+publishedOn: 2022-08-17T19:45:30Z
 author: "David Graeber from Adbusters issue 97"
 featuredImage: "/images/articles/david-graeber-adb97-550px.jpg"
 category: "Eco"

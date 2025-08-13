@@ -1,6 +1,6 @@
 ---
 title: "AI Profiles Bolsonaro"
-publishedOn: 2024-11-05
+publishedOn: 2022-10-12T20:20:07Z
 author: "Artificial Mind"
 featuredImage: "/images/articles/ai-vs-bolsonaro.jpg"
 category: "Political"

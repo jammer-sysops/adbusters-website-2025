@@ -1,6 +1,6 @@
 ---
 title: "Flames of Renewal - Part 2"
-publishedOn: 2024-11-05
+publishedOn: 2020-02-03T22:06:23Z
 author: "Trevor Clarke"
 featuredImage: "/images/articles/mahatma-gandhi-1000x563.jpg"
 category: "Political"
