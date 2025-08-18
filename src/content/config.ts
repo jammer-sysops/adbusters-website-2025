@@ -22,7 +22,19 @@ const spoofAds = defineCollection({
   }),
 });
 
+const brushes = defineCollection({
+  type: 'content',
+  schema: z.object({
+    width: z.number(),
+    src: z.string(),
+    topPadding: z.number(),
+    bottomPadding: z.number(),
+    category: z.string(),
+  }),
+});
+
 export const collections = {
   articles,
   'spoof-ads': spoofAds,
+  brushes,
 };

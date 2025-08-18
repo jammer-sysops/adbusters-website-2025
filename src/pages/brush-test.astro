@@ -1,0 +1,101 @@
+---
+import Layout from '../layouts/Layout.astro';
+import RandomBrush from '../components/RandomBrush.astro';
+---
+
+<Layout title="Brush Separator Test">
+  <div class="container mx-auto p-8">
+    <h1 class="text-3xl font-bold mb-8">Random Brush Separator Test</h1>
+    
+    <div class="space-y-8">
+      <section>
+        <h2 class="text-xl mb-4">Multiple instances (should be unique):</h2>
+        <div class="space-y-4">
+          <div>
+            <p class="mb-2">Instance 1:</p>
+            <RandomBrush instanceId="test-1" className="w-full max-w-md" />
+          </div>
+          <div>
+            <p class="mb-2">Instance 2:</p>
+            <RandomBrush instanceId="test-2" className="w-full max-w-md" />
+          </div>
+          <div>
+            <p class="mb-2">Instance 3:</p>
+            <RandomBrush instanceId="test-3" className="w-full max-w-md" />
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="text-xl mb-4">Same instance ID (should be the same image):</h2>
+        <div class="space-y-4">
+          <div>
+            <p class="mb-2">Persistent Instance A:</p>
+            <RandomBrush instanceId="persistent-a" className="w-full max-w-md" />
+          </div>
+          <div>
+            <p class="mb-2">Persistent Instance A (duplicate):</p>
+            <RandomBrush instanceId="persistent-a" className="w-full max-w-md" />
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="text-xl mb-4">Different sizes:</h2>
+        <div class="space-y-4">
+          <div>
+            <p class="mb-2">Small:</p>
+            <RandomBrush instanceId="small" className="w-32" />
+          </div>
+          <div>
+            <p class="mb-2">Medium:</p>
+            <RandomBrush instanceId="medium" className="w-64" />
+          </div>
+          <div>
+            <p class="mb-2">Large:</p>
+            <RandomBrush instanceId="large" className="w-96" />
+          </div>
+        </div>
+
+      <section>
+        <h2 class="text-xl mb-4">Category filtering:</h2>
+        <div class="space-y-4">
+          <div>
+            <p class="mb-2">Separators only:</p>
+            <RandomBrush instanceId="sep-1" category="separator" />
+          </div>
+          <div>
+            <p class="mb-2">Headers only:</p>
+            <RandomBrush instanceId="header-1" category="header" />
+          </div>
+          <div>
+            <p class="mb-2">Accents only:</p>
+            <RandomBrush instanceId="accent-1" category="accent" />
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="text-xl mb-4">Optimized Loading Demo:</h2>
+        <p class="text-sm text-gray-600 mb-4">
+          Images use react-image with lazy loading, cache-first policy, loading states, and fallbacks.
+          Open DevTools Network tab to see optimization in action.
+        </p>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div>
+            <p class="mb-2 text-sm">Cached:</p>
+            <RandomBrush instanceId="cached-1" />
+          </div>
+          <div>
+            <p class="mb-2 text-sm">Lazy loaded:</p>
+            <RandomBrush instanceId="lazy-1" />
+          </div>
+          <div>
+            <p class="mb-2 text-sm">With fallback:</p>
+            <RandomBrush instanceId="fallback-1" />
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

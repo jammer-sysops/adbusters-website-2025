@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import RandomBrushReact from './RandomBrush.tsx';
+
+interface Props {
+  instanceId?: string;
+  category?: string;
+  className?: string;
+  alt?: string;
+}
+
+const { instanceId, category, className, alt } = Astro.props;
+
+// Get all brushes from content collection
+const brushesCollection = await getCollection('brushes');
+
+// Convert to plain objects for React component
+const brushes = brushesCollection.map((brush: any) => ({
+  id: brush.id,
+  data: {
+    width: brush.data.width,
+    src: brush.data.src,
+    topPadding: brush.data.topPadding,
+    bottomPadding: brush.data.bottomPadding,
+    category: brush.data.category,
+  }
+}));
+
+---
+
+<RandomBrushReact 
+  client:load 
+  brushes={brushes}
+  instanceId={instanceId}
+  category={category}
+  className={className}
+  alt={alt}
+/>
