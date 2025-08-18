@@ -1,5 +1,5 @@
 ---
-width: 900
+width: 100
 src: "/images/brushes-separators/brush-19.png"
 topPadding: 12
 bottomPadding: 32
