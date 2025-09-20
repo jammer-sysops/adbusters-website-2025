@@ -33,8 +33,21 @@ const brushes = defineCollection({
   }),
 });
 
+const migration = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string().optional(),
+    image: z.string().optional(),
+    read_more_url: z.string().optional(),
+    order: z.number().optional(),
+    visible: z.boolean().optional(),
+    keep_in_archive: z.boolean().optional(),
+  }),
+});
+
 export const collections = {
   articles,
   'spoof-ads': spoofAds,
   brushes,
+  migration,
 };

@@ -1,0 +1,113 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import Divider from '../../components/dividers/Divider.astro';
+
+const migrationEntries = await getCollection('migration');
+
+type MigrationEntry = (typeof migrationEntries)[number];
+type RenderedContent = Awaited<ReturnType<MigrationEntry['render']>>['Content'];
+
+type MigrationSection = {
+	id: string;
+	orderLabel: number | null;
+	title: string | null;
+	imageSrc: string | null;
+	imageAlt: string;
+	readMoreUrl: string | null;
+	Content: RenderedContent;
+};
+
+const homepageSections = migrationEntries
+	.filter((entry) => entry.id.startsWith('homepage/'))
+	.filter((entry) => entry.data.visible !== false)
+	.sort((a, b) => {
+		const orderA = a.data.order ?? Number.MAX_SAFE_INTEGER;
+		const orderB = b.data.order ?? Number.MAX_SAFE_INTEGER;
+		if (orderA !== orderB) {
+			return orderA - orderB;
+		}
+		return a.slug.localeCompare(b.slug);
+	});
+
+const sections: MigrationSection[] = await Promise.all(
+	homepageSections.map(async (entry) => {
+		const rendered = await entry.render();
+		const orderLabel = entry.data.order ?? null;
+		const title = entry.data.title?.trim() || null;
+		const imageSrc = entry.data.image?.trim() || null;
+		const readMoreUrl = entry.data.read_more_url?.trim() || null;
+		const fallbackAlt = orderLabel !== null ? `Homepage migration block ${orderLabel}` : 'Homepage migration block';
+
+		return {
+			id: entry.slug.replace(/^homepage\//, ''),
+			orderLabel,
+			title,
+			imageSrc,
+			imageAlt: title ?? fallbackAlt,
+			readMoreUrl,
+			Content: rendered.Content,
+		};
+	})
+);
+---
+
+<Layout>
+	<main class="bg-white">
+		<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16 space-y-16">
+			{sections.map((section, index) => {
+				const { id, orderLabel, title, imageSrc, imageAlt, readMoreUrl, Content } = section;
+				const hasHeader = Boolean(title || imageSrc);
+				const shouldLinkImage = Boolean(imageSrc && readMoreUrl);
+				const showReadMoreLink = Boolean(readMoreUrl && !imageSrc);
+				const dividerKey = `migration-homepage-divider-${id}`;
+
+				const imageNode = imageSrc ? (
+					<img
+						src={imageSrc}
+						alt={imageAlt}
+						class="w-full rounded-md object-cover"
+						loading="lazy"
+					/>
+				) : null;
+
+				return [
+					index > 0 ? (
+						<Divider instanceKey={dividerKey} class="mx-auto w-48 max-w-full" />
+					) : null,
+					<article id={id} class="article-prose space-y-6" data-order={orderLabel ?? undefined}>
+						{hasHeader ? (
+							<header class="space-y-4">
+								{orderLabel ? (
+									<p class="text-sm font-medium uppercase tracking-wide text-slate-500">
+										Section {orderLabel}
+									</p>
+								) : null}
+								{title ? (
+									<h2 class="text-3xl font-semibold text-slate-900">{title}</h2>
+								) : null}
+								{imageNode
+									? shouldLinkImage
+										? (
+											<a href={readMoreUrl} class="block" rel="noopener">
+												{imageNode}
+											</a>
+										)
+										: <div>{imageNode}</div>
+									: null}
+								{showReadMoreLink ? (
+									<p>
+										<a href={readMoreUrl} class="text-blue-600 underline hover:text-blue-800" rel="noopener">
+											Read more
+										</a>
+									</p>
+								) : null}
+							</header>
+						) : null}
+						<Content />
+					</article>,
+				];
+			})}
+		</div>
+	</main>
+</Layout>

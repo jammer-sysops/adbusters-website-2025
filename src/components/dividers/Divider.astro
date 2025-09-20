@@ -1,0 +1,35 @@
+---
+import type { HTMLAttributes } from 'astro/types';
+import { claimDivider } from '../../utils/dividers';
+
+interface Props extends HTMLAttributes<'img'> {
+  seedKey?: string;
+  dividerId?: string;
+  instanceKey?: string;
+  altText?: string;
+}
+
+const { seedKey, dividerId, instanceKey, altText, ...rest } = Astro.props as Props;
+
+const claimed = claimDivider(Astro, {
+  seedKey,
+  preferredId: dividerId,
+  instanceKey,
+});
+
+if (!claimed && import.meta.env.DEV) {
+  console.warn('Divider: No assets available to render.');
+}
+---
+
+{claimed ? (
+  <img
+    src={claimed.src.src}
+    width={claimed.src.width ?? undefined}
+    height={claimed.src.height ?? undefined}
+    alt={altText ?? claimed.alt}
+    loading="lazy"
+    decoding="async"
+    {...rest}
+  />
+) : null}

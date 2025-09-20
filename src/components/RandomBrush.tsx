@@ -1,9 +1,8 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import { Img } from 'react-image';
 
 // Global state to track used brushes across all instances
 const globalUsedBrushes = new Set<string>();
-let globalBrushPool: BrushData[] = [];
 
 interface BrushData {
   id: string;
@@ -36,18 +35,18 @@ export default function RandomBrush({
   const currentInstanceId = instanceRef.current;
 
   // Get or set persisted brush for this instance
-  const getPersistedBrush = (): string | null => {
+  const getPersistedBrush = useCallback((): string | null => {
     if (typeof window === 'undefined') return null;
     return localStorage.getItem(`random-brush-${currentInstanceId}`);
-  };
+  }, [currentInstanceId]);
 
-  const setPersistedBrush = (brushId: string) => {
+  const setPersistedBrush = useCallback((brushId: string) => {
     if (typeof window === 'undefined') return;
     localStorage.setItem(`random-brush-${currentInstanceId}`, brushId);
-  };
+  }, [currentInstanceId]);
 
   // Select a random unused brush
-  const selectRandomBrush = (): BrushData => {
+  const selectRandomBrush = useCallback((): BrushData => {
     // Filter brushes by category if specified
     let availableBrushes = category 
       ? brushes.filter(brush => brush.data.category === category)
@@ -74,14 +73,11 @@ export default function RandomBrush({
     globalUsedBrushes.add(selectedBrush.id);
 
     return selectedBrush;
-  };
+  }, [brushes, category]);
 
   useEffect(() => {
-    // Initialize global pool 
-    globalBrushPool = brushes;
-
     // Try to get persisted brush first
-    let persistedBrushId = getPersistedBrush();
+    const persistedBrushId = getPersistedBrush();
     let brushToUse: BrushData;
 
     if (persistedBrushId) {
@@ -111,7 +107,7 @@ export default function RandomBrush({
         globalUsedBrushes.delete(brushToUse.id);
       }
     };
-  }, [currentInstanceId, category]); // Remove brushes dependency to prevent re-runs
+  }, [brushes, category, currentInstanceId, getPersistedBrush, selectRandomBrush, setPersistedBrush]);
 
   if (!selectedBrush) {
     return null;
