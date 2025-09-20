@@ -1,0 +1,83 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import MigrationDashboard from '../../components/dev/MigrationDashboard';
+import { getCollection } from 'astro:content';
+
+export const prerender = import.meta.env.DEV;
+
+const isDev = import.meta.env.DEV;
+
+const toExcerpt = (markdown: string) => {
+	if (!markdown) return '';
+	const withoutCode = markdown.replace(/```[\s\S]*?```/g, ' ');
+	const withoutImages = withoutCode.replace(/!\[[^\]]*\]\([^)]*\)/g, ' ');
+	const withoutLinks = withoutImages.replace(/\[([^\]]*)\]\([^)]*\)/g, '$1');
+	const withoutMarkup = withoutLinks.replace(/[-#*_>`~]/g, ' ');
+	const collapsed = withoutMarkup.replace(/\s+/g, ' ').trim();
+	if (!collapsed) return '';
+	const preview = collapsed.slice(0, 160);
+	return collapsed.length > 160 ? `${preview.trim()}…` : preview.trim();
+};
+
+let items: Array<{
+	id: string;
+	slug: string;
+	displaySlug: string;
+	title?: string;
+	image?: string;
+	readMoreUrl?: string;
+	body: string;
+	excerpt: string;
+	order?: number;
+	visible: boolean;
+	keepInArchive: boolean;
+}> = [];
+
+if (isDev) {
+	const migrationEntries = await getCollection('migration');
+	items = migrationEntries
+		.filter((entry) => entry.id.startsWith('homepage/'))
+		.sort((a, b) => {
+			const orderA = a.data.order ?? Number.MAX_SAFE_INTEGER;
+			const orderB = b.data.order ?? Number.MAX_SAFE_INTEGER;
+			if (orderA !== orderB) {
+				return orderA - orderB;
+			}
+			return a.slug.localeCompare(b.slug);
+		})
+		.map((entry) => ({
+			id: entry.id,
+			slug: entry.slug.replace(/^homepage\//, ''),
+			displaySlug: entry.slug,
+			title: entry.data.title,
+			image: entry.data.image,
+			readMoreUrl: entry.data.read_more_url,
+			body: entry.body ?? '',
+			excerpt: toExcerpt(entry.body ?? ''),
+			order: entry.data.order,
+			visible: entry.data.visible !== false,
+			keepInArchive: entry.data.keep_in_archive !== false,
+		}));
+}
+---
+
+{!isDev ? (
+	<Layout>
+		<main class="bg-white">
+			<div class="mx-auto max-w-3xl px-4 py-24 text-center text-slate-600">
+				<h1 class="text-3xl font-semibold text-slate-900">Unavailable</h1>
+				<p class="mt-4 text-base">
+					The development dashboard can only be viewed while running the Astro dev server.
+				</p>
+			</div>
+		</main>
+	</Layout>
+) : (
+	<Layout>
+		<main class="min-h-screen bg-slate-100 py-12">
+			<div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
+				<MigrationDashboard items={items} client:load />
+			</div>
+		</main>
+	</Layout>
+)}
